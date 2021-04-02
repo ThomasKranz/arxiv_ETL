@@ -1,25 +1,25 @@
 subject,frequency
-Machine Learning (cs.LG),799
-Artificial Intelligence (cs.AI),534
-Computer Vision and Pattern Recognition (cs.CV),414
-Computation and Language (cs.CL),305
-Robotics (cs.RO),155
+Machine Learning (cs.LG),812
+Artificial Intelligence (cs.AI),541
+Computer Vision and Pattern Recognition (cs.CV),423
+Computation and Language (cs.CL),313
+Robotics (cs.RO),159
 Cryptography and Security (cs.CR),58
 Information Retrieval (cs.IR),49
-Computers and Society (cs.CY),46
-Human-Computer Interaction (cs.HC),45
+Computers and Society (cs.CY),48
+Human-Computer Interaction (cs.HC),46
 Software Engineering (cs.SE),38
 Neural and Evolutionary Computing (cs.NE),36
-Machine Learning (stat.ML),30
-Sound (cs.SD),28
+Machine Learning (stat.ML),31
+Sound (cs.SD),29
 Multiagent Systems (cs.MA),26
 Signal Processing (eess.SP),22
 Social and Information Networks (cs.SI),21
+Systems and Control (eess.SY),20
 Networking and Internet Architecture (cs.NI),19
-Systems and Control (eess.SY),18
-Image and Video Processing (eess.IV),17
+Image and Video Processing (eess.IV),18
 "Distributed, Parallel, and Cluster Computing (cs.DC)",17
-Audio and Speech Processing (eess.AS),13
+Audio and Speech Processing (eess.AS),14
 Information Theory (cs.IT),13
 Computer Science and Game Theory (cs.GT),13
 Optimization and Control (math.OC),13
@@ -32,9 +32,9 @@ Hardware Architecture (cs.AR),6
 Genomics (q-bio.GN),5
 Data Structures and Algorithms (cs.DS),5
 Quantitative Methods (q-bio.QM),5
+Computational Physics (physics.comp-ph),4
 Instrumentation and Methods for Astrophysics (astro-ph.IM),4
 Emerging Technologies (cs.ET),3
-Computational Physics (physics.comp-ph),3
 Computational Complexity (cs.CC),3
 Medical Physics (physics.med-ph),3
 Materials Science (cond-mat.mtrl-sci),3
@@ -45,11 +45,11 @@ Statistical Finance (q-fin.ST),2
 Programming Languages (cs.PL),2
 Statistics Theory (math.ST),2
 Applications (stat.AP),2
+Trading and Market Microstructure (q-fin.TR),2
 Atmospheric and Oceanic Physics (physics.ao-ph),2
 Audio and Speech Processing (eess.AS) ,2
 Digital Libraries (cs.DL),2
 Discrete Mathematics (cs.DM),2
-Materials Science (cond-mat.mtrl-sci) ,1
 Dynamical Systems (math.DS),1
 Biomolecules (q-bio.BM),1
 Category Theory (math.CT),1
@@ -58,7 +58,7 @@ Combinatorics (math.CO),1
 "Computational Engineering, Finance, and Science (cs.CE)",1
 "Computational Engineering, Finance, and Science (cs.CE) ",1
 "Data Analysis, Statistics and Probability (physics.data-an)",1
-Earth and Planetary Astrophysics (astro-ph.EP),1
+Materials Science (cond-mat.mtrl-sci) ,1
 Logic (math.LO),1
 Populations and Evolution (q-bio.PE),1
 Other Statistics (stat.OT) ,1
@@ -71,4 +71,4 @@ General Economics (econ.GN),1
 Geophysics (physics.geo-ph),1
 Graphics (cs.GR),1
 History and Philosophy of Physics (physics.hist-ph),1
-Trading and Market Microstructure (q-fin.TR),1
+Earth and Planetary Astrophysics (astro-ph.EP),1
