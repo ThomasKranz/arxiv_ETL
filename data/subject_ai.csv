@@ -1,20 +1,20 @@
 subject,frequency
-Machine Learning (cs.LG),896
-Artificial Intelligence (cs.AI),606
-Computer Vision and Pattern Recognition (cs.CV),501
-Computation and Language (cs.CL),364
-Robotics (cs.RO),177
-Cryptography and Security (cs.CR),62
+Machine Learning (cs.LG),907
+Artificial Intelligence (cs.AI),613
+Computer Vision and Pattern Recognition (cs.CV),508
+Computation and Language (cs.CL),373
+Robotics (cs.RO),179
+Cryptography and Security (cs.CR),64
 Computers and Society (cs.CY),56
 Information Retrieval (cs.IR),53
 Human-Computer Interaction (cs.HC),50
 Software Engineering (cs.SE),42
-Neural and Evolutionary Computing (cs.NE),39
-Sound (cs.SD),35
+Neural and Evolutionary Computing (cs.NE),40
+Sound (cs.SD),36
 Machine Learning (stat.ML),34
 Multiagent Systems (cs.MA),26
+Social and Information Networks (cs.SI),26
 Systems and Control (eess.SY),26
-Social and Information Networks (cs.SI),25
 Signal Processing (eess.SP),25
 Networking and Internet Architecture (cs.NI),22
 "Distributed, Parallel, and Cluster Computing (cs.DC)",20
@@ -22,37 +22,38 @@ Image and Video Processing (eess.IV),18
 Audio and Speech Processing (eess.AS),16
 Computer Science and Game Theory (cs.GT),16
 Optimization and Control (math.OC),14
-Quantum Physics (quant-ph),13
 Information Theory (cs.IT),13
+Quantum Physics (quant-ph),13
 Databases (cs.DB),11
 Logic in Computer Science (cs.LO),9
 Neurons and Cognition (q-bio.NC),9
 Multimedia (cs.MM),8
 Hardware Architecture (cs.AR),7
+Genomics (q-bio.GN),5
 Data Structures and Algorithms (cs.DS),5
 Quantitative Methods (q-bio.QM),5
-Genomics (q-bio.GN),5
-Computational Complexity (cs.CC),4
 Instrumentation and Methods for Astrophysics (astro-ph.IM),4
-Digital Libraries (cs.DL),4
+Computational Complexity (cs.CC),4
 Computational Physics (physics.comp-ph),4
+Statistics Theory (math.ST),4
+Digital Libraries (cs.DL),4
 Methodology (stat.ME),3
 Materials Science (cond-mat.mtrl-sci),3
 Emerging Technologies (cs.ET),3
 Medical Physics (physics.med-ph),3
 Statistical Finance (q-fin.ST),3
-Statistics Theory (math.ST),3
 Numerical Analysis (math.NA),2
 Other Computer Science (cs.OH),2
 Portfolio Management (q-fin.PM),2
 Programming Languages (cs.PL),2
 Applications (stat.AP),2
 Trading and Market Microstructure (q-fin.TR),2
-Discrete Mathematics (cs.DM),2
 Atmospheric and Oceanic Physics (physics.ao-ph),2
 Audio and Speech Processing (eess.AS) ,2
 Graphics (cs.GR),2
 Geophysics (physics.geo-ph),2
+Discrete Mathematics (cs.DM),2
+"Data Analysis, Statistics and Probability (physics.data-an)",1
 Biomolecules (q-bio.BM),1
 Category Theory (math.CT),1
 Solar and Stellar Astrophysics (astro-ph.SR),1
@@ -60,8 +61,8 @@ Cellular Automata and Lattice Gases (nlin.CG),1
 Combinatorics (math.CO),1
 "Computational Engineering, Finance, and Science (cs.CE)",1
 "Computational Engineering, Finance, and Science (cs.CE) ",1
+Risk Management (q-fin.RM),1
 Computational Geometry (cs.CG),1
-"Data Analysis, Statistics and Probability (physics.data-an)",1
 Materials Science (cond-mat.mtrl-sci) ,1
 Logic (math.LO),1
 Populations and Evolution (q-bio.PE),1
