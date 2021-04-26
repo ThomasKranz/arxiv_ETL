@@ -1,20 +1,20 @@
 subject,frequency
-Machine Learning (cs.LG),971
-Artificial Intelligence (cs.AI),679
-Computer Vision and Pattern Recognition (cs.CV),563
-Computation and Language (cs.CL),460
+Machine Learning (cs.LG),975
+Artificial Intelligence (cs.AI),685
+Computer Vision and Pattern Recognition (cs.CV),569
+Computation and Language (cs.CL),462
 Robotics (cs.RO),190
-Cryptography and Security (cs.CR),73
+Cryptography and Security (cs.CR),75
 Information Retrieval (cs.IR),62
 Computers and Society (cs.CY),57
 Human-Computer Interaction (cs.HC),52
-Neural and Evolutionary Computing (cs.NE),46
+Neural and Evolutionary Computing (cs.NE),47
+Sound (cs.SD),42
 Software Engineering (cs.SE),42
-Sound (cs.SD),41
 Machine Learning (stat.ML),36
-Social and Information Networks (cs.SI),28
 Signal Processing (eess.SP),28
 Systems and Control (eess.SY),28
+Social and Information Networks (cs.SI),28
 Multiagent Systems (cs.MA),27
 "Distributed, Parallel, and Cluster Computing (cs.DC)",23
 Networking and Internet Architecture (cs.NI),22
@@ -22,57 +22,57 @@ Audio and Speech Processing (eess.AS),19
 Image and Video Processing (eess.IV),18
 Computer Science and Game Theory (cs.GT),17
 Quantum Physics (quant-ph),15
-Optimization and Control (math.OC),14
 Information Theory (cs.IT),14
+Optimization and Control (math.OC),14
 Databases (cs.DB),11
 Neurons and Cognition (q-bio.NC),10
 Logic in Computer Science (cs.LO),9
-Hardware Architecture (cs.AR),8
 Multimedia (cs.MM),8
+Hardware Architecture (cs.AR),8
 Digital Libraries (cs.DL),5
 Genomics (q-bio.GN),5
 Data Structures and Algorithms (cs.DS),5
-Statistics Theory (math.ST),5
 Quantitative Methods (q-bio.QM),5
-Instrumentation and Methods for Astrophysics (astro-ph.IM),4
+Statistics Theory (math.ST),5
 Methodology (stat.ME),4
 Computational Physics (physics.comp-ph),4
 Computational Complexity (cs.CC),4
-Materials Science (cond-mat.mtrl-sci),3
-Emerging Technologies (cs.ET),3
+Instrumentation and Methods for Astrophysics (astro-ph.IM),4
 Medical Physics (physics.med-ph),3
+Materials Science (cond-mat.mtrl-sci),3
 Statistical Finance (q-fin.ST),3
-Numerical Analysis (math.NA),2
-Other Computer Science (cs.OH),2
-Portfolio Management (q-fin.PM),2
-Programming Languages (cs.PL),2
-Applications (stat.AP),2
+Applications (stat.AP),3
+Emerging Technologies (cs.ET),3
 Trading and Market Microstructure (q-fin.TR),2
-Atmospheric and Oceanic Physics (physics.ao-ph),2
+Portfolio Management (q-fin.PM),2
+Other Computer Science (cs.OH),2
+Discrete Mathematics (cs.DM),2
+Numerical Analysis (math.NA),2
+Programming Languages (cs.PL),2
+Geophysics (physics.geo-ph),2
 Audio and Speech Processing (eess.AS) ,2
 Graphics (cs.GR),2
-Geophysics (physics.geo-ph),2
-Discrete Mathematics (cs.DM),2
-"Data Analysis, Statistics and Probability (physics.data-an)",1
-Biomolecules (q-bio.BM),1
+Atmospheric and Oceanic Physics (physics.ao-ph),2
 Category Theory (math.CT),1
 Solar and Stellar Astrophysics (astro-ph.SR),1
-Cellular Automata and Lattice Gases (nlin.CG),1
+Biomolecules (q-bio.BM),1
+"Data Analysis, Statistics and Probability (physics.data-an)",1
 Combinatorics (math.CO),1
 "Computational Engineering, Finance, and Science (cs.CE)",1
 "Computational Engineering, Finance, and Science (cs.CE) ",1
 Risk Management (q-fin.RM),1
 Computational Geometry (cs.CG),1
-Materials Science (cond-mat.mtrl-sci) ,1
+Cellular Automata and Lattice Gases (nlin.CG),1
 Logic (math.LO),1
 Populations and Evolution (q-bio.PE),1
-Other Statistics (stat.OT) ,1
-Earth and Planetary Astrophysics (astro-ph.EP),1
-Fluid Dynamics (physics.flu-dyn),1
+History and Philosophy of Physics (physics.hist-ph),1
 Optics (physics.optics),1
 Operating Systems (cs.OS),1
+Dynamical Systems (math.DS),1
+Earth and Planetary Astrophysics (astro-ph.EP),1
+Fluid Dynamics (physics.flu-dyn),1
 Formal Languages and Automata Theory (cs.FL),1
 General Economics (econ.GN),1
+Materials Science (cond-mat.mtrl-sci) ,1
 High Energy Physics - Theory (hep-th),1
-History and Philosophy of Physics (physics.hist-ph),1
-Dynamical Systems (math.DS),1
+Other Statistics (stat.OT) ,1
