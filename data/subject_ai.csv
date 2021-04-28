@@ -1,29 +1,29 @@
 subject,frequency
-Machine Learning (cs.LG),988
-Artificial Intelligence (cs.AI),698
-Computer Vision and Pattern Recognition (cs.CV),581
+Machine Learning (cs.LG),999
+Artificial Intelligence (cs.AI),707
+Computer Vision and Pattern Recognition (cs.CV),582
 Computation and Language (cs.CL),465
-Robotics (cs.RO),190
-Cryptography and Security (cs.CR),75
+Robotics (cs.RO),191
+Cryptography and Security (cs.CR),78
 Information Retrieval (cs.IR),63
 Computers and Society (cs.CY),60
-Human-Computer Interaction (cs.HC),52
+Human-Computer Interaction (cs.HC),53
 Neural and Evolutionary Computing (cs.NE),47
-Sound (cs.SD),43
+Sound (cs.SD),44
 Software Engineering (cs.SE),42
-Machine Learning (stat.ML),36
+Machine Learning (stat.ML),37
 Signal Processing (eess.SP),29
 Systems and Control (eess.SY),28
 Social and Information Networks (cs.SI),28
 Multiagent Systems (cs.MA),27
-"Distributed, Parallel, and Cluster Computing (cs.DC)",23
+"Distributed, Parallel, and Cluster Computing (cs.DC)",24
 Networking and Internet Architecture (cs.NI),22
+Computer Science and Game Theory (cs.GT),19
 Audio and Speech Processing (eess.AS),19
-Computer Science and Game Theory (cs.GT),18
 Image and Video Processing (eess.IV),18
-Quantum Physics (quant-ph),15
+Quantum Physics (quant-ph),16
 Information Theory (cs.IT),15
-Optimization and Control (math.OC),14
+Optimization and Control (math.OC),15
 Databases (cs.DB),11
 Neurons and Cognition (q-bio.NC),10
 Multimedia (cs.MM),9
@@ -44,22 +44,22 @@ Statistical Finance (q-fin.ST),3
 Applications (stat.AP),3
 Emerging Technologies (cs.ET),3
 Graphics (cs.GR),3
+Geophysics (physics.geo-ph),3
 Trading and Market Microstructure (q-fin.TR),2
 Portfolio Management (q-fin.PM),2
 Other Computer Science (cs.OH),2
 Discrete Mathematics (cs.DM),2
 Numerical Analysis (math.NA),2
 Programming Languages (cs.PL),2
-Geophysics (physics.geo-ph),2
 Audio and Speech Processing (eess.AS) ,2
 Atmospheric and Oceanic Physics (physics.ao-ph),2
 Solar and Stellar Astrophysics (astro-ph.SR),1
-Category Theory (math.CT),1
 "Data Analysis, Statistics and Probability (physics.data-an)",1
 Combinatorics (math.CO),1
-Biomolecules (q-bio.BM),1
+Category Theory (math.CT),1
 "Computational Engineering, Finance, and Science (cs.CE)",1
 "Computational Engineering, Finance, and Science (cs.CE) ",1
+Biomolecules (q-bio.BM),1
 Risk Management (q-fin.RM),1
 Computational Geometry (cs.CG),1
 Cellular Automata and Lattice Gases (nlin.CG),1
