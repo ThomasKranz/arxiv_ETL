@@ -1,30 +1,30 @@
 subject,frequency
-Machine Learning (cs.LG),1022
-Artificial Intelligence (cs.AI),722
-Computer Vision and Pattern Recognition (cs.CV),608
-Computation and Language (cs.CL),477
-Robotics (cs.RO),194
+Machine Learning (cs.LG),1038
+Artificial Intelligence (cs.AI),739
+Computer Vision and Pattern Recognition (cs.CV),618
+Computation and Language (cs.CL),485
+Robotics (cs.RO),198
 Cryptography and Security (cs.CR),79
-Information Retrieval (cs.IR),67
-Computers and Society (cs.CY),60
+Information Retrieval (cs.IR),70
+Computers and Society (cs.CY),62
 Human-Computer Interaction (cs.HC),56
+Sound (cs.SD),47
 Neural and Evolutionary Computing (cs.NE),47
-Sound (cs.SD),45
 Software Engineering (cs.SE),43
-Machine Learning (stat.ML),37
+Machine Learning (stat.ML),38
+Multiagent Systems (cs.MA),30
+Systems and Control (eess.SY),29
 Signal Processing (eess.SP),29
-Systems and Control (eess.SY),28
 Social and Information Networks (cs.SI),28
-Multiagent Systems (cs.MA),28
-"Distributed, Parallel, and Cluster Computing (cs.DC)",26
-Networking and Internet Architecture (cs.NI),22
-Audio and Speech Processing (eess.AS),21
-Computer Science and Game Theory (cs.GT),20
+"Distributed, Parallel, and Cluster Computing (cs.DC)",27
+Networking and Internet Architecture (cs.NI),24
+Audio and Speech Processing (eess.AS),22
+Computer Science and Game Theory (cs.GT),21
 Image and Video Processing (eess.IV),19
 Quantum Physics (quant-ph),17
-Information Theory (cs.IT),16
+Information Theory (cs.IT),17
 Optimization and Control (math.OC),15
-Databases (cs.DB),11
+Databases (cs.DB),13
 Neurons and Cognition (q-bio.NC),10
 Logic in Computer Science (cs.LO),10
 Multimedia (cs.MM),9
@@ -46,34 +46,35 @@ Applications (stat.AP),3
 Graphics (cs.GR),3
 Geophysics (physics.geo-ph),3
 Trading and Market Microstructure (q-fin.TR),2
-Programming Languages (cs.PL),2
+Fluid Dynamics (physics.flu-dyn),2
 Other Computer Science (cs.OH),2
 Discrete Mathematics (cs.DM),2
 Numerical Analysis (math.NA),2
+Programming Languages (cs.PL),2
 Portfolio Management (q-fin.PM),2
 Audio and Speech Processing (eess.AS) ,2
 Atmospheric and Oceanic Physics (physics.ao-ph),2
 Solar and Stellar Astrophysics (astro-ph.SR),1
-Cellular Automata and Lattice Gases (nlin.CG),1
 Category Theory (math.CT),1
+Combinatorics (math.CO),1
 Biomolecules (q-bio.BM),1
 "Computational Engineering, Finance, and Science (cs.CE)",1
 "Computational Engineering, Finance, and Science (cs.CE) ",1
 Risk Management (q-fin.RM),1
 Computational Geometry (cs.CG),1
 "Data Analysis, Statistics and Probability (physics.data-an)",1
-Combinatorics (math.CO),1
+Cellular Automata and Lattice Gases (nlin.CG),1
 Logic (math.LO),1
 Populations and Evolution (q-bio.PE),1
+Physics and Society (physics.soc-ph),1
 History and Philosophy of Physics (physics.hist-ph),1
-Other Statistics (stat.OT) ,1
 Optics (physics.optics),1
 Operating Systems (cs.OS),1
 Dynamical Systems (math.DS),1
 Earth and Planetary Astrophysics (astro-ph.EP),1
-Fluid Dynamics (physics.flu-dyn),1
 Formal Languages and Automata Theory (cs.FL),1
 General Economics (econ.GN),1
+Mathematical Software (cs.MS),1
 Materials Science (cond-mat.mtrl-sci) ,1
 High Energy Physics - Theory (hep-th),1
-Physics and Society (physics.soc-ph),1
+Other Statistics (stat.OT) ,1
