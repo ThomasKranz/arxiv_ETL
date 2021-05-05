@@ -1,42 +1,42 @@
 subject,frequency
-Machine Learning (cs.LG),1038
-Artificial Intelligence (cs.AI),739
-Computer Vision and Pattern Recognition (cs.CV),618
-Computation and Language (cs.CL),485
+Machine Learning (cs.LG),1045
+Artificial Intelligence (cs.AI),751
+Computer Vision and Pattern Recognition (cs.CV),621
+Computation and Language (cs.CL),486
 Robotics (cs.RO),198
-Cryptography and Security (cs.CR),79
-Information Retrieval (cs.IR),70
+Cryptography and Security (cs.CR),81
+Information Retrieval (cs.IR),71
 Computers and Society (cs.CY),62
 Human-Computer Interaction (cs.HC),56
-Sound (cs.SD),47
+Sound (cs.SD),48
 Neural and Evolutionary Computing (cs.NE),47
-Software Engineering (cs.SE),43
+Software Engineering (cs.SE),44
 Machine Learning (stat.ML),38
-Multiagent Systems (cs.MA),30
+Multiagent Systems (cs.MA),31
 Systems and Control (eess.SY),29
 Signal Processing (eess.SP),29
 Social and Information Networks (cs.SI),28
 "Distributed, Parallel, and Cluster Computing (cs.DC)",27
 Networking and Internet Architecture (cs.NI),24
+Computer Science and Game Theory (cs.GT),22
 Audio and Speech Processing (eess.AS),22
-Computer Science and Game Theory (cs.GT),21
 Image and Video Processing (eess.IV),19
 Quantum Physics (quant-ph),17
 Information Theory (cs.IT),17
 Optimization and Control (math.OC),15
 Databases (cs.DB),13
-Neurons and Cognition (q-bio.NC),10
+Hardware Architecture (cs.AR),10
 Logic in Computer Science (cs.LO),10
+Neurons and Cognition (q-bio.NC),10
 Multimedia (cs.MM),9
-Hardware Architecture (cs.AR),9
 Genomics (q-bio.GN),6
 Digital Libraries (cs.DL),6
 Data Structures and Algorithms (cs.DS),5
+Methodology (stat.ME),5
 Quantitative Methods (q-bio.QM),5
 Statistics Theory (math.ST),5
 Computational Complexity (cs.CC),5
 Instrumentation and Methods for Astrophysics (astro-ph.IM),5
-Methodology (stat.ME),4
 Emerging Technologies (cs.ET),4
 Computational Physics (physics.comp-ph),4
 Statistical Finance (q-fin.ST),4
