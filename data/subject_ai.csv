@@ -1,25 +1,25 @@
 subject,frequency
-Machine Learning (cs.LG),1045
-Artificial Intelligence (cs.AI),751
-Computer Vision and Pattern Recognition (cs.CV),621
-Computation and Language (cs.CL),486
-Robotics (cs.RO),198
+Machine Learning (cs.LG),1049
+Artificial Intelligence (cs.AI),756
+Computer Vision and Pattern Recognition (cs.CV),632
+Computation and Language (cs.CL),488
+Robotics (cs.RO),199
 Cryptography and Security (cs.CR),81
-Information Retrieval (cs.IR),71
-Computers and Society (cs.CY),62
+Information Retrieval (cs.IR),72
+Computers and Society (cs.CY),63
 Human-Computer Interaction (cs.HC),56
 Sound (cs.SD),48
 Neural and Evolutionary Computing (cs.NE),47
-Software Engineering (cs.SE),44
+Software Engineering (cs.SE),46
 Machine Learning (stat.ML),38
-Multiagent Systems (cs.MA),31
+Multiagent Systems (cs.MA),32
 Systems and Control (eess.SY),29
 Signal Processing (eess.SP),29
+"Distributed, Parallel, and Cluster Computing (cs.DC)",29
 Social and Information Networks (cs.SI),28
-"Distributed, Parallel, and Cluster Computing (cs.DC)",27
 Networking and Internet Architecture (cs.NI),24
+Audio and Speech Processing (eess.AS),23
 Computer Science and Game Theory (cs.GT),22
-Audio and Speech Processing (eess.AS),22
 Image and Video Processing (eess.IV),19
 Quantum Physics (quant-ph),17
 Information Theory (cs.IT),17
@@ -30,9 +30,9 @@ Logic in Computer Science (cs.LO),10
 Neurons and Cognition (q-bio.NC),10
 Multimedia (cs.MM),9
 Genomics (q-bio.GN),6
+Methodology (stat.ME),6
 Digital Libraries (cs.DL),6
 Data Structures and Algorithms (cs.DS),5
-Methodology (stat.ME),5
 Quantitative Methods (q-bio.QM),5
 Statistics Theory (math.ST),5
 Computational Complexity (cs.CC),5
