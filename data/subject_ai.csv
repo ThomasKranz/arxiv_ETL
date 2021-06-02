@@ -1,22 +1,22 @@
 subject,frequency
-Machine Learning (cs.LG),1244
-Artificial Intelligence (cs.AI),946
-Computer Vision and Pattern Recognition (cs.CV),746
-Computation and Language (cs.CL),617
-Robotics (cs.RO),226
-Cryptography and Security (cs.CR),97
+Machine Learning (cs.LG),1258
+Artificial Intelligence (cs.AI),961
+Computer Vision and Pattern Recognition (cs.CV),750
+Computation and Language (cs.CL),625
+Robotics (cs.RO),227
+Cryptography and Security (cs.CR),99
 Information Retrieval (cs.IR),90
 Computers and Society (cs.CY),79
-Human-Computer Interaction (cs.HC),61
+Human-Computer Interaction (cs.HC),62
 Neural and Evolutionary Computing (cs.NE),61
-Sound (cs.SD),52
+Sound (cs.SD),53
 Software Engineering (cs.SE),51
-Machine Learning (stat.ML),44
-Multiagent Systems (cs.MA),43
+Multiagent Systems (cs.MA),45
+Machine Learning (stat.ML),45
 "Distributed, Parallel, and Cluster Computing (cs.DC)",39
 Social and Information Networks (cs.SI),36
+Signal Processing (eess.SP),32
 Systems and Control (eess.SY),31
-Signal Processing (eess.SP),31
 Networking and Internet Architecture (cs.NI),30
 Computer Science and Game Theory (cs.GT),27
 Audio and Speech Processing (eess.AS),24
@@ -31,16 +31,16 @@ Hardware Architecture (cs.AR),13
 Multimedia (cs.MM),10
 Digital Libraries (cs.DL),8
 Genomics (q-bio.GN),8
+Methodology (stat.ME),7
 Instrumentation and Methods for Astrophysics (astro-ph.IM),7
-Emerging Technologies (cs.ET),6
 Statistics Theory (math.ST),6
 Computational Complexity (cs.CC),6
-Methodology (stat.ME),6
+Emerging Technologies (cs.ET),6
 Data Structures and Algorithms (cs.DS),6
+Computational Physics (physics.comp-ph),5
 Statistical Finance (q-fin.ST),5
 Quantitative Methods (q-bio.QM),5
 Fluid Dynamics (physics.flu-dyn),4
-Computational Physics (physics.comp-ph),4
 Graphics (cs.GR),4
 Materials Science (cond-mat.mtrl-sci),4
 Medical Physics (physics.med-ph),3
