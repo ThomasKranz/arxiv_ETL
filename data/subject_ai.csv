@@ -1,12 +1,12 @@
 subject,frequency
-Machine Learning (cs.LG),1291
-Artificial Intelligence (cs.AI),982
-Computer Vision and Pattern Recognition (cs.CV),759
-Computation and Language (cs.CL),653
-Robotics (cs.RO),231
-Cryptography and Security (cs.CR),101
-Information Retrieval (cs.IR),90
-Computers and Society (cs.CY),81
+Machine Learning (cs.LG),1306
+Artificial Intelligence (cs.AI),988
+Computer Vision and Pattern Recognition (cs.CV),766
+Computation and Language (cs.CL),664
+Robotics (cs.RO),232
+Cryptography and Security (cs.CR),103
+Information Retrieval (cs.IR),91
+Computers and Society (cs.CY),82
 Neural and Evolutionary Computing (cs.NE),65
 Human-Computer Interaction (cs.HC),63
 Sound (cs.SD),56
@@ -14,70 +14,70 @@ Software Engineering (cs.SE),53
 Multiagent Systems (cs.MA),45
 Machine Learning (stat.ML),45
 "Distributed, Parallel, and Cluster Computing (cs.DC)",40
-Social and Information Networks (cs.SI),36
+Social and Information Networks (cs.SI),37
 Signal Processing (eess.SP),32
 Systems and Control (eess.SY),31
 Networking and Internet Architecture (cs.NI),30
 Computer Science and Game Theory (cs.GT),27
-Audio and Speech Processing (eess.AS),24
+Audio and Speech Processing (eess.AS),25
 Image and Video Processing (eess.IV),21
 Optimization and Control (math.OC),20
 Quantum Physics (quant-ph),19
-Information Theory (cs.IT),18
+Information Theory (cs.IT),19
 Databases (cs.DB),18
-Neurons and Cognition (q-bio.NC),16
+Neurons and Cognition (q-bio.NC),17
 Hardware Architecture (cs.AR),13
 Logic in Computer Science (cs.LO),13
 Multimedia (cs.MM),10
-Genomics (q-bio.GN),8
 Digital Libraries (cs.DL),8
-Methodology (stat.ME),7
+Genomics (q-bio.GN),8
+Computational Complexity (cs.CC),7
 Instrumentation and Methods for Astrophysics (astro-ph.IM),7
-Data Structures and Algorithms (cs.DS),6
-Computational Complexity (cs.CC),6
-Statistics Theory (math.ST),6
+Methodology (stat.ME),7
 Emerging Technologies (cs.ET),6
+Data Structures and Algorithms (cs.DS),6
+Statistics Theory (math.ST),6
 Quantitative Methods (q-bio.QM),5
 Computational Physics (physics.comp-ph),5
 Statistical Finance (q-fin.ST),5
-Graphics (cs.GR),4
-Fluid Dynamics (physics.flu-dyn),4
 Medical Physics (physics.med-ph),4
 Materials Science (cond-mat.mtrl-sci),4
-Programming Languages (cs.PL),3
-Applications (stat.AP),3
+Applications (stat.AP),4
+Graphics (cs.GR),4
+Fluid Dynamics (physics.flu-dyn),4
 Trading and Market Microstructure (q-fin.TR),3
-"Computational Engineering, Finance, and Science (cs.CE)",3
 Geophysics (physics.geo-ph),3
+"Computational Engineering, Finance, and Science (cs.CE)",3
+Programming Languages (cs.PL),3
 Numerical Analysis (math.NA),2
 Atmospheric and Oceanic Physics (physics.ao-ph),2
 Audio and Speech Processing (eess.AS) ,2
 Biomolecules (q-bio.BM),2
-Discrete Mathematics (cs.DM),2
 Portfolio Management (q-fin.PM),2
 Other Computer Science (cs.OH),2
+Discrete Mathematics (cs.DM),2
 Logic (math.LO),2
 Earth and Planetary Astrophysics (astro-ph.EP),2
-Operating Systems (cs.OS),1
+Dynamical Systems (math.DS),1
+"Computational Engineering, Finance, and Science (cs.CE) ",1
 Theoretical Economics (econ.TH),1
-Mathematical Software (cs.MS),1
-History and Philosophy of Physics (physics.hist-ph),1
 High Energy Physics - Theory (hep-th),1
+Materials Science (cond-mat.mtrl-sci) ,1
+Mathematical Software (cs.MS),1
 Category Theory (math.CT),1
 Solar and Stellar Astrophysics (astro-ph.SR),1
 Cellular Automata and Lattice Gases (nlin.CG),1
 Combinatorics (math.CO),1
-Molecular Networks (q-bio.MN),1
-"Computational Engineering, Finance, and Science (cs.CE) ",1
+General Physics (physics.gen-ph),1
 Risk Management (q-fin.RM),1
+Operating Systems (cs.OS),1
 Computational Geometry (cs.CG),1
 "Data Analysis, Statistics and Probability (physics.data-an)",1
-General Physics (physics.gen-ph),1
+Molecular Networks (q-bio.MN),1
 General Economics (econ.GN),1
 Populations and Evolution (q-bio.PE),1
-Materials Science (cond-mat.mtrl-sci) ,1
-Other Statistics (stat.OT) ,1
-Formal Languages and Automata Theory (cs.FL),1
-Dynamical Systems (math.DS),1
-Optics (physics.optics),1
 Physics and Society (physics.soc-ph),1
+History and Philosophy of Physics (physics.hist-ph),1
+Formal Languages and Automata Theory (cs.FL),1
+Optics (physics.optics),1
+Other Statistics (stat.OT) ,1
