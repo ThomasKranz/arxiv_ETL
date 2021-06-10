@@ -1,28 +1,28 @@
 subject,frequency
-Machine Learning (cs.LG),1371
-Artificial Intelligence (cs.AI),1017
-Computer Vision and Pattern Recognition (cs.CV),788
-Computation and Language (cs.CL),699
+Machine Learning (cs.LG),1392
+Artificial Intelligence (cs.AI),1025
+Computer Vision and Pattern Recognition (cs.CV),792
+Computation and Language (cs.CL),707
 Robotics (cs.RO),240
 Cryptography and Security (cs.CR),103
 Information Retrieval (cs.IR),94
 Computers and Society (cs.CY),82
-Neural and Evolutionary Computing (cs.NE),66
-Human-Computer Interaction (cs.HC),64
+Neural and Evolutionary Computing (cs.NE),67
+Human-Computer Interaction (cs.HC),65
 Sound (cs.SD),58
 Software Engineering (cs.SE),54
-Machine Learning (stat.ML),47
-Multiagent Systems (cs.MA),45
-"Distributed, Parallel, and Cluster Computing (cs.DC)",40
+Machine Learning (stat.ML),50
+Multiagent Systems (cs.MA),49
+"Distributed, Parallel, and Cluster Computing (cs.DC)",41
 Social and Information Networks (cs.SI),40
 Signal Processing (eess.SP),33
 Systems and Control (eess.SY),32
 Computer Science and Game Theory (cs.GT),31
 Networking and Internet Architecture (cs.NI),30
-Audio and Speech Processing (eess.AS),26
+Audio and Speech Processing (eess.AS),27
 Image and Video Processing (eess.IV),22
+Optimization and Control (math.OC),21
 Information Theory (cs.IT),20
-Optimization and Control (math.OC),20
 Quantum Physics (quant-ph),19
 Neurons and Cognition (q-bio.NC),19
 Databases (cs.DB),18
