@@ -1,39 +1,39 @@
 subject,frequency
-Machine Learning (cs.LG),1392
-Artificial Intelligence (cs.AI),1025
-Computer Vision and Pattern Recognition (cs.CV),792
-Computation and Language (cs.CL),707
+Machine Learning (cs.LG),1413
+Artificial Intelligence (cs.AI),1029
+Computer Vision and Pattern Recognition (cs.CV),804
+Computation and Language (cs.CL),713
 Robotics (cs.RO),240
-Cryptography and Security (cs.CR),103
-Information Retrieval (cs.IR),94
+Cryptography and Security (cs.CR),105
+Information Retrieval (cs.IR),95
 Computers and Society (cs.CY),82
-Neural and Evolutionary Computing (cs.NE),67
+Neural and Evolutionary Computing (cs.NE),71
 Human-Computer Interaction (cs.HC),65
 Sound (cs.SD),58
 Software Engineering (cs.SE),54
-Machine Learning (stat.ML),50
+Machine Learning (stat.ML),51
 Multiagent Systems (cs.MA),49
 "Distributed, Parallel, and Cluster Computing (cs.DC)",41
 Social and Information Networks (cs.SI),40
+Systems and Control (eess.SY),33
 Signal Processing (eess.SP),33
-Systems and Control (eess.SY),32
 Computer Science and Game Theory (cs.GT),31
 Networking and Internet Architecture (cs.NI),30
 Audio and Speech Processing (eess.AS),27
-Image and Video Processing (eess.IV),22
+Image and Video Processing (eess.IV),26
 Optimization and Control (math.OC),21
 Information Theory (cs.IT),20
 Quantum Physics (quant-ph),19
 Neurons and Cognition (q-bio.NC),19
 Databases (cs.DB),18
+Hardware Architecture (cs.AR),14
 Logic in Computer Science (cs.LO),13
-Hardware Architecture (cs.AR),13
 Multimedia (cs.MM),10
 Digital Libraries (cs.DL),8
 Genomics (q-bio.GN),8
+Data Structures and Algorithms (cs.DS),8
 Instrumentation and Methods for Astrophysics (astro-ph.IM),8
 Methodology (stat.ME),7
-Data Structures and Algorithms (cs.DS),7
 Computational Complexity (cs.CC),7
 Emerging Technologies (cs.ET),6
 Quantitative Methods (q-bio.QM),6
