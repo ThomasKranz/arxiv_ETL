@@ -1,31 +1,31 @@
 subject,frequency
-Machine Learning (cs.LG),1777
-Artificial Intelligence (cs.AI),1206
-Computer Vision and Pattern Recognition (cs.CV),965
-Computation and Language (cs.CL),825
-Robotics (cs.RO),280
+Machine Learning (cs.LG),1784
+Artificial Intelligence (cs.AI),1212
+Computer Vision and Pattern Recognition (cs.CV),970
+Computation and Language (cs.CL),829
+Robotics (cs.RO),281
 Cryptography and Security (cs.CR),118
-Information Retrieval (cs.IR),108
-Computers and Society (cs.CY),90
+Information Retrieval (cs.IR),112
+Computers and Society (cs.CY),95
 Neural and Evolutionary Computing (cs.NE),80
 Human-Computer Interaction (cs.HC),78
 Sound (cs.SD),70
 Software Engineering (cs.SE),65
 Machine Learning (stat.ML),65
 Multiagent Systems (cs.MA),58
-Social and Information Networks (cs.SI),49
+Social and Information Networks (cs.SI),51
 "Distributed, Parallel, and Cluster Computing (cs.DC)",47
 Signal Processing (eess.SP),40
-Computer Science and Game Theory (cs.GT),38
+Computer Science and Game Theory (cs.GT),39
 Networking and Internet Architecture (cs.NI),34
 Systems and Control (eess.SY),34
 Audio and Speech Processing (eess.AS),33
-Image and Video Processing (eess.IV),28
+Image and Video Processing (eess.IV),29
 Optimization and Control (math.OC),24
 Databases (cs.DB),23
-Information Theory (cs.IT),22
+Information Theory (cs.IT),23
+Quantum Physics (quant-ph),22
 Neurons and Cognition (q-bio.NC),21
-Quantum Physics (quant-ph),21
 Logic in Computer Science (cs.LO),18
 Hardware Architecture (cs.AR),16
 Multimedia (cs.MM),11
@@ -45,45 +45,45 @@ Programming Languages (cs.PL),5
 Materials Science (cond-mat.mtrl-sci),4
 Medical Physics (physics.med-ph),4
 Trading and Market Microstructure (q-fin.TR),4
-Fluid Dynamics (physics.flu-dyn),4
 Graphics (cs.GR),4
 Geophysics (physics.geo-ph),4
-Earth and Planetary Astrophysics (astro-ph.EP),3
+Fluid Dynamics (physics.flu-dyn),4
+Discrete Mathematics (cs.DM),3
 "Computational Engineering, Finance, and Science (cs.CE)",3
 Numerical Analysis (math.NA),3
-Discrete Mathematics (cs.DM),3
-Computational Geometry (cs.CG),2
-Physics and Society (physics.soc-ph),2
-Dynamical Systems (math.DS),2
-Other Computer Science (cs.OH),2
-Biomolecules (q-bio.BM),2
-Audio and Speech Processing (eess.AS) ,2
-Atmospheric and Oceanic Physics (physics.ao-ph),2
+Earth and Planetary Astrophysics (astro-ph.EP),3
+History and Philosophy of Physics (physics.hist-ph),2
 Theoretical Economics (econ.TH),2
-Logic (math.LO),2
+Atmospheric and Oceanic Physics (physics.ao-ph),2
+Audio and Speech Processing (eess.AS) ,2
+Biomolecules (q-bio.BM),2
+Computational Geometry (cs.CG),2
 Portfolio Management (q-fin.PM),2
+Physics and Society (physics.soc-ph),2
+Other Computer Science (cs.OH),2
+Dynamical Systems (math.DS),2
+Logic (math.LO),2
+Formal Languages and Automata Theory (cs.FL),1
+High Energy Physics - Phenomenology (hep-ph),1
+High Energy Astrophysical Phenomena (astro-ph.HE),1
+Statistical Mechanics (cond-mat.stat-mech),1
+Materials Science (cond-mat.mtrl-sci) ,1
+Category Theory (math.CT),1
 Solar and Stellar Astrophysics (astro-ph.SR),1
 Cellular Automata and Lattice Gases (nlin.CG),1
-Cosmology and Nongalactic Astrophysics (astro-ph.CO),1
-Category Theory (math.CT),1
-Statistical Mechanics (cond-mat.stat-mech),1
 Chemical Physics (physics.chem-ph),1
 Combinatorics (math.CO),1
+Mathematical Software (cs.MS),1
 Risk Management (q-fin.RM),1
 "Computational Engineering, Finance, and Science (cs.CE) ",1
-History and Philosophy of Physics (physics.hist-ph),1
+General Physics (physics.gen-ph),1
+Cosmology and Nongalactic Astrophysics (astro-ph.CO),1
+General Economics (econ.GN),1
 Populations and Evolution (q-bio.PE),1
+Molecular Networks (q-bio.MN),1
 Other Statistics (stat.OT) ,1
 High Energy Physics - Theory (hep-th),1
 "Data Analysis, Statistics and Probability (physics.data-an)",1
 Optics (physics.optics),1
 Operating Systems (cs.OS),1
-Formal Languages and Automata Theory (cs.FL),1
-Molecular Networks (q-bio.MN),1
-General Economics (econ.GN),1
-General Physics (physics.gen-ph),1
-Mathematical Software (cs.MS),1
-Materials Science (cond-mat.mtrl-sci) ,1
-High Energy Astrophysical Phenomena (astro-ph.HE),1
-High Energy Physics - Phenomenology (hep-ph),1
 Algebraic Topology (math.AT),1
