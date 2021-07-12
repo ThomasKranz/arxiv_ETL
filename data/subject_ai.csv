@@ -1,16 +1,16 @@
 subject,frequency
-Machine Learning (cs.LG),1784
-Artificial Intelligence (cs.AI),1212
-Computer Vision and Pattern Recognition (cs.CV),970
-Computation and Language (cs.CL),829
-Robotics (cs.RO),281
+Machine Learning (cs.LG),1796
+Artificial Intelligence (cs.AI),1219
+Computer Vision and Pattern Recognition (cs.CV),976
+Computation and Language (cs.CL),831
+Robotics (cs.RO),283
 Cryptography and Security (cs.CR),118
 Information Retrieval (cs.IR),112
 Computers and Society (cs.CY),95
-Neural and Evolutionary Computing (cs.NE),80
+Neural and Evolutionary Computing (cs.NE),81
 Human-Computer Interaction (cs.HC),78
 Sound (cs.SD),70
-Software Engineering (cs.SE),65
+Software Engineering (cs.SE),66
 Machine Learning (stat.ML),65
 Multiagent Systems (cs.MA),58
 Social and Information Networks (cs.SI),51
@@ -27,7 +27,7 @@ Information Theory (cs.IT),23
 Quantum Physics (quant-ph),22
 Neurons and Cognition (q-bio.NC),21
 Logic in Computer Science (cs.LO),18
-Hardware Architecture (cs.AR),16
+Hardware Architecture (cs.AR),17
 Multimedia (cs.MM),11
 Methodology (stat.ME),10
 Data Structures and Algorithms (cs.DS),10
@@ -50,8 +50,8 @@ Geophysics (physics.geo-ph),4
 Fluid Dynamics (physics.flu-dyn),4
 Discrete Mathematics (cs.DM),3
 "Computational Engineering, Finance, and Science (cs.CE)",3
-Numerical Analysis (math.NA),3
 Earth and Planetary Astrophysics (astro-ph.EP),3
+Numerical Analysis (math.NA),3
 History and Philosophy of Physics (physics.hist-ph),2
 Theoretical Economics (econ.TH),2
 Atmospheric and Oceanic Physics (physics.ao-ph),2
@@ -60,10 +60,11 @@ Biomolecules (q-bio.BM),2
 Computational Geometry (cs.CG),2
 Portfolio Management (q-fin.PM),2
 Physics and Society (physics.soc-ph),2
+"Data Analysis, Statistics and Probability (physics.data-an)",2
 Other Computer Science (cs.OH),2
 Dynamical Systems (math.DS),2
 Logic (math.LO),2
-Formal Languages and Automata Theory (cs.FL),1
+Mathematical Software (cs.MS),1
 High Energy Physics - Phenomenology (hep-ph),1
 High Energy Astrophysical Phenomena (astro-ph.HE),1
 Statistical Mechanics (cond-mat.stat-mech),1
@@ -73,8 +74,8 @@ Solar and Stellar Astrophysics (astro-ph.SR),1
 Cellular Automata and Lattice Gases (nlin.CG),1
 Chemical Physics (physics.chem-ph),1
 Combinatorics (math.CO),1
-Mathematical Software (cs.MS),1
 Risk Management (q-fin.RM),1
+Operating Systems (cs.OS),1
 "Computational Engineering, Finance, and Science (cs.CE) ",1
 General Physics (physics.gen-ph),1
 Cosmology and Nongalactic Astrophysics (astro-ph.CO),1
@@ -83,7 +84,6 @@ Populations and Evolution (q-bio.PE),1
 Molecular Networks (q-bio.MN),1
 Other Statistics (stat.OT) ,1
 High Energy Physics - Theory (hep-th),1
-"Data Analysis, Statistics and Probability (physics.data-an)",1
+Formal Languages and Automata Theory (cs.FL),1
 Optics (physics.optics),1
-Operating Systems (cs.OS),1
 Algebraic Topology (math.AT),1
