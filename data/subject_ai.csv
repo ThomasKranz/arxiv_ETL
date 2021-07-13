@@ -1,17 +1,17 @@
 subject,frequency
-Machine Learning (cs.LG),1796
-Artificial Intelligence (cs.AI),1219
-Computer Vision and Pattern Recognition (cs.CV),976
-Computation and Language (cs.CL),831
-Robotics (cs.RO),283
-Cryptography and Security (cs.CR),118
-Information Retrieval (cs.IR),112
+Machine Learning (cs.LG),1825
+Artificial Intelligence (cs.AI),1236
+Computer Vision and Pattern Recognition (cs.CV),995
+Computation and Language (cs.CL),836
+Robotics (cs.RO),287
+Cryptography and Security (cs.CR),119
+Information Retrieval (cs.IR),116
 Computers and Society (cs.CY),95
 Neural and Evolutionary Computing (cs.NE),81
 Human-Computer Interaction (cs.HC),78
 Sound (cs.SD),70
-Software Engineering (cs.SE),66
-Machine Learning (stat.ML),65
+Software Engineering (cs.SE),69
+Machine Learning (stat.ML),67
 Multiagent Systems (cs.MA),58
 Social and Information Networks (cs.SI),51
 "Distributed, Parallel, and Cluster Computing (cs.DC)",47
@@ -20,23 +20,23 @@ Computer Science and Game Theory (cs.GT),39
 Networking and Internet Architecture (cs.NI),34
 Systems and Control (eess.SY),34
 Audio and Speech Processing (eess.AS),33
-Image and Video Processing (eess.IV),29
+Image and Video Processing (eess.IV),31
+Databases (cs.DB),24
 Optimization and Control (math.OC),24
-Databases (cs.DB),23
 Information Theory (cs.IT),23
+Neurons and Cognition (q-bio.NC),22
 Quantum Physics (quant-ph),22
-Neurons and Cognition (q-bio.NC),21
 Logic in Computer Science (cs.LO),18
 Hardware Architecture (cs.AR),17
-Multimedia (cs.MM),11
-Methodology (stat.ME),10
+Multimedia (cs.MM),12
 Data Structures and Algorithms (cs.DS),10
-Genomics (q-bio.GN),9
+Methodology (stat.ME),10
+Digital Libraries (cs.DL),10
 Instrumentation and Methods for Astrophysics (astro-ph.IM),9
-Digital Libraries (cs.DL),9
+Genomics (q-bio.GN),9
 Computational Complexity (cs.CC),8
-Emerging Technologies (cs.ET),7
 Quantitative Methods (q-bio.QM),7
+Emerging Technologies (cs.ET),7
 Statistics Theory (math.ST),6
 Statistical Finance (q-fin.ST),6
 Applications (stat.AP),5
@@ -49,41 +49,42 @@ Graphics (cs.GR),4
 Geophysics (physics.geo-ph),4
 Fluid Dynamics (physics.flu-dyn),4
 Discrete Mathematics (cs.DM),3
+Atmospheric and Oceanic Physics (physics.ao-ph),3
 "Computational Engineering, Finance, and Science (cs.CE)",3
-Earth and Planetary Astrophysics (astro-ph.EP),3
 Numerical Analysis (math.NA),3
+Earth and Planetary Astrophysics (astro-ph.EP),3
 History and Philosophy of Physics (physics.hist-ph),2
 Theoretical Economics (econ.TH),2
-Atmospheric and Oceanic Physics (physics.ao-ph),2
 Audio and Speech Processing (eess.AS) ,2
 Biomolecules (q-bio.BM),2
 Computational Geometry (cs.CG),2
 Portfolio Management (q-fin.PM),2
 Physics and Society (physics.soc-ph),2
-"Data Analysis, Statistics and Probability (physics.data-an)",2
 Other Computer Science (cs.OH),2
+"Data Analysis, Statistics and Probability (physics.data-an)",2
 Dynamical Systems (math.DS),2
 Logic (math.LO),2
-Mathematical Software (cs.MS),1
+Econometrics (econ.EM),1
 High Energy Physics - Phenomenology (hep-ph),1
 High Energy Astrophysical Phenomena (astro-ph.HE),1
 Statistical Mechanics (cond-mat.stat-mech),1
-Materials Science (cond-mat.mtrl-sci) ,1
+General Physics (physics.gen-ph),1
 Category Theory (math.CT),1
 Solar and Stellar Astrophysics (astro-ph.SR),1
 Cellular Automata and Lattice Gases (nlin.CG),1
 Chemical Physics (physics.chem-ph),1
 Combinatorics (math.CO),1
+Materials Science (cond-mat.mtrl-sci) ,1
 Risk Management (q-fin.RM),1
-Operating Systems (cs.OS),1
 "Computational Engineering, Finance, and Science (cs.CE) ",1
-General Physics (physics.gen-ph),1
+Mathematical Software (cs.MS),1
 Cosmology and Nongalactic Astrophysics (astro-ph.CO),1
 General Economics (econ.GN),1
 Populations and Evolution (q-bio.PE),1
-Molecular Networks (q-bio.MN),1
-Other Statistics (stat.OT) ,1
-High Energy Physics - Theory (hep-th),1
 Formal Languages and Automata Theory (cs.FL),1
+Other Statistics (stat.OT) ,1
+Molecular Networks (q-bio.MN),1
+High Energy Physics - Theory (hep-th),1
 Optics (physics.optics),1
+Operating Systems (cs.OS),1
 Algebraic Topology (math.AT),1
