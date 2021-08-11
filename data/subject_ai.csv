@@ -1,20 +1,20 @@
 subject,frequency
-Machine Learning (cs.LG),2048
-Artificial Intelligence (cs.AI),1400
-Computer Vision and Pattern Recognition (cs.CV),1149
-Computation and Language (cs.CL),923
-Robotics (cs.RO),336
+Machine Learning (cs.LG),2057
+Artificial Intelligence (cs.AI),1411
+Computer Vision and Pattern Recognition (cs.CV),1158
+Computation and Language (cs.CL),926
+Robotics (cs.RO),337
 Cryptography and Security (cs.CR),134
-Information Retrieval (cs.IR),130
+Information Retrieval (cs.IR),133
 Computers and Society (cs.CY),108
-Neural and Evolutionary Computing (cs.NE),92
-Human-Computer Interaction (cs.HC),91
-Sound (cs.SD),82
-Software Engineering (cs.SE),79
+Neural and Evolutionary Computing (cs.NE),93
+Human-Computer Interaction (cs.HC),92
+Sound (cs.SD),83
+Software Engineering (cs.SE),81
 Machine Learning (stat.ML),76
 Multiagent Systems (cs.MA),63
 Social and Information Networks (cs.SI),59
-"Distributed, Parallel, and Cluster Computing (cs.DC)",54
+"Distributed, Parallel, and Cluster Computing (cs.DC)",55
 Signal Processing (eess.SP),52
 Systems and Control (eess.SY),44
 Computer Science and Game Theory (cs.GT),44
@@ -29,7 +29,7 @@ Logic in Computer Science (cs.LO),25
 Quantum Physics (quant-ph),22
 Hardware Architecture (cs.AR),19
 Multimedia (cs.MM),14
-Methodology (stat.ME),13
+Methodology (stat.ME),14
 Data Structures and Algorithms (cs.DS),11
 Digital Libraries (cs.DL),11
 Genomics (q-bio.GN),11
@@ -47,12 +47,12 @@ Applications (stat.AP),5
 Trading and Market Microstructure (q-fin.TR),4
 Graphics (cs.GR),4
 Geophysics (physics.geo-ph),4
+Numerical Analysis (math.NA),4
 Physics and Society (physics.soc-ph),4
 Medical Physics (physics.med-ph),4
 Theoretical Economics (econ.TH),4
 Atmospheric and Oceanic Physics (physics.ao-ph),4
 Materials Science (cond-mat.mtrl-sci),4
-Numerical Analysis (math.NA),3
 Earth and Planetary Astrophysics (astro-ph.EP),3
 Discrete Mathematics (cs.DM),3
 Other Computer Science (cs.OH),2
