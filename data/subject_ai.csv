@@ -1,15 +1,15 @@
 subject,frequency
-Machine Learning (cs.LG),2063
-Artificial Intelligence (cs.AI),1422
-Computer Vision and Pattern Recognition (cs.CV),1170
-Computation and Language (cs.CL),928
-Robotics (cs.RO),341
+Machine Learning (cs.LG),2074
+Artificial Intelligence (cs.AI),1433
+Computer Vision and Pattern Recognition (cs.CV),1176
+Computation and Language (cs.CL),931
+Robotics (cs.RO),345
 Cryptography and Security (cs.CR),135
-Information Retrieval (cs.IR),133
-Computers and Society (cs.CY),108
+Information Retrieval (cs.IR),135
+Computers and Society (cs.CY),109
 Neural and Evolutionary Computing (cs.NE),93
 Human-Computer Interaction (cs.HC),92
-Sound (cs.SD),85
+Sound (cs.SD),86
 Software Engineering (cs.SE),81
 Machine Learning (stat.ML),76
 Multiagent Systems (cs.MA),63
@@ -25,7 +25,7 @@ Optimization and Control (math.OC),28
 Information Theory (cs.IT),27
 Neurons and Cognition (q-bio.NC),27
 Databases (cs.DB),26
-Logic in Computer Science (cs.LO),25
+Logic in Computer Science (cs.LO),26
 Quantum Physics (quant-ph),22
 Hardware Architecture (cs.AR),19
 Multimedia (cs.MM),14
@@ -61,17 +61,18 @@ Algebraic Topology (math.AT),2
 History and Philosophy of Physics (physics.hist-ph),2
 Chemical Physics (physics.chem-ph),2
 Computational Geometry (cs.CG),2
+Formal Languages and Automata Theory (cs.FL),2
 Computational Finance (q-fin.CP),2
 Computation (stat.CO),2
 Dynamical Systems (math.DS),2
 "Data Analysis, Statistics and Probability (physics.data-an)",2
 Biomolecules (q-bio.BM),2
-Audio and Speech Processing (eess.AS) ,2
 Logic (math.LO),2
+Audio and Speech Processing (eess.AS) ,2
 Cellular Automata and Lattice Gases (nlin.CG),1
 Statistical Mechanics (cond-mat.stat-mech),1
-Category Theory (math.CT),1
 Combinatorics (math.CO),1
+Category Theory (math.CT),1
 "Computational Engineering, Finance, and Science (cs.CE) ",1
 Risk Management (q-fin.RM),1
 Cosmology and Nongalactic Astrophysics (astro-ph.CO),1
@@ -81,7 +82,6 @@ Materials Science (cond-mat.mtrl-sci) ,1
 Econometrics (econ.EM),1
 Other Statistics (stat.OT) ,1
 Other Quantitative Biology (q-bio.OT),1
-Formal Languages and Automata Theory (cs.FL),1
 General Economics (econ.GN),1
 Optics (physics.optics),1
 Operating Systems (cs.OS),1
@@ -92,4 +92,5 @@ High Energy Physics - Experiment (hep-ex),1
 High Energy Physics - Phenomenology (hep-ph),1
 High Energy Physics - Theory (hep-th),1
 Molecular Networks (q-bio.MN),1
+Mesoscale and Nanoscale Physics (cond-mat.mes-hall),1
 Populations and Evolution (q-bio.PE),1
