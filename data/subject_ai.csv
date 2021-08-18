@@ -1,17 +1,17 @@
 subject,frequency
-Machine Learning (cs.LG),2097
-Artificial Intelligence (cs.AI),1447
-Computer Vision and Pattern Recognition (cs.CV),1193
-Computation and Language (cs.CL),940
-Robotics (cs.RO),350
+Machine Learning (cs.LG),2104
+Artificial Intelligence (cs.AI),1452
+Computer Vision and Pattern Recognition (cs.CV),1199
+Computation and Language (cs.CL),943
+Robotics (cs.RO),351
 Information Retrieval (cs.IR),145
 Cryptography and Security (cs.CR),136
-Computers and Society (cs.CY),109
-Human-Computer Interaction (cs.HC),94
+Computers and Society (cs.CY),111
+Human-Computer Interaction (cs.HC),95
 Neural and Evolutionary Computing (cs.NE),93
 Sound (cs.SD),87
 Software Engineering (cs.SE),81
-Machine Learning (stat.ML),76
+Machine Learning (stat.ML),77
 Multiagent Systems (cs.MA),63
 Social and Information Networks (cs.SI),60
 "Distributed, Parallel, and Cluster Computing (cs.DC)",58
@@ -39,11 +39,11 @@ Computational Complexity (cs.CC),8
 Statistical Finance (q-fin.ST),7
 Emerging Technologies (cs.ET),7
 "Computational Engineering, Finance, and Science (cs.CE)",6
+Fluid Dynamics (physics.flu-dyn),6
 Computational Physics (physics.comp-ph),6
+Applications (stat.AP),6
 Programming Languages (cs.PL),6
 Statistics Theory (math.ST),6
-Fluid Dynamics (physics.flu-dyn),5
-Applications (stat.AP),5
 Trading and Market Microstructure (q-fin.TR),4
 Graphics (cs.GR),4
 Geophysics (physics.geo-ph),4
