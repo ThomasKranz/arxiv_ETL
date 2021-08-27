@@ -1,12 +1,12 @@
 subject,frequency
-Machine Learning (cs.LG),2170
-Artificial Intelligence (cs.AI),1485
-Computer Vision and Pattern Recognition (cs.CV),1241
-Computation and Language (cs.CL),959
-Robotics (cs.RO),353
-Information Retrieval (cs.IR),152
-Cryptography and Security (cs.CR),142
-Computers and Society (cs.CY),113
+Machine Learning (cs.LG),2182
+Artificial Intelligence (cs.AI),1493
+Computer Vision and Pattern Recognition (cs.CV),1248
+Computation and Language (cs.CL),962
+Robotics (cs.RO),356
+Information Retrieval (cs.IR),153
+Cryptography and Security (cs.CR),143
+Computers and Society (cs.CY),114
 Human-Computer Interaction (cs.HC),98
 Neural and Evolutionary Computing (cs.NE),95
 Sound (cs.SD),88
@@ -17,12 +17,12 @@ Social and Information Networks (cs.SI),61
 "Distributed, Parallel, and Cluster Computing (cs.DC)",61
 Signal Processing (eess.SP),58
 Systems and Control (eess.SY),49
-Audio and Speech Processing (eess.AS),46
+Audio and Speech Processing (eess.AS),47
 Image and Video Processing (eess.IV),44
 Computer Science and Game Theory (cs.GT),44
-Networking and Internet Architecture (cs.NI),41
+Networking and Internet Architecture (cs.NI),42
+Information Theory (cs.IT),30
 Optimization and Control (math.OC),29
-Information Theory (cs.IT),29
 Logic in Computer Science (cs.LO),27
 Databases (cs.DB),27
 Neurons and Cognition (q-bio.NC),27
@@ -33,7 +33,7 @@ Multimedia (cs.MM),15
 Data Structures and Algorithms (cs.DS),11
 Digital Libraries (cs.DL),11
 Genomics (q-bio.GN),11
-Quantitative Methods (q-bio.QM),10
+Quantitative Methods (q-bio.QM),11
 Instrumentation and Methods for Astrophysics (astro-ph.IM),9
 Emerging Technologies (cs.ET),8
 Statistical Finance (q-fin.ST),8
@@ -44,6 +44,7 @@ Statistics Theory (math.ST),6
 Computational Physics (physics.comp-ph),6
 Programming Languages (cs.PL),6
 Fluid Dynamics (physics.flu-dyn),6
+Earth and Planetary Astrophysics (astro-ph.EP),4
 Graphics (cs.GR),4
 Geophysics (physics.geo-ph),4
 Numerical Analysis (math.NA),4
@@ -53,7 +54,6 @@ Theoretical Economics (econ.TH),4
 Atmospheric and Oceanic Physics (physics.ao-ph),4
 Materials Science (cond-mat.mtrl-sci),4
 Trading and Market Microstructure (q-fin.TR),4
-Earth and Planetary Astrophysics (astro-ph.EP),3
 Discrete Mathematics (cs.DM),3
 Biomolecules (q-bio.BM),3
 Other Computer Science (cs.OH),2
