@@ -1,9 +1,9 @@
 subject,frequency
-Machine Learning (cs.LG),2337
-Artificial Intelligence (cs.AI),1599
-Computer Vision and Pattern Recognition (cs.CV),1337
-Computation and Language (cs.CL),1123
-Robotics (cs.RO),379
+Machine Learning (cs.LG),2348
+Artificial Intelligence (cs.AI),1617
+Computer Vision and Pattern Recognition (cs.CV),1341
+Computation and Language (cs.CL),1130
+Robotics (cs.RO),383
 Information Retrieval (cs.IR),172
 Cryptography and Security (cs.CR),165
 Computers and Society (cs.CY),119
@@ -12,19 +12,19 @@ Neural and Evolutionary Computing (cs.NE),100
 Sound (cs.SD),98
 Software Engineering (cs.SE),86
 Machine Learning (stat.ML),83
+"Distributed, Parallel, and Cluster Computing (cs.DC)",67
 Social and Information Networks (cs.SI),67
-"Distributed, Parallel, and Cluster Computing (cs.DC)",66
-Multiagent Systems (cs.MA),65
+Multiagent Systems (cs.MA),66
 Signal Processing (eess.SP),64
 Systems and Control (eess.SY),53
-Image and Video Processing (eess.IV),49
+Image and Video Processing (eess.IV),50
 Audio and Speech Processing (eess.AS),48
-Computer Science and Game Theory (cs.GT),45
+Computer Science and Game Theory (cs.GT),46
 Networking and Internet Architecture (cs.NI),45
+Logic in Computer Science (cs.LO),37
 Information Theory (cs.IT),34
-Logic in Computer Science (cs.LO),32
+Databases (cs.DB),31
 Optimization and Control (math.OC),29
-Databases (cs.DB),29
 Neurons and Cognition (q-bio.NC),28
 Quantum Physics (quant-ph),25
 Hardware Architecture (cs.AR),22
@@ -37,13 +37,13 @@ Genomics (q-bio.GN),11
 Emerging Technologies (cs.ET),9
 Computational Complexity (cs.CC),9
 Instrumentation and Methods for Astrophysics (astro-ph.IM),9
+Programming Languages (cs.PL),8
 Statistical Finance (q-fin.ST),8
-Graphics (cs.GR),7
 Applications (stat.AP),7
+Graphics (cs.GR),7
 "Computational Engineering, Finance, and Science (cs.CE)",6
 Statistics Theory (math.ST),6
 Computational Physics (physics.comp-ph),6
-Programming Languages (cs.PL),6
 Fluid Dynamics (physics.flu-dyn),6
 Numerical Analysis (math.NA),5
 Materials Science (cond-mat.mtrl-sci),4
@@ -55,10 +55,10 @@ Theoretical Economics (econ.TH),4
 Atmospheric and Oceanic Physics (physics.ao-ph),4
 Medical Physics (physics.med-ph),4
 Algebraic Topology (math.AT),3
+Other Computer Science (cs.OH),3
 Discrete Mathematics (cs.DM),3
 "Data Analysis, Statistics and Probability (physics.data-an)",3
 Biomolecules (q-bio.BM),3
-Other Computer Science (cs.OH),2
 Portfolio Management (q-fin.PM),2
 Symbolic Computation (cs.SC),2
 History and Philosophy of Physics (physics.hist-ph),2
