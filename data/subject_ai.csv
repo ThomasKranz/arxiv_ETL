@@ -1,25 +1,25 @@
 subject,frequency
-Machine Learning (cs.LG),2348
-Artificial Intelligence (cs.AI),1617
-Computer Vision and Pattern Recognition (cs.CV),1341
-Computation and Language (cs.CL),1130
-Robotics (cs.RO),383
+Machine Learning (cs.LG),2369
+Artificial Intelligence (cs.AI),1638
+Computer Vision and Pattern Recognition (cs.CV),1354
+Computation and Language (cs.CL),1146
+Robotics (cs.RO),388
 Information Retrieval (cs.IR),172
-Cryptography and Security (cs.CR),165
+Cryptography and Security (cs.CR),168
 Computers and Society (cs.CY),119
-Human-Computer Interaction (cs.HC),102
+Human-Computer Interaction (cs.HC),104
+Sound (cs.SD),101
 Neural and Evolutionary Computing (cs.NE),100
-Sound (cs.SD),98
 Software Engineering (cs.SE),86
 Machine Learning (stat.ML),83
+Social and Information Networks (cs.SI),68
 "Distributed, Parallel, and Cluster Computing (cs.DC)",67
-Social and Information Networks (cs.SI),67
 Multiagent Systems (cs.MA),66
 Signal Processing (eess.SP),64
+Image and Video Processing (eess.IV),54
 Systems and Control (eess.SY),53
-Image and Video Processing (eess.IV),50
+Computer Science and Game Theory (cs.GT),48
 Audio and Speech Processing (eess.AS),48
-Computer Science and Game Theory (cs.GT),46
 Networking and Internet Architecture (cs.NI),45
 Logic in Computer Science (cs.LO),37
 Information Theory (cs.IT),34
@@ -27,24 +27,24 @@ Databases (cs.DB),31
 Optimization and Control (math.OC),29
 Neurons and Cognition (q-bio.NC),28
 Quantum Physics (quant-ph),25
-Hardware Architecture (cs.AR),22
+Hardware Architecture (cs.AR),24
 Methodology (stat.ME),16
 Multimedia (cs.MM),16
 Data Structures and Algorithms (cs.DS),12
 Digital Libraries (cs.DL),11
-Quantitative Methods (q-bio.QM),11
 Genomics (q-bio.GN),11
+Quantitative Methods (q-bio.QM),11
 Emerging Technologies (cs.ET),9
 Computational Complexity (cs.CC),9
 Instrumentation and Methods for Astrophysics (astro-ph.IM),9
-Programming Languages (cs.PL),8
 Statistical Finance (q-fin.ST),8
+Programming Languages (cs.PL),8
 Applications (stat.AP),7
 Graphics (cs.GR),7
-"Computational Engineering, Finance, and Science (cs.CE)",6
+Fluid Dynamics (physics.flu-dyn),7
 Statistics Theory (math.ST),6
 Computational Physics (physics.comp-ph),6
-Fluid Dynamics (physics.flu-dyn),6
+"Computational Engineering, Finance, and Science (cs.CE)",6
 Numerical Analysis (math.NA),5
 Materials Science (cond-mat.mtrl-sci),4
 Trading and Market Microstructure (q-fin.TR),4
