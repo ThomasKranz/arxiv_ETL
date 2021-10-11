@@ -1,32 +1,32 @@
 subject,frequency
-Machine Learning (cs.LG),2571
-Artificial Intelligence (cs.AI),1733
-Computer Vision and Pattern Recognition (cs.CV),1432
-Computation and Language (cs.CL),1255
-Robotics (cs.RO),420
-Information Retrieval (cs.IR),185
+Machine Learning (cs.LG),2585
+Artificial Intelligence (cs.AI),1741
+Computer Vision and Pattern Recognition (cs.CV),1445
+Computation and Language (cs.CL),1259
+Robotics (cs.RO),423
+Information Retrieval (cs.IR),193
 Cryptography and Security (cs.CR),183
 Computers and Society (cs.CY),123
 Neural and Evolutionary Computing (cs.NE),121
-Human-Computer Interaction (cs.HC),114
-Sound (cs.SD),114
-Software Engineering (cs.SE),88
-Machine Learning (stat.ML),86
+Human-Computer Interaction (cs.HC),115
+Sound (cs.SD),115
+Software Engineering (cs.SE),89
+Machine Learning (stat.ML),88
 Social and Information Networks (cs.SI),72
 "Distributed, Parallel, and Cluster Computing (cs.DC)",70
 Multiagent Systems (cs.MA),68
-Signal Processing (eess.SP),66
+Signal Processing (eess.SP),67
+Image and Video Processing (eess.IV),61
 Systems and Control (eess.SY),60
-Image and Video Processing (eess.IV),60
-Audio and Speech Processing (eess.AS),53
-Computer Science and Game Theory (cs.GT),51
+Audio and Speech Processing (eess.AS),55
+Computer Science and Game Theory (cs.GT),52
 Networking and Internet Architecture (cs.NI),48
 Logic in Computer Science (cs.LO),38
 Information Theory (cs.IT),37
 Databases (cs.DB),35
 Optimization and Control (math.OC),34
 Neurons and Cognition (q-bio.NC),31
-Quantum Physics (quant-ph),28
+Quantum Physics (quant-ph),29
 Hardware Architecture (cs.AR),25
 Multimedia (cs.MM),17
 Methodology (stat.ME),16
@@ -35,16 +35,16 @@ Data Structures and Algorithms (cs.DS),13
 Quantitative Methods (q-bio.QM),13
 Genomics (q-bio.GN),11
 Computational Complexity (cs.CC),11
+Programming Languages (cs.PL),10
 Instrumentation and Methods for Astrophysics (astro-ph.IM),9
-Programming Languages (cs.PL),9
 Emerging Technologies (cs.ET),9
+Statistical Finance (q-fin.ST),9
 Fluid Dynamics (physics.flu-dyn),8
-Statistical Finance (q-fin.ST),8
 Applications (stat.AP),7
 Graphics (cs.GR),7
 Computational Physics (physics.comp-ph),6
-Statistics Theory (math.ST),6
 "Computational Engineering, Finance, and Science (cs.CE)",6
+Statistics Theory (math.ST),6
 Numerical Analysis (math.NA),5
 Geophysics (physics.geo-ph),4
 Earth and Planetary Astrophysics (astro-ph.EP),4
@@ -55,27 +55,27 @@ Atmospheric and Oceanic Physics (physics.ao-ph),4
 Theoretical Economics (econ.TH),4
 Medical Physics (physics.med-ph),4
 Trading and Market Microstructure (q-fin.TR),4
-Other Computer Science (cs.OH),3
+Formal Languages and Automata Theory (cs.FL),3
 "Data Analysis, Statistics and Probability (physics.data-an)",3
-History and Philosophy of Physics (physics.hist-ph),3
-Algebraic Topology (math.AT),3
 Discrete Mathematics (cs.DM),3
-Audio and Speech Processing (eess.AS) ,2
-Symbolic Computation (cs.SC),2
-Chemical Physics (physics.chem-ph),2
-Computation (stat.CO),2
-Computational Finance (q-fin.CP),2
-Computational Geometry (cs.CG),2
-Logic (math.LO),2
-Portfolio Management (q-fin.PM),2
-Dynamical Systems (math.DS),2
+History and Philosophy of Physics (physics.hist-ph),3
+Other Computer Science (cs.OH),3
+Algebraic Topology (math.AT),3
 General Economics (econ.GN),2
-Formal Languages and Automata Theory (cs.FL),2
-Statistical Mechanics (cond-mat.stat-mech),1
-Solar and Stellar Astrophysics (astro-ph.SR),1
+Dynamical Systems (math.DS),2
+Portfolio Management (q-fin.PM),2
+Computational Geometry (cs.CG),2
+Computational Finance (q-fin.CP),2
+Computation (stat.CO),2
+Chemical Physics (physics.chem-ph),2
+Symbolic Computation (cs.SC),2
+Audio and Speech Processing (eess.AS) ,2
+Logic (math.LO),2
 Other Statistics (stat.OT) ,1
-Populations and Evolution (q-bio.PE),1
+Solar and Stellar Astrophysics (astro-ph.SR),1
 Risk Management (q-fin.RM),1
+Statistical Mechanics (cond-mat.stat-mech),1
+Populations and Evolution (q-bio.PE),1
 Adaptation and Self-Organizing Systems (nlin.AO),1
 Other Quantitative Biology (q-bio.OT),1
 General Finance (q-fin.GN),1
