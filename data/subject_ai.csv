@@ -1,15 +1,15 @@
 subject,frequency
-Machine Learning (cs.LG),3052
-Artificial Intelligence (cs.AI),1925
-Computer Vision and Pattern Recognition (cs.CV),1625
-Computation and Language (cs.CL),1429
-Robotics (cs.RO),488
-Information Retrieval (cs.IR),218
-Cryptography and Security (cs.CR),206
+Machine Learning (cs.LG),3079
+Artificial Intelligence (cs.AI),1930
+Computer Vision and Pattern Recognition (cs.CV),1626
+Computation and Language (cs.CL),1433
+Robotics (cs.RO),490
+Information Retrieval (cs.IR),219
+Cryptography and Security (cs.CR),207
 Computers and Society (cs.CY),150
-Sound (cs.SD),137
+Sound (cs.SD),139
 Human-Computer Interaction (cs.HC),135
-Neural and Evolutionary Computing (cs.NE),134
+Neural and Evolutionary Computing (cs.NE),135
 Software Engineering (cs.SE),104
 Machine Learning (stat.ML),100
 Image and Video Processing (eess.IV),86
@@ -20,7 +20,7 @@ Multiagent Systems (cs.MA),77
 Systems and Control (eess.SY),71
 Audio and Speech Processing (eess.AS),64
 Computer Science and Game Theory (cs.GT),59
-Networking and Internet Architecture (cs.NI),53
+Networking and Internet Architecture (cs.NI),54
 Logic in Computer Science (cs.LO),46
 Information Theory (cs.IT),43
 Optimization and Control (math.OC),40
@@ -34,13 +34,13 @@ Methodology (stat.ME),18
 Genomics (q-bio.GN),14
 Data Structures and Algorithms (cs.DS),14
 Digital Libraries (cs.DL),14
-Computational Complexity (cs.CC),12
+Computational Complexity (cs.CC),13
 Programming Languages (cs.PL),10
 Statistical Finance (q-fin.ST),10
 Fluid Dynamics (physics.flu-dyn),9
 Instrumentation and Methods for Astrophysics (astro-ph.IM),9
 Emerging Technologies (cs.ET),9
-Applications (stat.AP),7
+Applications (stat.AP),8
 Statistics Theory (math.ST),7
 Graphics (cs.GR),7
 "Computational Engineering, Finance, and Science (cs.CE)",7
