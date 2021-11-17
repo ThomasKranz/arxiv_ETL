@@ -1,38 +1,38 @@
 subject,frequency
-Machine Learning (cs.LG),3110
-Artificial Intelligence (cs.AI),1956
-Computer Vision and Pattern Recognition (cs.CV),1640
-Computation and Language (cs.CL),1449
+Machine Learning (cs.LG),3128
+Artificial Intelligence (cs.AI),1969
+Computer Vision and Pattern Recognition (cs.CV),1645
+Computation and Language (cs.CL),1453
 Robotics (cs.RO),492
 Information Retrieval (cs.IR),221
 Cryptography and Security (cs.CR),208
 Computers and Society (cs.CY),152
 Sound (cs.SD),141
-Human-Computer Interaction (cs.HC),135
+Human-Computer Interaction (cs.HC),136
 Neural and Evolutionary Computing (cs.NE),135
 Software Engineering (cs.SE),105
 Machine Learning (stat.ML),102
-Image and Video Processing (eess.IV),87
+Image and Video Processing (eess.IV),88
 Social and Information Networks (cs.SI),85
-"Distributed, Parallel, and Cluster Computing (cs.DC)",81
-Signal Processing (eess.SP),79
+Signal Processing (eess.SP),82
+"Distributed, Parallel, and Cluster Computing (cs.DC)",82
 Multiagent Systems (cs.MA),78
 Systems and Control (eess.SY),72
 Audio and Speech Processing (eess.AS),64
 Computer Science and Game Theory (cs.GT),59
-Networking and Internet Architecture (cs.NI),56
-Logic in Computer Science (cs.LO),46
+Networking and Internet Architecture (cs.NI),57
+Logic in Computer Science (cs.LO),47
 Information Theory (cs.IT),43
-Optimization and Control (math.OC),40
-Databases (cs.DB),38
+Optimization and Control (math.OC),41
+Databases (cs.DB),39
 Quantum Physics (quant-ph),37
 Neurons and Cognition (q-bio.NC),35
 Hardware Architecture (cs.AR),30
 Methodology (stat.ME),18
 Multimedia (cs.MM),18
 Quantitative Methods (q-bio.QM),18
-Digital Libraries (cs.DL),15
-Genomics (q-bio.GN),14
+Digital Libraries (cs.DL),16
+Genomics (q-bio.GN),15
 Data Structures and Algorithms (cs.DS),14
 Computational Complexity (cs.CC),13
 Programming Languages (cs.PL),10
@@ -59,19 +59,19 @@ Atmospheric and Oceanic Physics (physics.ao-ph),4
 Biomolecules (q-bio.BM),4
 History and Philosophy of Physics (physics.hist-ph),3
 Other Computer Science (cs.OH),3
+Econometrics (econ.EM),3
 Portfolio Management (q-fin.PM),3
 Discrete Mathematics (cs.DM),3
 "Data Analysis, Statistics and Probability (physics.data-an)",3
-Category Theory (math.CT),3
 Algebraic Topology (math.AT),3
-Symbolic Computation (cs.SC),2
-Audio and Speech Processing (eess.AS) ,2
+Category Theory (math.CT),3
 Chemical Physics (physics.chem-ph),2
+Audio and Speech Processing (eess.AS) ,2
 Computational Finance (q-fin.CP),2
+Symbolic Computation (cs.SC),2
 Computation (stat.CO),2
 Computational Geometry (cs.CG),2
 Dynamical Systems (math.DS),2
-Econometrics (econ.EM),2
 Logic (math.LO),2
 Statistical Mechanics (cond-mat.stat-mech),1
 Risk Management (q-fin.RM),1
