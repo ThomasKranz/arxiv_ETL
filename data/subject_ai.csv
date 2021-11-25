@@ -1,11 +1,11 @@
 subject,frequency
-Machine Learning (cs.LG),3204
-Artificial Intelligence (cs.AI),2003
-Computer Vision and Pattern Recognition (cs.CV),1675
-Computation and Language (cs.CL),1465
-Robotics (cs.RO),501
-Information Retrieval (cs.IR),227
-Cryptography and Security (cs.CR),214
+Machine Learning (cs.LG),3212
+Artificial Intelligence (cs.AI),2011
+Computer Vision and Pattern Recognition (cs.CV),1685
+Computation and Language (cs.CL),1467
+Robotics (cs.RO),502
+Information Retrieval (cs.IR),229
+Cryptography and Security (cs.CR),215
 Computers and Society (cs.CY),152
 Sound (cs.SD),144
 Human-Computer Interaction (cs.HC),137
@@ -23,8 +23,8 @@ Computer Science and Game Theory (cs.GT),59
 Networking and Internet Architecture (cs.NI),58
 Logic in Computer Science (cs.LO),47
 Information Theory (cs.IT),43
-Optimization and Control (math.OC),41
-Databases (cs.DB),39
+Optimization and Control (math.OC),42
+Databases (cs.DB),40
 Quantum Physics (quant-ph),37
 Neurons and Cognition (q-bio.NC),35
 Hardware Architecture (cs.AR),30
@@ -35,41 +35,41 @@ Digital Libraries (cs.DL),16
 Data Structures and Algorithms (cs.DS),15
 Genomics (q-bio.GN),15
 Computational Complexity (cs.CC),13
-Programming Languages (cs.PL),10
 Statistical Finance (q-fin.ST),10
+Programming Languages (cs.PL),10
+Instrumentation and Methods for Astrophysics (astro-ph.IM),9
 Fluid Dynamics (physics.flu-dyn),9
 Emerging Technologies (cs.ET),9
-Instrumentation and Methods for Astrophysics (astro-ph.IM),9
 Applications (stat.AP),8
-Statistics Theory (math.ST),7
+Computational Physics (physics.comp-ph),7
 "Computational Engineering, Finance, and Science (cs.CE)",7
 Graphics (cs.GR),7
-Computational Physics (physics.comp-ph),7
+Statistics Theory (math.ST),7
 Physics and Society (physics.soc-ph),6
 Medical Physics (physics.med-ph),6
 Geophysics (physics.geo-ph),5
-Biomolecules (q-bio.BM),5
 Numerical Analysis (math.NA),5
+Biomolecules (q-bio.BM),5
+Atmospheric and Oceanic Physics (physics.ao-ph),5
 Materials Science (cond-mat.mtrl-sci),4
 Trading and Market Microstructure (q-fin.TR),4
-General Economics (econ.GN),4
 Theoretical Economics (econ.TH),4
+General Economics (econ.GN),4
 Formal Languages and Automata Theory (cs.FL),4
 Earth and Planetary Astrophysics (astro-ph.EP),4
-Atmospheric and Oceanic Physics (physics.ao-ph),4
 History and Philosophy of Physics (physics.hist-ph),3
 Other Computer Science (cs.OH),3
 Econometrics (econ.EM),3
 Portfolio Management (q-fin.PM),3
 Discrete Mathematics (cs.DM),3
+Category Theory (math.CT),3
 "Data Analysis, Statistics and Probability (physics.data-an)",3
 Algebraic Topology (math.AT),3
-Category Theory (math.CT),3
-Combinatorics (math.CO),2
+Computation (stat.CO),2
 Audio and Speech Processing (eess.AS) ,2
 Chemical Physics (physics.chem-ph),2
+Combinatorics (math.CO),2
 Computational Geometry (cs.CG),2
-Computation (stat.CO),2
 Symbolic Computation (cs.SC),2
 Computational Finance (q-fin.CP),2
 Dynamical Systems (math.DS),2
