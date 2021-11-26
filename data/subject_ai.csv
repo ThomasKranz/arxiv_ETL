@@ -1,11 +1,11 @@
 subject,frequency
-Machine Learning (cs.LG),3212
-Artificial Intelligence (cs.AI),2011
-Computer Vision and Pattern Recognition (cs.CV),1685
-Computation and Language (cs.CL),1467
-Robotics (cs.RO),502
-Information Retrieval (cs.IR),229
-Cryptography and Security (cs.CR),215
+Machine Learning (cs.LG),3220
+Artificial Intelligence (cs.AI),2019
+Computer Vision and Pattern Recognition (cs.CV),1695
+Computation and Language (cs.CL),1469
+Robotics (cs.RO),503
+Information Retrieval (cs.IR),231
+Cryptography and Security (cs.CR),216
 Computers and Society (cs.CY),152
 Sound (cs.SD),144
 Human-Computer Interaction (cs.HC),137
@@ -23,8 +23,8 @@ Computer Science and Game Theory (cs.GT),59
 Networking and Internet Architecture (cs.NI),58
 Logic in Computer Science (cs.LO),47
 Information Theory (cs.IT),43
-Optimization and Control (math.OC),42
-Databases (cs.DB),40
+Optimization and Control (math.OC),43
+Databases (cs.DB),41
 Quantum Physics (quant-ph),37
 Neurons and Cognition (q-bio.NC),35
 Hardware Architecture (cs.AR),30
@@ -46,11 +46,11 @@ Computational Physics (physics.comp-ph),7
 Graphics (cs.GR),7
 Statistics Theory (math.ST),7
 Physics and Society (physics.soc-ph),6
+Atmospheric and Oceanic Physics (physics.ao-ph),6
 Medical Physics (physics.med-ph),6
 Geophysics (physics.geo-ph),5
 Numerical Analysis (math.NA),5
 Biomolecules (q-bio.BM),5
-Atmospheric and Oceanic Physics (physics.ao-ph),5
 Materials Science (cond-mat.mtrl-sci),4
 Trading and Market Microstructure (q-fin.TR),4
 Theoretical Economics (econ.TH),4
