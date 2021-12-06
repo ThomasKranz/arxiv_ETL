@@ -1,19 +1,19 @@
 subject,frequency
-Machine Learning (cs.LG),3326
-Artificial Intelligence (cs.AI),2053
-Computer Vision and Pattern Recognition (cs.CV),1774
-Computation and Language (cs.CL),1492
-Robotics (cs.RO),510
+Machine Learning (cs.LG),3335
+Artificial Intelligence (cs.AI),2061
+Computer Vision and Pattern Recognition (cs.CV),1787
+Computation and Language (cs.CL),1503
+Robotics (cs.RO),513
 Information Retrieval (cs.IR),235
-Cryptography and Security (cs.CR),222
-Computers and Society (cs.CY),162
+Cryptography and Security (cs.CR),224
+Computers and Society (cs.CY),163
 Sound (cs.SD),146
-Human-Computer Interaction (cs.HC),142
+Human-Computer Interaction (cs.HC),144
 Neural and Evolutionary Computing (cs.NE),142
-Software Engineering (cs.SE),111
+Software Engineering (cs.SE),112
 Machine Learning (stat.ML),106
+Image and Video Processing (eess.IV),95
 Social and Information Networks (cs.SI),91
-Image and Video Processing (eess.IV),91
 "Distributed, Parallel, and Cluster Computing (cs.DC)",86
 Signal Processing (eess.SP),85
 Multiagent Systems (cs.MA),85
@@ -29,11 +29,11 @@ Neurons and Cognition (q-bio.NC),37
 Quantum Physics (quant-ph),37
 Hardware Architecture (cs.AR),30
 Quantitative Methods (q-bio.QM),21
-Multimedia (cs.MM),18
+Multimedia (cs.MM),19
 Methodology (stat.ME),18
 Genomics (q-bio.GN),17
+Data Structures and Algorithms (cs.DS),16
 Digital Libraries (cs.DL),16
-Data Structures and Algorithms (cs.DS),15
 Computational Complexity (cs.CC),13
 Programming Languages (cs.PL),10
 Statistical Finance (q-fin.ST),10
@@ -56,13 +56,13 @@ Earth and Planetary Astrophysics (astro-ph.EP),4
 Theoretical Economics (econ.TH),4
 Materials Science (cond-mat.mtrl-sci),4
 Trading and Market Microstructure (q-fin.TR),4
+Algebraic Topology (math.AT),4
 Formal Languages and Automata Theory (cs.FL),4
 General Economics (econ.GN),4
 Econometrics (econ.EM),3
 Discrete Mathematics (cs.DM),3
 Other Computer Science (cs.OH),3
 "Data Analysis, Statistics and Probability (physics.data-an)",3
-Algebraic Topology (math.AT),3
 History and Philosophy of Physics (physics.hist-ph),3
 Portfolio Management (q-fin.PM),3
 Symbolic Computation (cs.SC),2
