@@ -1,23 +1,23 @@
 subject,frequency
-Machine Learning (cs.LG),3486
-Artificial Intelligence (cs.AI),2136
-Computer Vision and Pattern Recognition (cs.CV),1894
-Computation and Language (cs.CL),1581
-Robotics (cs.RO),535
-Information Retrieval (cs.IR),251
+Machine Learning (cs.LG),3504
+Artificial Intelligence (cs.AI),2144
+Computer Vision and Pattern Recognition (cs.CV),1906
+Computation and Language (cs.CL),1596
+Robotics (cs.RO),536
+Information Retrieval (cs.IR),254
 Cryptography and Security (cs.CR),234
 Computers and Society (cs.CY),167
 Sound (cs.SD),150
-Neural and Evolutionary Computing (cs.NE),147
+Neural and Evolutionary Computing (cs.NE),148
 Human-Computer Interaction (cs.HC),147
 Software Engineering (cs.SE),117
 Machine Learning (stat.ML),110
-Image and Video Processing (eess.IV),103
-Social and Information Networks (cs.SI),92
-"Distributed, Parallel, and Cluster Computing (cs.DC)",89
+Image and Video Processing (eess.IV),106
+Social and Information Networks (cs.SI),93
+"Distributed, Parallel, and Cluster Computing (cs.DC)",91
 Signal Processing (eess.SP),88
 Multiagent Systems (cs.MA),88
-Systems and Control (eess.SY),77
+Systems and Control (eess.SY),79
 Audio and Speech Processing (eess.AS),67
 Computer Science and Game Theory (cs.GT),66
 Networking and Internet Architecture (cs.NI),66
@@ -41,10 +41,10 @@ Instrumentation and Methods for Astrophysics (astro-ph.IM),10
 Emerging Technologies (cs.ET),9
 Fluid Dynamics (physics.flu-dyn),9
 "Computational Engineering, Finance, and Science (cs.CE)",9
+Computational Physics (physics.comp-ph),8
 Graphics (cs.GR),8
 Applications (stat.AP),8
 Medical Physics (physics.med-ph),7
-Computational Physics (physics.comp-ph),7
 Statistics Theory (math.ST),7
 Atmospheric and Oceanic Physics (physics.ao-ph),6
 Geophysics (physics.geo-ph),6
@@ -65,6 +65,7 @@ Econometrics (econ.EM),3
 "Data Analysis, Statistics and Probability (physics.data-an)",3
 History and Philosophy of Physics (physics.hist-ph),3
 Portfolio Management (q-fin.PM),3
+Dynamical Systems (math.DS),3
 Computational Geometry (cs.CG),2
 Logic (math.LO),2
 Computational Finance (q-fin.CP),2
@@ -74,7 +75,6 @@ Chemical Physics (physics.chem-ph),2
 Symbolic Computation (cs.SC),2
 Audio and Speech Processing (eess.AS) ,2
 Optics (physics.optics),2
-Dynamical Systems (math.DS),2
 Other Statistics (stat.OT) ,1
 Risk Management (q-fin.RM),1
 Statistical Mechanics (cond-mat.stat-mech),1
