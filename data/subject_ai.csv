@@ -1,14 +1,14 @@
 subject,frequency
-Machine Learning (cs.LG),3514
-Artificial Intelligence (cs.AI),2150
-Computer Vision and Pattern Recognition (cs.CV),1914
-Computation and Language (cs.CL),1599
+Machine Learning (cs.LG),3518
+Artificial Intelligence (cs.AI),2156
+Computer Vision and Pattern Recognition (cs.CV),1921
+Computation and Language (cs.CL),1613
 Robotics (cs.RO),537
 Information Retrieval (cs.IR),254
 Cryptography and Security (cs.CR),236
 Computers and Society (cs.CY),173
+Neural and Evolutionary Computing (cs.NE),150
 Sound (cs.SD),150
-Neural and Evolutionary Computing (cs.NE),149
 Human-Computer Interaction (cs.HC),147
 Software Engineering (cs.SE),118
 Machine Learning (stat.ML),110
@@ -18,22 +18,22 @@ Social and Information Networks (cs.SI),93
 Signal Processing (eess.SP),88
 Multiagent Systems (cs.MA),88
 Systems and Control (eess.SY),79
+Audio and Speech Processing (eess.AS),68
 Computer Science and Game Theory (cs.GT),67
-Audio and Speech Processing (eess.AS),67
 Networking and Internet Architecture (cs.NI),66
-Logic in Computer Science (cs.LO),51
+Logic in Computer Science (cs.LO),52
 Optimization and Control (math.OC),50
+Databases (cs.DB),47
 Information Theory (cs.IT),46
-Databases (cs.DB),46
-Quantum Physics (quant-ph),42
+Quantum Physics (quant-ph),43
 Neurons and Cognition (q-bio.NC),38
 Hardware Architecture (cs.AR),32
 Multimedia (cs.MM),21
 Quantitative Methods (q-bio.QM),21
-Methodology (stat.ME),19
+Methodology (stat.ME),20
 Genomics (q-bio.GN),18
+Digital Libraries (cs.DL),18
 Data Structures and Algorithms (cs.DS),18
-Digital Libraries (cs.DL),17
 Computational Complexity (cs.CC),14
 Statistical Finance (q-fin.ST),11
 Programming Languages (cs.PL),11
@@ -41,14 +41,14 @@ Instrumentation and Methods for Astrophysics (astro-ph.IM),10
 Emerging Technologies (cs.ET),9
 Fluid Dynamics (physics.flu-dyn),9
 "Computational Engineering, Finance, and Science (cs.CE)",9
-Computational Physics (physics.comp-ph),8
-Graphics (cs.GR),8
 Applications (stat.AP),8
-Medical Physics (physics.med-ph),7
+Graphics (cs.GR),8
+Computational Physics (physics.comp-ph),8
+Physics and Society (physics.soc-ph),7
 Statistics Theory (math.ST),7
-Atmospheric and Oceanic Physics (physics.ao-ph),6
+Medical Physics (physics.med-ph),7
 Geophysics (physics.geo-ph),6
-Physics and Society (physics.soc-ph),6
+Atmospheric and Oceanic Physics (physics.ao-ph),6
 Biomolecules (q-bio.BM),6
 Numerical Analysis (math.NA),5
 Trading and Market Microstructure (q-fin.TR),5
