@@ -1,34 +1,34 @@
 subject,frequency
-Machine Learning (cs.LG),3550
-Artificial Intelligence (cs.AI),2172
-Computer Vision and Pattern Recognition (cs.CV),1943
-Computation and Language (cs.CL),1631
-Robotics (cs.RO),540
-Information Retrieval (cs.IR),255
-Cryptography and Security (cs.CR),242
+Machine Learning (cs.LG),3570
+Artificial Intelligence (cs.AI),2180
+Computer Vision and Pattern Recognition (cs.CV),1953
+Computation and Language (cs.CL),1643
+Robotics (cs.RO),543
+Information Retrieval (cs.IR),256
+Cryptography and Security (cs.CR),246
 Computers and Society (cs.CY),173
-Neural and Evolutionary Computing (cs.NE),155
-Sound (cs.SD),151
-Human-Computer Interaction (cs.HC),149
+Neural and Evolutionary Computing (cs.NE),158
+Sound (cs.SD),152
+Human-Computer Interaction (cs.HC),151
 Software Engineering (cs.SE),122
 Machine Learning (stat.ML),110
 Image and Video Processing (eess.IV),109
+"Distributed, Parallel, and Cluster Computing (cs.DC)",93
 Social and Information Networks (cs.SI),93
-"Distributed, Parallel, and Cluster Computing (cs.DC)",92
-Signal Processing (eess.SP),89
+Signal Processing (eess.SP),90
 Multiagent Systems (cs.MA),88
 Systems and Control (eess.SY),81
+Computer Science and Game Theory (cs.GT),69
 Audio and Speech Processing (eess.AS),68
-Computer Science and Game Theory (cs.GT),68
 Networking and Internet Architecture (cs.NI),66
 Optimization and Control (math.OC),52
 Logic in Computer Science (cs.LO),52
 Information Theory (cs.IT),48
 Databases (cs.DB),47
 Quantum Physics (quant-ph),43
-Neurons and Cognition (q-bio.NC),39
+Neurons and Cognition (q-bio.NC),40
 Hardware Architecture (cs.AR),32
-Quantitative Methods (q-bio.QM),22
+Quantitative Methods (q-bio.QM),23
 Multimedia (cs.MM),21
 Methodology (stat.ME),20
 Genomics (q-bio.GN),18
@@ -38,9 +38,9 @@ Computational Complexity (cs.CC),14
 Statistical Finance (q-fin.ST),11
 Programming Languages (cs.PL),11
 Instrumentation and Methods for Astrophysics (astro-ph.IM),10
+Graphics (cs.GR),10
 Emerging Technologies (cs.ET),9
 Fluid Dynamics (physics.flu-dyn),9
-Graphics (cs.GR),9
 "Computational Engineering, Finance, and Science (cs.CE)",9
 Applications (stat.AP),8
 Computational Physics (physics.comp-ph),8
