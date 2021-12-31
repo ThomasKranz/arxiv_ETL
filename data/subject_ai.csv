@@ -1,29 +1,29 @@
 subject,frequency
-Machine Learning (cs.LG),3584
-Artificial Intelligence (cs.AI),2188
-Computer Vision and Pattern Recognition (cs.CV),1962
-Computation and Language (cs.CL),1646
-Robotics (cs.RO),549
+Machine Learning (cs.LG),3598
+Artificial Intelligence (cs.AI),2196
+Computer Vision and Pattern Recognition (cs.CV),1971
+Computation and Language (cs.CL),1649
+Robotics (cs.RO),555
 Information Retrieval (cs.IR),256
-Cryptography and Security (cs.CR),247
+Cryptography and Security (cs.CR),248
 Computers and Society (cs.CY),173
 Neural and Evolutionary Computing (cs.NE),158
-Human-Computer Interaction (cs.HC),152
+Human-Computer Interaction (cs.HC),153
 Sound (cs.SD),152
 Software Engineering (cs.SE),122
-Machine Learning (stat.ML),111
-Image and Video Processing (eess.IV),110
-Social and Information Networks (cs.SI),94
-"Distributed, Parallel, and Cluster Computing (cs.DC)",94
+Machine Learning (stat.ML),112
+Image and Video Processing (eess.IV),111
+Social and Information Networks (cs.SI),95
+"Distributed, Parallel, and Cluster Computing (cs.DC)",95
 Signal Processing (eess.SP),90
 Multiagent Systems (cs.MA),88
-Systems and Control (eess.SY),82
-Computer Science and Game Theory (cs.GT),70
+Systems and Control (eess.SY),83
+Computer Science and Game Theory (cs.GT),71
 Audio and Speech Processing (eess.AS),68
 Networking and Internet Architecture (cs.NI),66
-Optimization and Control (math.OC),53
+Optimization and Control (math.OC),54
 Logic in Computer Science (cs.LO),52
-Databases (cs.DB),48
+Databases (cs.DB),49
 Information Theory (cs.IT),48
 Quantum Physics (quant-ph),43
 Neurons and Cognition (q-bio.NC),40
@@ -62,20 +62,20 @@ General Economics (econ.GN),4
 Formal Languages and Automata Theory (cs.FL),4
 Algebraic Topology (math.AT),4
 History and Philosophy of Physics (physics.hist-ph),3
+Astrophysics of Galaxies (astro-ph.GA),3
 Portfolio Management (q-fin.PM),3
 Econometrics (econ.EM),3
 Dynamical Systems (math.DS),3
 "Data Analysis, Statistics and Probability (physics.data-an)",3
-Audio and Speech Processing (eess.AS) ,2
-Logic (math.LO),2
-Optics (physics.optics),2
-Astrophysics of Galaxies (astro-ph.GA),2
 Symbolic Computation (cs.SC),2
-Combinatorics (math.CO),2
-Chemical Physics (physics.chem-ph),2
-Computational Geometry (cs.CG),2
-Computational Finance (q-fin.CP),2
 Computation (stat.CO),2
+Optics (physics.optics),2
+Logic (math.LO),2
+Audio and Speech Processing (eess.AS) ,2
+Computational Geometry (cs.CG),2
+Chemical Physics (physics.chem-ph),2
+Computational Finance (q-fin.CP),2
+Combinatorics (math.CO),2
 Risk Management (q-fin.RM),1
 Populations and Evolution (q-bio.PE),1
 Other Statistics (stat.OT) ,1
