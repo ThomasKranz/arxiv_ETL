@@ -1,10 +1,10 @@
 subject,frequency
-Machine Learning (cs.LG),3646
-Artificial Intelligence (cs.AI),2210
-Computer Vision and Pattern Recognition (cs.CV),1983
-Computation and Language (cs.CL),1655
-Robotics (cs.RO),559
-Information Retrieval (cs.IR),261
+Machine Learning (cs.LG),3665
+Artificial Intelligence (cs.AI),2212
+Computer Vision and Pattern Recognition (cs.CV),1988
+Computation and Language (cs.CL),1656
+Robotics (cs.RO),560
+Information Retrieval (cs.IR),262
 Cryptography and Security (cs.CR),249
 Computers and Society (cs.CY),173
 Neural and Evolutionary Computing (cs.NE),161
@@ -16,14 +16,14 @@ Image and Video Processing (eess.IV),111
 Social and Information Networks (cs.SI),95
 "Distributed, Parallel, and Cluster Computing (cs.DC)",95
 Signal Processing (eess.SP),93
-Multiagent Systems (cs.MA),89
+Multiagent Systems (cs.MA),90
 Systems and Control (eess.SY),86
-Computer Science and Game Theory (cs.GT),72
+Computer Science and Game Theory (cs.GT),75
 Audio and Speech Processing (eess.AS),68
 Networking and Internet Architecture (cs.NI),66
 Optimization and Control (math.OC),56
 Logic in Computer Science (cs.LO),53
-Databases (cs.DB),50
+Databases (cs.DB),51
 Information Theory (cs.IT),48
 Quantum Physics (quant-ph),43
 Neurons and Cognition (q-bio.NC),41
@@ -39,10 +39,10 @@ Statistical Finance (q-fin.ST),12
 Programming Languages (cs.PL),11
 Instrumentation and Methods for Astrophysics (astro-ph.IM),10
 Graphics (cs.GR),10
+Computational Physics (physics.comp-ph),9
 Emerging Technologies (cs.ET),9
 Fluid Dynamics (physics.flu-dyn),9
 "Computational Engineering, Finance, and Science (cs.CE)",9
-Computational Physics (physics.comp-ph),8
 Applications (stat.AP),8
 Medical Physics (physics.med-ph),7
 Physics and Society (physics.soc-ph),7
