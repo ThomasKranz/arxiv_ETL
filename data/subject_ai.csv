@@ -1,33 +1,33 @@
 subject,frequency
-Machine Learning (cs.LG),3770
-Artificial Intelligence (cs.AI),2285
-Computer Vision and Pattern Recognition (cs.CV),2028
-Computation and Language (cs.CL),1713
+Machine Learning (cs.LG),3775
+Artificial Intelligence (cs.AI),2292
+Computer Vision and Pattern Recognition (cs.CV),2033
+Computation and Language (cs.CL),1716
 Robotics (cs.RO),570
 Information Retrieval (cs.IR),276
-Cryptography and Security (cs.CR),254
+Cryptography and Security (cs.CR),256
 Computers and Society (cs.CY),177
-Neural and Evolutionary Computing (cs.NE),166
-Human-Computer Interaction (cs.HC),159
+Neural and Evolutionary Computing (cs.NE),170
+Human-Computer Interaction (cs.HC),160
 Sound (cs.SD),158
-Software Engineering (cs.SE),131
-Image and Video Processing (eess.IV),116
+Software Engineering (cs.SE),132
+Image and Video Processing (eess.IV),117
 Machine Learning (stat.ML),112
+"Distributed, Parallel, and Cluster Computing (cs.DC)",101
 Social and Information Networks (cs.SI),100
-"Distributed, Parallel, and Cluster Computing (cs.DC)",99
 Signal Processing (eess.SP),96
 Multiagent Systems (cs.MA),94
 Systems and Control (eess.SY),90
 Computer Science and Game Theory (cs.GT),79
 Audio and Speech Processing (eess.AS),70
-Networking and Internet Architecture (cs.NI),68
-Optimization and Control (math.OC),59
+Networking and Internet Architecture (cs.NI),69
+Optimization and Control (math.OC),60
 Logic in Computer Science (cs.LO),53
 Databases (cs.DB),52
-Information Theory (cs.IT),49
+Information Theory (cs.IT),50
 Quantum Physics (quant-ph),45
 Neurons and Cognition (q-bio.NC),44
-Hardware Architecture (cs.AR),33
+Hardware Architecture (cs.AR),34
 Quantitative Methods (q-bio.QM),24
 Multimedia (cs.MM),21
 Methodology (stat.ME),21
@@ -36,8 +36,8 @@ Digital Libraries (cs.DL),18
 Genomics (q-bio.GN),18
 Computational Complexity (cs.CC),14
 Statistical Finance (q-fin.ST),13
+Graphics (cs.GR),12
 Programming Languages (cs.PL),11
-Graphics (cs.GR),11
 Emerging Technologies (cs.ET),10
 Instrumentation and Methods for Astrophysics (astro-ph.IM),10
 "Computational Engineering, Finance, and Science (cs.CE)",10
