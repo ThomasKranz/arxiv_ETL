@@ -1,31 +1,31 @@
 subject,frequency
-Machine Learning (cs.LG),3795
-Artificial Intelligence (cs.AI),2312
-Computer Vision and Pattern Recognition (cs.CV),2046
-Computation and Language (cs.CL),1724
-Robotics (cs.RO),570
+Machine Learning (cs.LG),3820
+Artificial Intelligence (cs.AI),2324
+Computer Vision and Pattern Recognition (cs.CV),2061
+Computation and Language (cs.CL),1734
+Robotics (cs.RO),571
 Information Retrieval (cs.IR),281
-Cryptography and Security (cs.CR),257
-Computers and Society (cs.CY),179
-Neural and Evolutionary Computing (cs.NE),170
-Sound (cs.SD),160
-Human-Computer Interaction (cs.HC),160
+Cryptography and Security (cs.CR),262
+Computers and Society (cs.CY),180
+Neural and Evolutionary Computing (cs.NE),171
+Sound (cs.SD),161
+Human-Computer Interaction (cs.HC),161
 Software Engineering (cs.SE),134
-Image and Video Processing (eess.IV),119
+Image and Video Processing (eess.IV),120
 Machine Learning (stat.ML),112
 "Distributed, Parallel, and Cluster Computing (cs.DC)",101
 Social and Information Networks (cs.SI),101
 Signal Processing (eess.SP),97
 Multiagent Systems (cs.MA),96
 Systems and Control (eess.SY),90
-Computer Science and Game Theory (cs.GT),79
+Computer Science and Game Theory (cs.GT),81
 Audio and Speech Processing (eess.AS),70
-Networking and Internet Architecture (cs.NI),69
+Networking and Internet Architecture (cs.NI),70
 Optimization and Control (math.OC),60
 Logic in Computer Science (cs.LO),53
 Databases (cs.DB),52
 Information Theory (cs.IT),50
-Quantum Physics (quant-ph),45
+Quantum Physics (quant-ph),46
 Neurons and Cognition (q-bio.NC),45
 Hardware Architecture (cs.AR),35
 Quantitative Methods (q-bio.QM),24
@@ -45,12 +45,12 @@ Fluid Dynamics (physics.flu-dyn),9
 Computational Physics (physics.comp-ph),9
 Applications (stat.AP),9
 Physics and Society (physics.soc-ph),8
+Trading and Market Microstructure (q-fin.TR),7
 Statistics Theory (math.ST),7
 Numerical Analysis (math.NA),7
+Biomolecules (q-bio.BM),7
 Medical Physics (physics.med-ph),7
-Trading and Market Microstructure (q-fin.TR),6
 Atmospheric and Oceanic Physics (physics.ao-ph),6
-Biomolecules (q-bio.BM),6
 Geophysics (physics.geo-ph),6
 General Economics (econ.GN),5
 Category Theory (math.CT),5
