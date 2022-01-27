@@ -1,24 +1,24 @@
 subject,frequency
-Machine Learning (cs.LG),3838
-Artificial Intelligence (cs.AI),2333
-Computer Vision and Pattern Recognition (cs.CV),2071
+Machine Learning (cs.LG),3846
+Artificial Intelligence (cs.AI),2337
+Computer Vision and Pattern Recognition (cs.CV),2080
 Computation and Language (cs.CL),1738
-Robotics (cs.RO),571
-Information Retrieval (cs.IR),281
+Robotics (cs.RO),573
+Information Retrieval (cs.IR),282
 Cryptography and Security (cs.CR),264
 Computers and Society (cs.CY),180
 Neural and Evolutionary Computing (cs.NE),172
-Human-Computer Interaction (cs.HC),162
+Human-Computer Interaction (cs.HC),163
 Sound (cs.SD),161
-Software Engineering (cs.SE),134
+Software Engineering (cs.SE),135
 Image and Video Processing (eess.IV),120
-Machine Learning (stat.ML),114
-Social and Information Networks (cs.SI),103
+Machine Learning (stat.ML),115
+Social and Information Networks (cs.SI),104
 "Distributed, Parallel, and Cluster Computing (cs.DC)",101
 Signal Processing (eess.SP),98
 Multiagent Systems (cs.MA),96
 Systems and Control (eess.SY),90
-Computer Science and Game Theory (cs.GT),82
+Computer Science and Game Theory (cs.GT),83
 Audio and Speech Processing (eess.AS),71
 Networking and Internet Architecture (cs.NI),70
 Optimization and Control (math.OC),60
@@ -29,8 +29,8 @@ Quantum Physics (quant-ph),46
 Neurons and Cognition (q-bio.NC),45
 Hardware Architecture (cs.AR),35
 Quantitative Methods (q-bio.QM),24
+Multimedia (cs.MM),22
 Methodology (stat.ME),21
-Multimedia (cs.MM),21
 Genomics (q-bio.GN),18
 Data Structures and Algorithms (cs.DS),18
 Digital Libraries (cs.DL),18
@@ -50,9 +50,9 @@ Trading and Market Microstructure (q-fin.TR),7
 Numerical Analysis (math.NA),7
 Biomolecules (q-bio.BM),7
 Medical Physics (physics.med-ph),7
+General Economics (econ.GN),6
 Atmospheric and Oceanic Physics (physics.ao-ph),6
 Geophysics (physics.geo-ph),6
-General Economics (econ.GN),5
 Category Theory (math.CT),5
 Other Computer Science (cs.OH),4
 Theoretical Economics (econ.TH),4
