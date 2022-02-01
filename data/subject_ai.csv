@@ -1,17 +1,17 @@
 subject,frequency
-Machine Learning (cs.LG),3879
-Artificial Intelligence (cs.AI),2348
-Computer Vision and Pattern Recognition (cs.CV),2098
-Computation and Language (cs.CL),1746
-Robotics (cs.RO),576
-Information Retrieval (cs.IR),282
+Machine Learning (cs.LG),3915
+Artificial Intelligence (cs.AI),2360
+Computer Vision and Pattern Recognition (cs.CV),2111
+Computation and Language (cs.CL),1750
+Robotics (cs.RO),579
+Information Retrieval (cs.IR),286
 Cryptography and Security (cs.CR),266
-Computers and Society (cs.CY),180
-Neural and Evolutionary Computing (cs.NE),174
-Human-Computer Interaction (cs.HC),163
+Computers and Society (cs.CY),183
+Neural and Evolutionary Computing (cs.NE),177
+Human-Computer Interaction (cs.HC),164
 Sound (cs.SD),162
-Software Engineering (cs.SE),135
-Image and Video Processing (eess.IV),120
+Software Engineering (cs.SE),136
+Image and Video Processing (eess.IV),123
 Machine Learning (stat.ML),115
 Social and Information Networks (cs.SI),105
 "Distributed, Parallel, and Cluster Computing (cs.DC)",101
@@ -31,9 +31,9 @@ Hardware Architecture (cs.AR),35
 Quantitative Methods (q-bio.QM),24
 Multimedia (cs.MM),22
 Methodology (stat.ME),21
+Genomics (q-bio.GN),18
 Digital Libraries (cs.DL),18
 Data Structures and Algorithms (cs.DS),18
-Genomics (q-bio.GN),18
 Computational Complexity (cs.CC),14
 Graphics (cs.GR),13
 Statistical Finance (q-fin.ST),13
@@ -41,49 +41,49 @@ Programming Languages (cs.PL),11
 Instrumentation and Methods for Astrophysics (astro-ph.IM),10
 Emerging Technologies (cs.ET),10
 "Computational Engineering, Finance, and Science (cs.CE)",10
-Computational Physics (physics.comp-ph),9
 Fluid Dynamics (physics.flu-dyn),9
+Computational Physics (physics.comp-ph),9
+Biomolecules (q-bio.BM),9
 Applications (stat.AP),9
 Physics and Society (physics.soc-ph),8
 Statistics Theory (math.ST),8
 Trading and Market Microstructure (q-fin.TR),7
 Numerical Analysis (math.NA),7
-Biomolecules (q-bio.BM),7
 Medical Physics (physics.med-ph),7
-General Economics (econ.GN),6
+General Economics (econ.GN),7
 Atmospheric and Oceanic Physics (physics.ao-ph),6
 Geophysics (physics.geo-ph),6
 Category Theory (math.CT),5
-Other Computer Science (cs.OH),4
-Theoretical Economics (econ.TH),4
-Astrophysics of Galaxies (astro-ph.GA),4
-Materials Science (cond-mat.mtrl-sci),4
-Discrete Mathematics (cs.DM),4
-Earth and Planetary Astrophysics (astro-ph.EP),4
 Formal Languages and Automata Theory (cs.FL),4
+Other Computer Science (cs.OH),4
+Astrophysics of Galaxies (astro-ph.GA),4
+Earth and Planetary Astrophysics (astro-ph.EP),4
+Discrete Mathematics (cs.DM),4
 Algebraic Topology (math.AT),4
-Portfolio Management (q-fin.PM),3
-Econometrics (econ.EM),3
-"Data Analysis, Statistics and Probability (physics.data-an)",3
+Theoretical Economics (econ.TH),4
+Materials Science (cond-mat.mtrl-sci),4
 History and Philosophy of Physics (physics.hist-ph),3
 Cosmology and Nongalactic Astrophysics (astro-ph.CO),3
+"Data Analysis, Statistics and Probability (physics.data-an)",3
+Portfolio Management (q-fin.PM),3
 Dynamical Systems (math.DS),3
-Audio and Speech Processing (eess.AS) ,2
-Logic (math.LO),2
-General Relativity and Quantum Cosmology (gr-qc),2
+Econometrics (econ.EM),3
 Optics (physics.optics),2
-Computational Geometry (cs.CG),2
+General Relativity and Quantum Cosmology (gr-qc),2
+Audio and Speech Processing (eess.AS) ,2
 Symbolic Computation (cs.SC),2
-Computational Finance (q-fin.CP),2
 Chemical Physics (physics.chem-ph),2
 Combinatorics (math.CO),2
 Computation (stat.CO),2
-Risk Management (q-fin.RM),1
+Computational Finance (q-fin.CP),2
+Computational Geometry (cs.CG),2
+Logic (math.LO),2
+Popular Physics (physics.pop-ph),1
 Statistical Mechanics (cond-mat.stat-mech),1
 Probability (math.PR),1
-Popular Physics (physics.pop-ph),1
-Populations and Evolution (q-bio.PE),1
 Solar and Stellar Astrophysics (astro-ph.SR),1
+Populations and Evolution (q-bio.PE),1
+Risk Management (q-fin.RM),1
 Adaptation and Self-Organizing Systems (nlin.AO),1
 Plasma Physics (physics.plasm-ph),1
 High Energy Astrophysical Phenomena (astro-ph.HE),1
