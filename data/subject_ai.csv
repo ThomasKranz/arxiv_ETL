@@ -1,32 +1,32 @@
 subject,frequency
-Machine Learning (cs.LG),4127
-Artificial Intelligence (cs.AI),2458
-Computer Vision and Pattern Recognition (cs.CV),2159
-Computation and Language (cs.CL),1805
+Machine Learning (cs.LG),4140
+Artificial Intelligence (cs.AI),2462
+Computer Vision and Pattern Recognition (cs.CV),2164
+Computation and Language (cs.CL),1808
 Robotics (cs.RO),599
 Information Retrieval (cs.IR),293
-Cryptography and Security (cs.CR),279
+Cryptography and Security (cs.CR),283
 Computers and Society (cs.CY),191
 Neural and Evolutionary Computing (cs.NE),184
-Human-Computer Interaction (cs.HC),171
-Sound (cs.SD),168
-Software Engineering (cs.SE),144
-Image and Video Processing (eess.IV),135
-Machine Learning (stat.ML),124
+Human-Computer Interaction (cs.HC),172
+Sound (cs.SD),169
+Software Engineering (cs.SE),145
+Image and Video Processing (eess.IV),136
+Machine Learning (stat.ML),125
 Signal Processing (eess.SP),109
-Social and Information Networks (cs.SI),108
-"Distributed, Parallel, and Cluster Computing (cs.DC)",101
+Social and Information Networks (cs.SI),109
+"Distributed, Parallel, and Cluster Computing (cs.DC)",102
 Multiagent Systems (cs.MA),100
 Systems and Control (eess.SY),90
 Computer Science and Game Theory (cs.GT),90
 Networking and Internet Architecture (cs.NI),83
-Audio and Speech Processing (eess.AS),76
+Audio and Speech Processing (eess.AS),77
 Optimization and Control (math.OC),62
-Logic in Computer Science (cs.LO),59
+Logic in Computer Science (cs.LO),61
 Databases (cs.DB),57
 Information Theory (cs.IT),52
+Neurons and Cognition (q-bio.NC),47
 Quantum Physics (quant-ph),47
-Neurons and Cognition (q-bio.NC),46
 Hardware Architecture (cs.AR),36
 Quantitative Methods (q-bio.QM),25
 Multimedia (cs.MM),22
