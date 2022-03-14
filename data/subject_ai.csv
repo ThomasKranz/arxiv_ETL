@@ -1,25 +1,25 @@
 subject,frequency
-Machine Learning (cs.LG),4392
+Machine Learning (cs.LG),4406
 Artificial Intelligence (cs.AI),2599
-Computer Vision and Pattern Recognition (cs.CV),2296
-Computation and Language (cs.CL),1897
-Robotics (cs.RO),660
+Computer Vision and Pattern Recognition (cs.CV),2304
+Computation and Language (cs.CL),1900
+Robotics (cs.RO),662
 Information Retrieval (cs.IR),309
 Cryptography and Security (cs.CR),304
-Computers and Society (cs.CY),204
-Neural and Evolutionary Computing (cs.NE),198
+Computers and Society (cs.CY),205
+Neural and Evolutionary Computing (cs.NE),199
 Human-Computer Interaction (cs.HC),185
-Sound (cs.SD),179
-Image and Video Processing (eess.IV),159
+Sound (cs.SD),180
+Image and Video Processing (eess.IV),165
 Software Engineering (cs.SE),152
-Machine Learning (stat.ML),131
+Machine Learning (stat.ML),133
 Signal Processing (eess.SP),122
-Social and Information Networks (cs.SI),116
+Social and Information Networks (cs.SI),117
 Multiagent Systems (cs.MA),109
 "Distributed, Parallel, and Cluster Computing (cs.DC)",108
-Systems and Control (eess.SY),98
+Systems and Control (eess.SY),99
 Computer Science and Game Theory (cs.GT),96
-Audio and Speech Processing (eess.AS),87
+Audio and Speech Processing (eess.AS),88
 Networking and Internet Architecture (cs.NI),86
 Logic in Computer Science (cs.LO),64
 Optimization and Control (math.OC),63
@@ -80,10 +80,10 @@ Optics (physics.optics),2
 Logic (math.LO),2
 Computational Finance (q-fin.CP),2
 Computational Geometry (cs.CG),2
+Solar and Stellar Astrophysics (astro-ph.SR),2
 Symbolic Computation (cs.SC),2
 Molecular Networks (q-bio.MN),2
 Populations and Evolution (q-bio.PE),1
-Solar and Stellar Astrophysics (astro-ph.SR),1
 Risk Management (q-fin.RM),1
 Probability (math.PR),1
 Statistical Mechanics (cond-mat.stat-mech),1
