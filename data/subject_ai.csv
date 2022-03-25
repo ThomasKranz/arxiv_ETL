@@ -1,22 +1,22 @@
 subject,frequency
-Machine Learning (cs.LG),4520
-Artificial Intelligence (cs.AI),2649
-Computer Vision and Pattern Recognition (cs.CV),2395
-Computation and Language (cs.CL),1995
-Robotics (cs.RO),690
-Information Retrieval (cs.IR),326
-Cryptography and Security (cs.CR),311
+Machine Learning (cs.LG),4531
+Artificial Intelligence (cs.AI),2663
+Computer Vision and Pattern Recognition (cs.CV),2405
+Computation and Language (cs.CL),1999
+Robotics (cs.RO),694
+Information Retrieval (cs.IR),327
+Cryptography and Security (cs.CR),312
+Neural and Evolutionary Computing (cs.NE),209
 Computers and Society (cs.CY),208
-Neural and Evolutionary Computing (cs.NE),205
 Sound (cs.SD),190
 Human-Computer Interaction (cs.HC),188
-Image and Video Processing (eess.IV),175
-Software Engineering (cs.SE),164
+Image and Video Processing (eess.IV),176
+Software Engineering (cs.SE),165
 Machine Learning (stat.ML),138
 Signal Processing (eess.SP),125
 Social and Information Networks (cs.SI),120
 Multiagent Systems (cs.MA),112
-"Distributed, Parallel, and Cluster Computing (cs.DC)",108
+"Distributed, Parallel, and Cluster Computing (cs.DC)",109
 Systems and Control (eess.SY),103
 Computer Science and Game Theory (cs.GT),102
 Audio and Speech Processing (eess.AS),91
@@ -41,7 +41,7 @@ Programming Languages (cs.PL),12
 Biomolecules (q-bio.BM),12
 Emerging Technologies (cs.ET),11
 Instrumentation and Methods for Astrophysics (astro-ph.IM),11
-Computational Physics (physics.comp-ph),10
+Computational Physics (physics.comp-ph),11
 "Computational Engineering, Finance, and Science (cs.CE)",10
 Statistics Theory (math.ST),9
 Applications (stat.AP),9
