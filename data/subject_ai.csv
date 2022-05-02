@@ -1,40 +1,40 @@
 subject,frequency
-Machine Learning (cs.LG),4809
-Artificial Intelligence (cs.AI),2826
-Computer Vision and Pattern Recognition (cs.CV),2646
-Computation and Language (cs.CL),2210
+Machine Learning (cs.LG),4819
+Artificial Intelligence (cs.AI),2830
+Computer Vision and Pattern Recognition (cs.CV),2652
+Computation and Language (cs.CL),2218
 Robotics (cs.RO),750
 Information Retrieval (cs.IR),378
-Cryptography and Security (cs.CR),336
-Neural and Evolutionary Computing (cs.NE),231
-Human-Computer Interaction (cs.HC),220
-Computers and Society (cs.CY),220
-Sound (cs.SD),213
-Image and Video Processing (eess.IV),198
+Cryptography and Security (cs.CR),337
+Neural and Evolutionary Computing (cs.NE),235
+Human-Computer Interaction (cs.HC),223
+Computers and Society (cs.CY),221
+Sound (cs.SD),214
+Image and Video Processing (eess.IV),199
 Software Engineering (cs.SE),183
 Machine Learning (stat.ML),143
 Signal Processing (eess.SP),133
 Social and Information Networks (cs.SI),128
-Multiagent Systems (cs.MA),120
+Multiagent Systems (cs.MA),121
 Audio and Speech Processing (eess.AS),114
 "Distributed, Parallel, and Cluster Computing (cs.DC)",113
-Computer Science and Game Theory (cs.GT),109
+Computer Science and Game Theory (cs.GT),111
 Systems and Control (eess.SY),109
-Networking and Internet Architecture (cs.NI),94
+Networking and Internet Architecture (cs.NI),95
 Databases (cs.DB),73
-Logic in Computer Science (cs.LO),71
+Logic in Computer Science (cs.LO),72
 Neurons and Cognition (q-bio.NC),65
 Optimization and Control (math.OC),65
 Information Theory (cs.IT),62
-Quantum Physics (quant-ph),54
+Quantum Physics (quant-ph),55
 Hardware Architecture (cs.AR),43
 Quantitative Methods (q-bio.QM),30
 Digital Libraries (cs.DL),28
-Methodology (stat.ME),25
+Methodology (stat.ME),26
 Multimedia (cs.MM),23
 Data Structures and Algorithms (cs.DS),21
 Graphics (cs.GR),21
-Genomics (q-bio.GN),19
+Genomics (q-bio.GN),20
 Computational Complexity (cs.CC),18
 Statistical Finance (q-fin.ST),17
 "Computational Engineering, Finance, and Science (cs.CE)",15
