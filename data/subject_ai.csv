@@ -1,32 +1,32 @@
 subject,frequency
-Machine Learning (cs.LG),4886
-Artificial Intelligence (cs.AI),2894
-Computer Vision and Pattern Recognition (cs.CV),2716
-Computation and Language (cs.CL),2292
+Machine Learning (cs.LG),4893
+Artificial Intelligence (cs.AI),2902
+Computer Vision and Pattern Recognition (cs.CV),2725
+Computation and Language (cs.CL),2301
 Robotics (cs.RO),765
 Information Retrieval (cs.IR),385
 Cryptography and Security (cs.CR),343
 Neural and Evolutionary Computing (cs.NE),237
-Human-Computer Interaction (cs.HC),231
-Computers and Society (cs.CY),231
-Sound (cs.SD),218
+Human-Computer Interaction (cs.HC),233
+Computers and Society (cs.CY),232
+Sound (cs.SD),219
 Image and Video Processing (eess.IV),207
-Software Engineering (cs.SE),187
-Machine Learning (stat.ML),148
+Software Engineering (cs.SE),188
+Machine Learning (stat.ML),149
 Signal Processing (eess.SP),138
 Social and Information Networks (cs.SI),129
 Multiagent Systems (cs.MA),124
-Audio and Speech Processing (eess.AS),116
+Audio and Speech Processing (eess.AS),117
 "Distributed, Parallel, and Cluster Computing (cs.DC)",115
+Systems and Control (eess.SY),114
 Computer Science and Game Theory (cs.GT),113
-Systems and Control (eess.SY),113
 Networking and Internet Architecture (cs.NI),97
 Logic in Computer Science (cs.LO),78
 Databases (cs.DB),74
 Neurons and Cognition (q-bio.NC),66
 Optimization and Control (math.OC),66
 Information Theory (cs.IT),66
-Quantum Physics (quant-ph),57
+Quantum Physics (quant-ph),58
 Hardware Architecture (cs.AR),45
 Quantitative Methods (q-bio.QM),32
 Digital Libraries (cs.DL),28
@@ -39,8 +39,8 @@ Computational Complexity (cs.CC),19
 Statistical Finance (q-fin.ST),18
 "Computational Engineering, Finance, and Science (cs.CE)",15
 Biomolecules (q-bio.BM),15
+Emerging Technologies (cs.ET),14
 Programming Languages (cs.PL),14
-Emerging Technologies (cs.ET),13
 Computational Physics (physics.comp-ph),13
 Instrumentation and Methods for Astrophysics (astro-ph.IM),12
 Fluid Dynamics (physics.flu-dyn),10
