@@ -1,36 +1,36 @@
 subject,frequency
-Machine Learning (cs.LG),4893
-Artificial Intelligence (cs.AI),2902
-Computer Vision and Pattern Recognition (cs.CV),2725
-Computation and Language (cs.CL),2301
-Robotics (cs.RO),765
+Machine Learning (cs.LG),4897
+Artificial Intelligence (cs.AI),2909
+Computer Vision and Pattern Recognition (cs.CV),2732
+Computation and Language (cs.CL),2309
+Robotics (cs.RO),768
 Information Retrieval (cs.IR),385
-Cryptography and Security (cs.CR),343
+Cryptography and Security (cs.CR),344
 Neural and Evolutionary Computing (cs.NE),237
-Human-Computer Interaction (cs.HC),233
+Human-Computer Interaction (cs.HC),235
 Computers and Society (cs.CY),232
 Sound (cs.SD),219
 Image and Video Processing (eess.IV),207
 Software Engineering (cs.SE),188
 Machine Learning (stat.ML),149
-Signal Processing (eess.SP),138
-Social and Information Networks (cs.SI),129
+Signal Processing (eess.SP),139
+Social and Information Networks (cs.SI),130
 Multiagent Systems (cs.MA),124
-Audio and Speech Processing (eess.AS),117
+Audio and Speech Processing (eess.AS),118
 "Distributed, Parallel, and Cluster Computing (cs.DC)",115
-Systems and Control (eess.SY),114
+Systems and Control (eess.SY),115
 Computer Science and Game Theory (cs.GT),113
 Networking and Internet Architecture (cs.NI),97
 Logic in Computer Science (cs.LO),78
 Databases (cs.DB),74
+Information Theory (cs.IT),66
 Neurons and Cognition (q-bio.NC),66
 Optimization and Control (math.OC),66
-Information Theory (cs.IT),66
-Quantum Physics (quant-ph),58
+Quantum Physics (quant-ph),60
 Hardware Architecture (cs.AR),45
 Quantitative Methods (q-bio.QM),32
 Digital Libraries (cs.DL),28
-Methodology (stat.ME),26
+Methodology (stat.ME),28
 Graphics (cs.GR),24
 Multimedia (cs.MM),23
 Data Structures and Algorithms (cs.DS),21
@@ -45,49 +45,49 @@ Computational Physics (physics.comp-ph),13
 Instrumentation and Methods for Astrophysics (astro-ph.IM),12
 Fluid Dynamics (physics.flu-dyn),10
 Medical Physics (physics.med-ph),10
-Physics and Society (physics.soc-ph),10
 Applications (stat.AP),10
+Physics and Society (physics.soc-ph),10
 Statistics Theory (math.ST),9
 Atmospheric and Oceanic Physics (physics.ao-ph),9
+Theoretical Economics (econ.TH),9
 Numerical Analysis (math.NA),8
 Trading and Market Microstructure (q-fin.TR),8
-Theoretical Economics (econ.TH),8
 Geophysics (physics.geo-ph),7
 General Economics (econ.GN),7
 Cosmology and Nongalactic Astrophysics (astro-ph.CO),6
-Earth and Planetary Astrophysics (astro-ph.EP),5
+Materials Science (cond-mat.mtrl-sci),5
 Other Computer Science (cs.OH),5
 Formal Languages and Automata Theory (cs.FL),5
 Category Theory (math.CT),5
-Materials Science (cond-mat.mtrl-sci),5
+Earth and Planetary Astrophysics (astro-ph.EP),5
 Algebraic Topology (math.AT),4
 History and Philosophy of Physics (physics.hist-ph),4
 Astrophysics of Galaxies (astro-ph.GA),4
 Discrete Mathematics (cs.DM),4
 Dynamical Systems (math.DS),3
+Chemical Physics (physics.chem-ph),3
 Computational Geometry (cs.CG),3
 "Data Analysis, Statistics and Probability (physics.data-an)",3
-Solar and Stellar Astrophysics (astro-ph.SR),3
-Chemical Physics (physics.chem-ph),3
+Combinatorics (math.CO),3
 Econometrics (econ.EM),3
 Logic (math.LO),3
+Applied Physics (physics.app-ph),3
 General Relativity and Quantum Cosmology (gr-qc),3
 Portfolio Management (q-fin.PM),3
-Applied Physics (physics.app-ph),3
-Combinatorics (math.CO),3
-Other Quantitative Biology (q-bio.OT),2
+Solar and Stellar Astrophysics (astro-ph.SR),3
 Audio and Speech Processing (eess.AS) ,2
-Optics (physics.optics),2
 Risk Management (q-fin.RM),2
-Symbolic Computation (cs.SC),2
+Other Quantitative Biology (q-bio.OT),2
+Optics (physics.optics),2
+High Energy Physics - Phenomenology (hep-ph),2
+Mesoscale and Nanoscale Physics (cond-mat.mes-hall),2
 Computation (stat.CO),2
 Computational Finance (q-fin.CP),2
 Molecular Networks (q-bio.MN),2
-Mesoscale and Nanoscale Physics (cond-mat.mes-hall),2
-High Energy Physics - Phenomenology (hep-ph),2
+Symbolic Computation (cs.SC),2
+High Energy Physics - Theory (hep-th),2
 Disordered Systems and Neural Networks (cond-mat.dis-nn),2
 Instrumentation and Detectors (physics.ins-det),2
-High Energy Physics - Theory (hep-th),2
 Statistical Mechanics (cond-mat.stat-mech),1
 Probability (math.PR),1
 Adaptation and Self-Organizing Systems (nlin.AO),1
