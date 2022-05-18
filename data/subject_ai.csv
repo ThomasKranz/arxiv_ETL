@@ -1,33 +1,33 @@
 subject,frequency
-Machine Learning (cs.LG),4930
-Artificial Intelligence (cs.AI),2930
-Computer Vision and Pattern Recognition (cs.CV),2743
-Computation and Language (cs.CL),2331
-Robotics (cs.RO),773
-Information Retrieval (cs.IR),385
-Cryptography and Security (cs.CR),346
+Machine Learning (cs.LG),4970
+Artificial Intelligence (cs.AI),2938
+Computer Vision and Pattern Recognition (cs.CV),2746
+Computation and Language (cs.CL),2338
+Robotics (cs.RO),774
+Information Retrieval (cs.IR),386
+Cryptography and Security (cs.CR),350
 Neural and Evolutionary Computing (cs.NE),241
-Human-Computer Interaction (cs.HC),240
+Human-Computer Interaction (cs.HC),241
 Computers and Society (cs.CY),233
 Sound (cs.SD),220
 Image and Video Processing (eess.IV),209
 Software Engineering (cs.SE),188
-Machine Learning (stat.ML),150
-Signal Processing (eess.SP),140
+Machine Learning (stat.ML),151
+Signal Processing (eess.SP),144
 Social and Information Networks (cs.SI),130
 Multiagent Systems (cs.MA),125
 Audio and Speech Processing (eess.AS),119
-Systems and Control (eess.SY),117
-"Distributed, Parallel, and Cluster Computing (cs.DC)",115
+Systems and Control (eess.SY),118
+"Distributed, Parallel, and Cluster Computing (cs.DC)",116
 Computer Science and Game Theory (cs.GT),114
-Networking and Internet Architecture (cs.NI),97
+Networking and Internet Architecture (cs.NI),99
 Logic in Computer Science (cs.LO),79
 Databases (cs.DB),75
 Information Theory (cs.IT),67
 Neurons and Cognition (q-bio.NC),66
 Optimization and Control (math.OC),66
-Quantum Physics (quant-ph),61
-Hardware Architecture (cs.AR),46
+Quantum Physics (quant-ph),62
+Hardware Architecture (cs.AR),47
 Quantitative Methods (q-bio.QM),32
 Digital Libraries (cs.DL),28
 Methodology (stat.ME),28
@@ -38,7 +38,7 @@ Genomics (q-bio.GN),20
 Statistical Finance (q-fin.ST),19
 Computational Complexity (cs.CC),19
 "Computational Engineering, Finance, and Science (cs.CE)",17
-Biomolecules (q-bio.BM),15
+Biomolecules (q-bio.BM),17
 Emerging Technologies (cs.ET),14
 Programming Languages (cs.PL),14
 Computational Physics (physics.comp-ph),13
