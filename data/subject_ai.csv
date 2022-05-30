@@ -1,24 +1,24 @@
 subject,frequency
-Machine Learning (cs.LG),5122
-Artificial Intelligence (cs.AI),3030
-Computer Vision and Pattern Recognition (cs.CV),2818
-Computation and Language (cs.CL),2443
-Robotics (cs.RO),787
-Information Retrieval (cs.IR),398
+Machine Learning (cs.LG),5149
+Artificial Intelligence (cs.AI),3044
+Computer Vision and Pattern Recognition (cs.CV),2824
+Computation and Language (cs.CL),2446
+Robotics (cs.RO),789
+Information Retrieval (cs.IR),400
 Cryptography and Security (cs.CR),359
-Neural and Evolutionary Computing (cs.NE),248
+Neural and Evolutionary Computing (cs.NE),250
 Human-Computer Interaction (cs.HC),244
 Computers and Society (cs.CY),236
-Sound (cs.SD),223
-Image and Video Processing (eess.IV),215
+Sound (cs.SD),224
+Image and Video Processing (eess.IV),216
 Software Engineering (cs.SE),194
-Machine Learning (stat.ML),158
+Machine Learning (stat.ML),159
 Signal Processing (eess.SP),146
 Social and Information Networks (cs.SI),132
-Multiagent Systems (cs.MA),127
+Multiagent Systems (cs.MA),128
 Audio and Speech Processing (eess.AS),121
+Systems and Control (eess.SY),120
 "Distributed, Parallel, and Cluster Computing (cs.DC)",120
-Systems and Control (eess.SY),119
 Computer Science and Game Theory (cs.GT),116
 Networking and Internet Architecture (cs.NI),99
 Logic in Computer Science (cs.LO),84
@@ -27,8 +27,8 @@ Optimization and Control (math.OC),69
 Information Theory (cs.IT),69
 Neurons and Cognition (q-bio.NC),66
 Quantum Physics (quant-ph),65
-Hardware Architecture (cs.AR),49
-Quantitative Methods (q-bio.QM),32
+Hardware Architecture (cs.AR),50
+Quantitative Methods (q-bio.QM),33
 Digital Libraries (cs.DL),28
 Methodology (stat.ME),28
 Graphics (cs.GR),24
@@ -45,8 +45,8 @@ Computational Physics (physics.comp-ph),13
 Instrumentation and Methods for Astrophysics (astro-ph.IM),12
 Applications (stat.AP),11
 Fluid Dynamics (physics.flu-dyn),11
+Medical Physics (physics.med-ph),11
 Theoretical Economics (econ.TH),10
-Medical Physics (physics.med-ph),10
 Physics and Society (physics.soc-ph),10
 Atmospheric and Oceanic Physics (physics.ao-ph),9
 Statistics Theory (math.ST),9
