@@ -1,25 +1,25 @@
 subject,frequency
-Machine Learning (cs.LG),5189
-Artificial Intelligence (cs.AI),3056
-Computer Vision and Pattern Recognition (cs.CV),2845
-Computation and Language (cs.CL),2452
-Robotics (cs.RO),791
+Machine Learning (cs.LG),5221
+Artificial Intelligence (cs.AI),3064
+Computer Vision and Pattern Recognition (cs.CV),2861
+Computation and Language (cs.CL),2460
+Robotics (cs.RO),793
 Information Retrieval (cs.IR),401
-Cryptography and Security (cs.CR),360
+Cryptography and Security (cs.CR),361
 Neural and Evolutionary Computing (cs.NE),250
 Human-Computer Interaction (cs.HC),244
 Computers and Society (cs.CY),236
-Sound (cs.SD),224
+Sound (cs.SD),225
 Image and Video Processing (eess.IV),216
-Software Engineering (cs.SE),194
-Machine Learning (stat.ML),160
+Software Engineering (cs.SE),195
+Machine Learning (stat.ML),162
 Signal Processing (eess.SP),146
 Social and Information Networks (cs.SI),132
 Multiagent Systems (cs.MA),128
 Audio and Speech Processing (eess.AS),121
 Systems and Control (eess.SY),120
 "Distributed, Parallel, and Cluster Computing (cs.DC)",120
-Computer Science and Game Theory (cs.GT),118
+Computer Science and Game Theory (cs.GT),119
 Networking and Internet Architecture (cs.NI),100
 Logic in Computer Science (cs.LO),85
 Databases (cs.DB),76
@@ -66,17 +66,17 @@ Discrete Mathematics (cs.DM),4
 Astrophysics of Galaxies (astro-ph.GA),4
 Algebraic Topology (math.AT),4
 Computational Geometry (cs.CG),4
-Dynamical Systems (math.DS),3
+Symbolic Computation (cs.SC),3
 Applied Physics (physics.app-ph),3
 General Relativity and Quantum Cosmology (gr-qc),3
 Combinatorics (math.CO),3
 Portfolio Management (q-fin.PM),3
+Dynamical Systems (math.DS),3
 Solar and Stellar Astrophysics (astro-ph.SR),3
 Econometrics (econ.EM),3
 "Data Analysis, Statistics and Probability (physics.data-an)",3
 Logic (math.LO),3
 Statistical Mechanics (cond-mat.stat-mech),2
-Symbolic Computation (cs.SC),2
 Other Quantitative Biology (q-bio.OT),2
 Optics (physics.optics),2
 Risk Management (q-fin.RM),2
