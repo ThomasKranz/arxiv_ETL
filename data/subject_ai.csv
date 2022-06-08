@@ -1,32 +1,32 @@
 subject,frequency
-Machine Learning (cs.LG),5316
-Artificial Intelligence (cs.AI),3099
-Computer Vision and Pattern Recognition (cs.CV),2905
-Computation and Language (cs.CL),2484
-Robotics (cs.RO),801
+Machine Learning (cs.LG),5339
+Artificial Intelligence (cs.AI),3106
+Computer Vision and Pattern Recognition (cs.CV),2911
+Computation and Language (cs.CL),2487
+Robotics (cs.RO),806
 Information Retrieval (cs.IR),408
 Cryptography and Security (cs.CR),363
-Neural and Evolutionary Computing (cs.NE),251
-Human-Computer Interaction (cs.HC),250
-Computers and Society (cs.CY),238
-Sound (cs.SD),229
+Neural and Evolutionary Computing (cs.NE),253
+Human-Computer Interaction (cs.HC),252
+Computers and Society (cs.CY),250
+Sound (cs.SD),231
 Image and Video Processing (eess.IV),222
 Software Engineering (cs.SE),199
-Machine Learning (stat.ML),164
-Signal Processing (eess.SP),148
+Machine Learning (stat.ML),165
+Signal Processing (eess.SP),149
 Social and Information Networks (cs.SI),132
-Multiagent Systems (cs.MA),130
-Audio and Speech Processing (eess.AS),122
+Multiagent Systems (cs.MA),131
+Audio and Speech Processing (eess.AS),124
 Systems and Control (eess.SY),121
 "Distributed, Parallel, and Cluster Computing (cs.DC)",120
-Computer Science and Game Theory (cs.GT),119
-Networking and Internet Architecture (cs.NI),101
+Computer Science and Game Theory (cs.GT),120
+Networking and Internet Architecture (cs.NI),102
 Logic in Computer Science (cs.LO),85
 Databases (cs.DB),76
 Optimization and Control (math.OC),73
 Information Theory (cs.IT),70
 Neurons and Cognition (q-bio.NC),70
-Quantum Physics (quant-ph),66
+Quantum Physics (quant-ph),67
 Hardware Architecture (cs.AR),53
 Quantitative Methods (q-bio.QM),37
 Digital Libraries (cs.DL),28
@@ -37,7 +37,7 @@ Data Structures and Algorithms (cs.DS),22
 Genomics (q-bio.GN),20
 Statistical Finance (q-fin.ST),19
 Computational Complexity (cs.CC),19
-Biomolecules (q-bio.BM),17
+Biomolecules (q-bio.BM),18
 "Computational Engineering, Finance, and Science (cs.CE)",17
 Emerging Technologies (cs.ET),14
 Programming Languages (cs.PL),14
