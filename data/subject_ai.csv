@@ -1,34 +1,34 @@
 subject,frequency
-Machine Learning (cs.LG),5369
-Artificial Intelligence (cs.AI),3120
-Computer Vision and Pattern Recognition (cs.CV),2931
-Computation and Language (cs.CL),2496
+Machine Learning (cs.LG),5400
+Artificial Intelligence (cs.AI),3129
+Computer Vision and Pattern Recognition (cs.CV),2940
+Computation and Language (cs.CL),2499
 Robotics (cs.RO),807
 Information Retrieval (cs.IR),409
-Cryptography and Security (cs.CR),370
-Neural and Evolutionary Computing (cs.NE),255
-Human-Computer Interaction (cs.HC),252
+Cryptography and Security (cs.CR),371
+Neural and Evolutionary Computing (cs.NE),257
+Human-Computer Interaction (cs.HC),254
 Computers and Society (cs.CY),251
-Sound (cs.SD),231
+Sound (cs.SD),232
 Image and Video Processing (eess.IV),223
-Software Engineering (cs.SE),200
+Software Engineering (cs.SE),201
 Machine Learning (stat.ML),165
 Signal Processing (eess.SP),149
 Social and Information Networks (cs.SI),133
 Multiagent Systems (cs.MA),131
 Audio and Speech Processing (eess.AS),124
-Systems and Control (eess.SY),121
+Systems and Control (eess.SY),123
 Computer Science and Game Theory (cs.GT),121
 "Distributed, Parallel, and Cluster Computing (cs.DC)",120
 Networking and Internet Architecture (cs.NI),102
 Logic in Computer Science (cs.LO),85
-Databases (cs.DB),76
+Databases (cs.DB),77
 Optimization and Control (math.OC),73
 Information Theory (cs.IT),71
 Neurons and Cognition (q-bio.NC),71
-Quantum Physics (quant-ph),68
+Quantum Physics (quant-ph),69
 Hardware Architecture (cs.AR),54
-Quantitative Methods (q-bio.QM),37
+Quantitative Methods (q-bio.QM),38
 Digital Libraries (cs.DL),28
 Methodology (stat.ME),28
 Graphics (cs.GR),24
