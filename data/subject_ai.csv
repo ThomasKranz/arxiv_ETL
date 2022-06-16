@@ -1,32 +1,32 @@
 subject,frequency
-Machine Learning (cs.LG),5439
-Artificial Intelligence (cs.AI),3166
-Computer Vision and Pattern Recognition (cs.CV),2974
-Computation and Language (cs.CL),2513
+Machine Learning (cs.LG),5455
+Artificial Intelligence (cs.AI),3179
+Computer Vision and Pattern Recognition (cs.CV),2988
+Computation and Language (cs.CL),2518
 Robotics (cs.RO),811
-Information Retrieval (cs.IR),410
-Cryptography and Security (cs.CR),372
+Information Retrieval (cs.IR),411
+Cryptography and Security (cs.CR),373
 Neural and Evolutionary Computing (cs.NE),260
 Human-Computer Interaction (cs.HC),254
 Computers and Society (cs.CY),252
-Sound (cs.SD),232
-Image and Video Processing (eess.IV),227
-Software Engineering (cs.SE),206
+Sound (cs.SD),233
+Image and Video Processing (eess.IV),228
+Software Engineering (cs.SE),207
 Machine Learning (stat.ML),165
-Signal Processing (eess.SP),150
-Social and Information Networks (cs.SI),134
-Multiagent Systems (cs.MA),131
-Audio and Speech Processing (eess.AS),124
-Systems and Control (eess.SY),123
+Signal Processing (eess.SP),154
+Social and Information Networks (cs.SI),135
+Multiagent Systems (cs.MA),132
+Audio and Speech Processing (eess.AS),126
+Systems and Control (eess.SY),124
+Computer Science and Game Theory (cs.GT),123
 "Distributed, Parallel, and Cluster Computing (cs.DC)",121
-Computer Science and Game Theory (cs.GT),121
 Networking and Internet Architecture (cs.NI),103
-Logic in Computer Science (cs.LO),85
-Databases (cs.DB),78
+Logic in Computer Science (cs.LO),86
+Databases (cs.DB),80
 Optimization and Control (math.OC),73
 Information Theory (cs.IT),72
 Neurons and Cognition (q-bio.NC),72
-Quantum Physics (quant-ph),69
+Quantum Physics (quant-ph),71
 Hardware Architecture (cs.AR),55
 Quantitative Methods (q-bio.QM),39
 Methodology (stat.ME),29
@@ -39,14 +39,14 @@ Computational Complexity (cs.CC),20
 Statistical Finance (q-fin.ST),19
 Biomolecules (q-bio.BM),18
 "Computational Engineering, Finance, and Science (cs.CE)",17
-Programming Languages (cs.PL),15
+Programming Languages (cs.PL),16
 Emerging Technologies (cs.ET),14
 Fluid Dynamics (physics.flu-dyn),13
 Computational Physics (physics.comp-ph),13
 Instrumentation and Methods for Astrophysics (astro-ph.IM),12
+Physics and Society (physics.soc-ph),12
 Applications (stat.AP),11
 Medical Physics (physics.med-ph),11
-Physics and Society (physics.soc-ph),11
 Theoretical Economics (econ.TH),10
 Numerical Analysis (math.NA),10
 Atmospheric and Oceanic Physics (physics.ao-ph),9
