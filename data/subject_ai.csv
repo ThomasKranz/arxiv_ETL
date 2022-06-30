@@ -1,22 +1,22 @@
 subject,frequency
-Machine Learning (cs.LG),5672
-Artificial Intelligence (cs.AI),3264
-Computer Vision and Pattern Recognition (cs.CV),3077
-Computation and Language (cs.CL),2576
-Robotics (cs.RO),841
-Information Retrieval (cs.IR),422
-Cryptography and Security (cs.CR),383
+Machine Learning (cs.LG),5685
+Artificial Intelligence (cs.AI),3267
+Computer Vision and Pattern Recognition (cs.CV),3080
+Computation and Language (cs.CL),2587
+Robotics (cs.RO),848
+Information Retrieval (cs.IR),423
+Cryptography and Security (cs.CR),384
 Neural and Evolutionary Computing (cs.NE),272
 Human-Computer Interaction (cs.HC),260
 Computers and Society (cs.CY),256
 Sound (cs.SD),242
 Image and Video Processing (eess.IV),233
 Software Engineering (cs.SE),217
-Machine Learning (stat.ML),170
+Machine Learning (stat.ML),171
 Signal Processing (eess.SP),157
-Multiagent Systems (cs.MA),141
-Social and Information Networks (cs.SI),138
-Audio and Speech Processing (eess.AS),131
+Multiagent Systems (cs.MA),142
+Social and Information Networks (cs.SI),139
+Audio and Speech Processing (eess.AS),133
 Computer Science and Game Theory (cs.GT),127
 Systems and Control (eess.SY),127
 "Distributed, Parallel, and Cluster Computing (cs.DC)",125
@@ -27,20 +27,20 @@ Optimization and Control (math.OC),75
 Neurons and Cognition (q-bio.NC),75
 Information Theory (cs.IT),75
 Quantum Physics (quant-ph),74
-Hardware Architecture (cs.AR),55
+Hardware Architecture (cs.AR),56
 Quantitative Methods (q-bio.QM),40
 Methodology (stat.ME),31
 Digital Libraries (cs.DL),28
 Data Structures and Algorithms (cs.DS),26
-Graphics (cs.GR),25
+Graphics (cs.GR),26
 Multimedia (cs.MM),23
 Genomics (q-bio.GN),21
 Computational Complexity (cs.CC),21
 Statistical Finance (q-fin.ST),20
 Biomolecules (q-bio.BM),19
+Emerging Technologies (cs.ET),17
 "Computational Engineering, Finance, and Science (cs.CE)",17
 Programming Languages (cs.PL),16
-Emerging Technologies (cs.ET),16
 Fluid Dynamics (physics.flu-dyn),14
 Computational Physics (physics.comp-ph),13
 Instrumentation and Methods for Astrophysics (astro-ph.IM),13
