@@ -1,29 +1,29 @@
 subject,frequency
-Machine Learning (cs.LG),5746
-Artificial Intelligence (cs.AI),3309
-Computer Vision and Pattern Recognition (cs.CV),3125
-Computation and Language (cs.CL),2603
-Robotics (cs.RO),862
-Information Retrieval (cs.IR),427
-Cryptography and Security (cs.CR),392
+Machine Learning (cs.LG),5757
+Artificial Intelligence (cs.AI),3311
+Computer Vision and Pattern Recognition (cs.CV),3133
+Computation and Language (cs.CL),2607
+Robotics (cs.RO),864
+Information Retrieval (cs.IR),428
+Cryptography and Security (cs.CR),394
 Neural and Evolutionary Computing (cs.NE),273
-Human-Computer Interaction (cs.HC),264
+Human-Computer Interaction (cs.HC),265
 Computers and Society (cs.CY),262
 Sound (cs.SD),244
 Image and Video Processing (eess.IV),236
 Software Engineering (cs.SE),220
-Machine Learning (stat.ML),173
+Machine Learning (stat.ML),174
 Signal Processing (eess.SP),158
-Multiagent Systems (cs.MA),142
+Multiagent Systems (cs.MA),143
 Social and Information Networks (cs.SI),139
 Audio and Speech Processing (eess.AS),138
-Computer Science and Game Theory (cs.GT),127
+Computer Science and Game Theory (cs.GT),128
 Systems and Control (eess.SY),127
 "Distributed, Parallel, and Cluster Computing (cs.DC)",125
-Networking and Internet Architecture (cs.NI),105
-Logic in Computer Science (cs.LO),88
+Networking and Internet Architecture (cs.NI),106
+Logic in Computer Science (cs.LO),89
 Databases (cs.DB),82
-Neurons and Cognition (q-bio.NC),77
+Neurons and Cognition (q-bio.NC),78
 Information Theory (cs.IT),77
 Quantum Physics (quant-ph),76
 Optimization and Control (math.OC),75
@@ -41,9 +41,9 @@ Biomolecules (q-bio.BM),19
 Emerging Technologies (cs.ET),17
 "Computational Engineering, Finance, and Science (cs.CE)",17
 Programming Languages (cs.PL),16
+Numerical Analysis (math.NA),14
 Fluid Dynamics (physics.flu-dyn),14
 Computational Physics (physics.comp-ph),13
-Numerical Analysis (math.NA),13
 Instrumentation and Methods for Astrophysics (astro-ph.IM),13
 Physics and Society (physics.soc-ph),12
 Medical Physics (physics.med-ph),11
@@ -56,10 +56,10 @@ Geophysics (physics.geo-ph),7
 Formal Languages and Automata Theory (cs.FL),7
 General Economics (econ.GN),7
 Other Computer Science (cs.OH),6
+Computational Geometry (cs.CG),6
 Cosmology and Nongalactic Astrophysics (astro-ph.CO),6
 Category Theory (math.CT),5
 Chemical Physics (physics.chem-ph),5
-Computational Geometry (cs.CG),5
 Materials Science (cond-mat.mtrl-sci),5
 Earth and Planetary Astrophysics (astro-ph.EP),5
 Astrophysics of Galaxies (astro-ph.GA),4
