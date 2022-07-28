@@ -1,38 +1,38 @@
 subject,frequency
-Machine Learning (cs.LG),6008
-Artificial Intelligence (cs.AI),3423
-Computer Vision and Pattern Recognition (cs.CV),3298
+Machine Learning (cs.LG),6016
+Artificial Intelligence (cs.AI),3427
+Computer Vision and Pattern Recognition (cs.CV),3307
 Computation and Language (cs.CL),2669
-Robotics (cs.RO),899
-Information Retrieval (cs.IR),447
+Robotics (cs.RO),901
+Information Retrieval (cs.IR),448
 Cryptography and Security (cs.CR),407
-Neural and Evolutionary Computing (cs.NE),291
+Neural and Evolutionary Computing (cs.NE),292
 Human-Computer Interaction (cs.HC),277
 Computers and Society (cs.CY),268
-Sound (cs.SD),258
-Image and Video Processing (eess.IV),241
+Sound (cs.SD),259
+Image and Video Processing (eess.IV),243
 Software Engineering (cs.SE),228
 Machine Learning (stat.ML),185
 Signal Processing (eess.SP),163
 Multiagent Systems (cs.MA),151
 Social and Information Networks (cs.SI),146
 Audio and Speech Processing (eess.AS),143
-Systems and Control (eess.SY),133
+Systems and Control (eess.SY),135
 Computer Science and Game Theory (cs.GT),133
 "Distributed, Parallel, and Cluster Computing (cs.DC)",132
 Networking and Internet Architecture (cs.NI),113
 Logic in Computer Science (cs.LO),91
 Databases (cs.DB),86
 Quantum Physics (quant-ph),84
-Optimization and Control (math.OC),80
+Optimization and Control (math.OC),81
 Information Theory (cs.IT),79
 Neurons and Cognition (q-bio.NC),78
 Hardware Architecture (cs.AR),61
 Quantitative Methods (q-bio.QM),43
 Methodology (stat.ME),31
+Digital Libraries (cs.DL),29
 Data Structures and Algorithms (cs.DS),28
-Digital Libraries (cs.DL),28
-Graphics (cs.GR),27
+Graphics (cs.GR),28
 Multimedia (cs.MM),26
 Computational Complexity (cs.CC),22
 Genomics (q-bio.GN),22
@@ -41,9 +41,9 @@ Statistical Finance (q-fin.ST),20
 Programming Languages (cs.PL),18
 Emerging Technologies (cs.ET),18
 "Computational Engineering, Finance, and Science (cs.CE)",17
+Numerical Analysis (math.NA),15
 Fluid Dynamics (physics.flu-dyn),14
 Computational Physics (physics.comp-ph),14
-Numerical Analysis (math.NA),14
 Instrumentation and Methods for Astrophysics (astro-ph.IM),13
 Physics and Society (physics.soc-ph),12
 Medical Physics (physics.med-ph),11
