@@ -1,19 +1,19 @@
 subject,frequency
-Machine Learning (cs.LG),6016
-Artificial Intelligence (cs.AI),3427
-Computer Vision and Pattern Recognition (cs.CV),3307
-Computation and Language (cs.CL),2669
-Robotics (cs.RO),901
+Machine Learning (cs.LG),6023
+Artificial Intelligence (cs.AI),3429
+Computer Vision and Pattern Recognition (cs.CV),3314
+Computation and Language (cs.CL),2675
+Robotics (cs.RO),902
 Information Retrieval (cs.IR),448
-Cryptography and Security (cs.CR),407
+Cryptography and Security (cs.CR),408
 Neural and Evolutionary Computing (cs.NE),292
-Human-Computer Interaction (cs.HC),277
-Computers and Society (cs.CY),268
+Human-Computer Interaction (cs.HC),278
+Computers and Society (cs.CY),269
 Sound (cs.SD),259
 Image and Video Processing (eess.IV),243
-Software Engineering (cs.SE),228
+Software Engineering (cs.SE),230
 Machine Learning (stat.ML),185
-Signal Processing (eess.SP),163
+Signal Processing (eess.SP),164
 Multiagent Systems (cs.MA),151
 Social and Information Networks (cs.SI),146
 Audio and Speech Processing (eess.AS),143
@@ -34,9 +34,9 @@ Digital Libraries (cs.DL),29
 Data Structures and Algorithms (cs.DS),28
 Graphics (cs.GR),28
 Multimedia (cs.MM),26
+Biomolecules (q-bio.BM),22
 Computational Complexity (cs.CC),22
 Genomics (q-bio.GN),22
-Biomolecules (q-bio.BM),21
 Statistical Finance (q-fin.ST),20
 Programming Languages (cs.PL),18
 Emerging Technologies (cs.ET),18
@@ -72,6 +72,7 @@ Computational Finance (q-fin.CP),3
 Populations and Evolution (q-bio.PE),3
 Applied Physics (physics.app-ph),3
 Statistical Mechanics (cond-mat.stat-mech),3
+Optics (physics.optics),3
 Dynamical Systems (math.DS),3
 Combinatorics (math.CO),3
 "Data Analysis, Statistics and Probability (physics.data-an)",3
@@ -80,13 +81,12 @@ Instrumentation and Detectors (physics.ins-det),3
 Solar and Stellar Astrophysics (astro-ph.SR),3
 Symbolic Computation (cs.SC),3
 Logic (math.LO),3
-Molecular Networks (q-bio.MN),2
 Computation (stat.CO),2
+Molecular Networks (q-bio.MN),2
 Mesoscale and Nanoscale Physics (cond-mat.mes-hall),2
 High Energy Physics - Theory (hep-th),2
 Audio and Speech Processing (eess.AS) ,2
 High Energy Physics - Phenomenology (hep-ph),2
-Optics (physics.optics),2
 Risk Management (q-fin.RM),2
 Other Quantitative Biology (q-bio.OT),2
 Disordered Systems and Neural Networks (cond-mat.dis-nn),2
