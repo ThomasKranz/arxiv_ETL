@@ -1,26 +1,26 @@
 subject,frequency
-Machine Learning (cs.LG),6023
-Artificial Intelligence (cs.AI),3429
-Computer Vision and Pattern Recognition (cs.CV),3314
-Computation and Language (cs.CL),2675
-Robotics (cs.RO),902
-Information Retrieval (cs.IR),448
+Machine Learning (cs.LG),6031
+Artificial Intelligence (cs.AI),3433
+Computer Vision and Pattern Recognition (cs.CV),3322
+Computation and Language (cs.CL),2678
+Robotics (cs.RO),903
+Information Retrieval (cs.IR),450
 Cryptography and Security (cs.CR),408
 Neural and Evolutionary Computing (cs.NE),292
 Human-Computer Interaction (cs.HC),278
-Computers and Society (cs.CY),269
-Sound (cs.SD),259
-Image and Video Processing (eess.IV),243
-Software Engineering (cs.SE),230
+Computers and Society (cs.CY),270
+Sound (cs.SD),260
+Image and Video Processing (eess.IV),245
+Software Engineering (cs.SE),231
 Machine Learning (stat.ML),185
 Signal Processing (eess.SP),164
 Multiagent Systems (cs.MA),151
-Social and Information Networks (cs.SI),146
+Social and Information Networks (cs.SI),147
 Audio and Speech Processing (eess.AS),143
 Systems and Control (eess.SY),135
+"Distributed, Parallel, and Cluster Computing (cs.DC)",133
 Computer Science and Game Theory (cs.GT),133
-"Distributed, Parallel, and Cluster Computing (cs.DC)",132
-Networking and Internet Architecture (cs.NI),113
+Networking and Internet Architecture (cs.NI),114
 Logic in Computer Science (cs.LO),91
 Databases (cs.DB),86
 Quantum Physics (quant-ph),84
@@ -34,16 +34,16 @@ Digital Libraries (cs.DL),29
 Data Structures and Algorithms (cs.DS),28
 Graphics (cs.GR),28
 Multimedia (cs.MM),26
-Biomolecules (q-bio.BM),22
+Genomics (q-bio.GN),23
 Computational Complexity (cs.CC),22
-Genomics (q-bio.GN),22
+Biomolecules (q-bio.BM),22
 Statistical Finance (q-fin.ST),20
 Programming Languages (cs.PL),18
 Emerging Technologies (cs.ET),18
 "Computational Engineering, Finance, and Science (cs.CE)",17
 Numerical Analysis (math.NA),15
-Fluid Dynamics (physics.flu-dyn),14
 Computational Physics (physics.comp-ph),14
+Fluid Dynamics (physics.flu-dyn),14
 Instrumentation and Methods for Astrophysics (astro-ph.IM),13
 Physics and Society (physics.soc-ph),12
 Medical Physics (physics.med-ph),11
