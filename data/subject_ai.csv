@@ -1,19 +1,19 @@
 subject,frequency
-Machine Learning (cs.LG),6306
-Artificial Intelligence (cs.AI),3616
-Computer Vision and Pattern Recognition (cs.CV),3502
-Computation and Language (cs.CL),2779
-Robotics (cs.RO),942
-Information Retrieval (cs.IR),484
-Cryptography and Security (cs.CR),431
-Neural and Evolutionary Computing (cs.NE),311
+Machine Learning (cs.LG),6314
+Artificial Intelligence (cs.AI),3621
+Computer Vision and Pattern Recognition (cs.CV),3507
+Computation and Language (cs.CL),2783
+Robotics (cs.RO),944
+Information Retrieval (cs.IR),485
+Cryptography and Security (cs.CR),433
+Neural and Evolutionary Computing (cs.NE),313
 Computers and Society (cs.CY),296
-Human-Computer Interaction (cs.HC),293
+Human-Computer Interaction (cs.HC),294
 Sound (cs.SD),276
 Image and Video Processing (eess.IV),256
 Software Engineering (cs.SE),248
 Machine Learning (stat.ML),192
-Signal Processing (eess.SP),182
+Signal Processing (eess.SP),184
 Multiagent Systems (cs.MA),159
 Social and Information Networks (cs.SI),156
 Audio and Speech Processing (eess.AS),145
@@ -23,7 +23,7 @@ Computer Science and Game Theory (cs.GT),135
 Networking and Internet Architecture (cs.NI),121
 Databases (cs.DB),96
 Logic in Computer Science (cs.LO),95
-Quantum Physics (quant-ph),92
+Quantum Physics (quant-ph),93
 Optimization and Control (math.OC),87
 Information Theory (cs.IT),86
 Neurons and Cognition (q-bio.NC),84
@@ -56,16 +56,16 @@ Formal Languages and Automata Theory (cs.FL),8
 General Economics (econ.GN),7
 Earth and Planetary Astrophysics (astro-ph.EP),7
 Geophysics (physics.geo-ph),7
+Portfolio Management (q-fin.PM),7
 Other Computer Science (cs.OH),6
 Cosmology and Nongalactic Astrophysics (astro-ph.CO),6
 Materials Science (cond-mat.mtrl-sci),6
 Chemical Physics (physics.chem-ph),6
 Computational Geometry (cs.CG),6
-Portfolio Management (q-fin.PM),6
 Category Theory (math.CT),5
 Logic (math.LO),4
-Computational Finance (q-fin.CP),4
 Algebraic Topology (math.AT),4
+Computational Finance (q-fin.CP),4
 Optics (physics.optics),4
 Populations and Evolution (q-bio.PE),4
 Discrete Mathematics (cs.DM),4
@@ -73,8 +73,8 @@ Dynamical Systems (math.DS),4
 Astrophysics of Galaxies (astro-ph.GA),4
 General Relativity and Quantum Cosmology (gr-qc),4
 History and Philosophy of Physics (physics.hist-ph),4
-Statistical Mechanics (cond-mat.stat-mech),3
 Solar and Stellar Astrophysics (astro-ph.SR),3
+Statistical Mechanics (cond-mat.stat-mech),3
 Symbolic Computation (cs.SC),3
 Adaptation and Self-Organizing Systems (nlin.AO),3
 Molecular Networks (q-bio.MN),3
