@@ -1,35 +1,35 @@
 subject,frequency
-Machine Learning (cs.LG),6517
-Artificial Intelligence (cs.AI),3736
-Computer Vision and Pattern Recognition (cs.CV),3599
-Computation and Language (cs.CL),2848
-Robotics (cs.RO),993
-Information Retrieval (cs.IR),501
+Machine Learning (cs.LG),6529
+Artificial Intelligence (cs.AI),3739
+Computer Vision and Pattern Recognition (cs.CV),3606
+Computation and Language (cs.CL),2850
+Robotics (cs.RO),998
+Information Retrieval (cs.IR),502
 Cryptography and Security (cs.CR),451
 Neural and Evolutionary Computing (cs.NE),326
 Human-Computer Interaction (cs.HC),306
-Computers and Society (cs.CY),303
-Sound (cs.SD),290
+Computers and Society (cs.CY),304
+Sound (cs.SD),293
 Image and Video Processing (eess.IV),264
 Software Engineering (cs.SE),258
 Machine Learning (stat.ML),199
-Signal Processing (eess.SP),192
+Signal Processing (eess.SP),196
 Social and Information Networks (cs.SI),165
-Multiagent Systems (cs.MA),164
+Multiagent Systems (cs.MA),165
 Audio and Speech Processing (eess.AS),149
 Systems and Control (eess.SY),143
-"Distributed, Parallel, and Cluster Computing (cs.DC)",142
+"Distributed, Parallel, and Cluster Computing (cs.DC)",143
 Computer Science and Game Theory (cs.GT),137
-Networking and Internet Architecture (cs.NI),123
+Networking and Internet Architecture (cs.NI),124
+Databases (cs.DB),100
 Logic in Computer Science (cs.LO),98
-Databases (cs.DB),98
 Quantum Physics (quant-ph),95
 Neurons and Cognition (q-bio.NC),88
 Information Theory (cs.IT),87
 Optimization and Control (math.OC),87
 Hardware Architecture (cs.AR),67
 Quantitative Methods (q-bio.QM),47
-Methodology (stat.ME),34
+Methodology (stat.ME),35
 Digital Libraries (cs.DL),31
 Graphics (cs.GR),30
 Data Structures and Algorithms (cs.DS),30
@@ -41,7 +41,7 @@ Computational Complexity (cs.CC),22
 Statistical Finance (q-fin.ST),21
 Emerging Technologies (cs.ET),19
 Programming Languages (cs.PL),18
-Numerical Analysis (math.NA),17
+Numerical Analysis (math.NA),18
 Computational Physics (physics.comp-ph),16
 Instrumentation and Methods for Astrophysics (astro-ph.IM),14
 Fluid Dynamics (physics.flu-dyn),14
