@@ -1,41 +1,41 @@
 subject,frequency
-Machine Learning (cs.LG),6547
-Artificial Intelligence (cs.AI),3762
-Computer Vision and Pattern Recognition (cs.CV),3632
-Computation and Language (cs.CL),2868
-Robotics (cs.RO),1006
-Information Retrieval (cs.IR),507
-Cryptography and Security (cs.CR),455
-Neural and Evolutionary Computing (cs.NE),326
-Human-Computer Interaction (cs.HC),309
-Computers and Society (cs.CY),304
-Sound (cs.SD),300
-Image and Video Processing (eess.IV),265
+Machine Learning (cs.LG),6556
+Artificial Intelligence (cs.AI),3772
+Computer Vision and Pattern Recognition (cs.CV),3644
+Computation and Language (cs.CL),2871
+Robotics (cs.RO),1010
+Information Retrieval (cs.IR),510
+Cryptography and Security (cs.CR),456
+Neural and Evolutionary Computing (cs.NE),330
+Human-Computer Interaction (cs.HC),310
+Computers and Society (cs.CY),306
+Sound (cs.SD),301
+Image and Video Processing (eess.IV),267
 Software Engineering (cs.SE),259
 Machine Learning (stat.ML),200
-Signal Processing (eess.SP),198
+Signal Processing (eess.SP),199
 Social and Information Networks (cs.SI),165
 Multiagent Systems (cs.MA),165
 Audio and Speech Processing (eess.AS),149
 Systems and Control (eess.SY),145
 "Distributed, Parallel, and Cluster Computing (cs.DC)",144
 Computer Science and Game Theory (cs.GT),137
-Networking and Internet Architecture (cs.NI),124
-Logic in Computer Science (cs.LO),102
-Databases (cs.DB),100
+Networking and Internet Architecture (cs.NI),126
+Logic in Computer Science (cs.LO),104
+Databases (cs.DB),101
 Quantum Physics (quant-ph),96
-Neurons and Cognition (q-bio.NC),88
-Information Theory (cs.IT),87
+Neurons and Cognition (q-bio.NC),89
+Information Theory (cs.IT),88
 Optimization and Control (math.OC),87
 Hardware Architecture (cs.AR),67
-Quantitative Methods (q-bio.QM),47
+Quantitative Methods (q-bio.QM),48
 Methodology (stat.ME),35
 Digital Libraries (cs.DL),31
 Graphics (cs.GR),30
 Data Structures and Algorithms (cs.DS),30
 Multimedia (cs.MM),28
+Biomolecules (q-bio.BM),26
 Genomics (q-bio.GN),25
-Biomolecules (q-bio.BM),23
 Computational Complexity (cs.CC),22
 "Computational Engineering, Finance, and Science (cs.CE)",21
 Statistical Finance (q-fin.ST),21
