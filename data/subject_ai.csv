@@ -1,18 +1,18 @@
 subject,frequency
-Machine Learning (cs.LG),6567
-Artificial Intelligence (cs.AI),3788
-Computer Vision and Pattern Recognition (cs.CV),3651
-Computation and Language (cs.CL),2875
-Robotics (cs.RO),1015
+Machine Learning (cs.LG),6588
+Artificial Intelligence (cs.AI),3792
+Computer Vision and Pattern Recognition (cs.CV),3671
+Computation and Language (cs.CL),2880
+Robotics (cs.RO),1019
 Information Retrieval (cs.IR),510
-Cryptography and Security (cs.CR),457
-Neural and Evolutionary Computing (cs.NE),330
-Human-Computer Interaction (cs.HC),310
+Cryptography and Security (cs.CR),458
+Neural and Evolutionary Computing (cs.NE),331
+Human-Computer Interaction (cs.HC),311
 Computers and Society (cs.CY),306
-Sound (cs.SD),301
+Sound (cs.SD),302
 Image and Video Processing (eess.IV),267
-Software Engineering (cs.SE),260
-Machine Learning (stat.ML),200
+Software Engineering (cs.SE),261
+Machine Learning (stat.ML),201
 Signal Processing (eess.SP),199
 Multiagent Systems (cs.MA),166
 Social and Information Networks (cs.SI),165
@@ -20,7 +20,7 @@ Audio and Speech Processing (eess.AS),150
 Systems and Control (eess.SY),146
 "Distributed, Parallel, and Cluster Computing (cs.DC)",145
 Computer Science and Game Theory (cs.GT),137
-Networking and Internet Architecture (cs.NI),127
+Networking and Internet Architecture (cs.NI),128
 Logic in Computer Science (cs.LO),104
 Databases (cs.DB),101
 Quantum Physics (quant-ph),96
@@ -53,13 +53,13 @@ Medical Physics (physics.med-ph),11
 Theoretical Economics (econ.TH),11
 Statistics Theory (math.ST),9
 Formal Languages and Automata Theory (cs.FL),9
+Materials Science (cond-mat.mtrl-sci),8
 General Economics (econ.GN),8
 Cosmology and Nongalactic Astrophysics (astro-ph.CO),8
 Computational Finance (q-fin.CP),7
 Portfolio Management (q-fin.PM),7
 Geophysics (physics.geo-ph),7
 Earth and Planetary Astrophysics (astro-ph.EP),7
-Materials Science (cond-mat.mtrl-sci),7
 Computational Geometry (cs.CG),6
 Chemical Physics (physics.chem-ph),6
 Other Computer Science (cs.OH),6
