@@ -1,18 +1,18 @@
 subject,frequency
-Machine Learning (cs.LG),6650
-Artificial Intelligence (cs.AI),3812
-Computer Vision and Pattern Recognition (cs.CV),3690
-Computation and Language (cs.CL),2898
-Robotics (cs.RO),1023
+Machine Learning (cs.LG),6675
+Artificial Intelligence (cs.AI),3819
+Computer Vision and Pattern Recognition (cs.CV),3700
+Computation and Language (cs.CL),2905
+Robotics (cs.RO),1029
 Information Retrieval (cs.IR),511
-Cryptography and Security (cs.CR),461
+Cryptography and Security (cs.CR),462
 Neural and Evolutionary Computing (cs.NE),333
-Human-Computer Interaction (cs.HC),312
+Human-Computer Interaction (cs.HC),313
 Computers and Society (cs.CY),306
-Sound (cs.SD),302
+Sound (cs.SD),305
 Image and Video Processing (eess.IV),267
 Software Engineering (cs.SE),264
-Machine Learning (stat.ML),203
+Machine Learning (stat.ML),205
 Signal Processing (eess.SP),199
 Multiagent Systems (cs.MA),166
 Social and Information Networks (cs.SI),165
@@ -24,7 +24,7 @@ Networking and Internet Architecture (cs.NI),128
 Logic in Computer Science (cs.LO),104
 Databases (cs.DB),101
 Quantum Physics (quant-ph),97
-Information Theory (cs.IT),89
+Information Theory (cs.IT),90
 Neurons and Cognition (q-bio.NC),89
 Optimization and Control (math.OC),87
 Hardware Architecture (cs.AR),68
@@ -39,7 +39,7 @@ Genomics (q-bio.GN),25
 Computational Complexity (cs.CC),23
 "Computational Engineering, Finance, and Science (cs.CE)",21
 Statistical Finance (q-fin.ST),21
-Emerging Technologies (cs.ET),19
+Emerging Technologies (cs.ET),20
 Programming Languages (cs.PL),18
 Numerical Analysis (math.NA),18
 Computational Physics (physics.comp-ph),16
@@ -55,11 +55,11 @@ Formal Languages and Automata Theory (cs.FL),9
 Statistics Theory (math.ST),9
 Cosmology and Nongalactic Astrophysics (astro-ph.CO),8
 General Economics (econ.GN),8
+Computational Finance (q-fin.CP),8
 Materials Science (cond-mat.mtrl-sci),8
 Portfolio Management (q-fin.PM),7
 Geophysics (physics.geo-ph),7
 Earth and Planetary Astrophysics (astro-ph.EP),7
-Computational Finance (q-fin.CP),7
 Other Computer Science (cs.OH),6
 Computational Geometry (cs.CG),6
 Chemical Physics (physics.chem-ph),6
