@@ -1,34 +1,34 @@
 subject,frequency
-Machine Learning (cs.LG),6745
-Artificial Intelligence (cs.AI),3836
-Computer Vision and Pattern Recognition (cs.CV),3734
-Computation and Language (cs.CL),2939
-Robotics (cs.RO),1041
-Information Retrieval (cs.IR),515
+Machine Learning (cs.LG),6774
+Artificial Intelligence (cs.AI),3847
+Computer Vision and Pattern Recognition (cs.CV),3755
+Computation and Language (cs.CL),2960
+Robotics (cs.RO),1046
+Information Retrieval (cs.IR),516
 Cryptography and Security (cs.CR),465
-Neural and Evolutionary Computing (cs.NE),337
-Human-Computer Interaction (cs.HC),317
+Neural and Evolutionary Computing (cs.NE),340
+Human-Computer Interaction (cs.HC),322
+Sound (cs.SD),307
 Computers and Society (cs.CY),306
-Sound (cs.SD),306
-Image and Video Processing (eess.IV),269
-Software Engineering (cs.SE),266
+Image and Video Processing (eess.IV),272
+Software Engineering (cs.SE),268
 Machine Learning (stat.ML),207
 Signal Processing (eess.SP),199
-Multiagent Systems (cs.MA),167
-Social and Information Networks (cs.SI),165
+Multiagent Systems (cs.MA),168
+Social and Information Networks (cs.SI),167
 Audio and Speech Processing (eess.AS),152
 Systems and Control (eess.SY),150
-"Distributed, Parallel, and Cluster Computing (cs.DC)",145
+"Distributed, Parallel, and Cluster Computing (cs.DC)",146
 Computer Science and Game Theory (cs.GT),139
-Networking and Internet Architecture (cs.NI),130
+Networking and Internet Architecture (cs.NI),131
 Logic in Computer Science (cs.LO),104
-Databases (cs.DB),101
+Databases (cs.DB),102
 Quantum Physics (quant-ph),97
 Information Theory (cs.IT),91
-Neurons and Cognition (q-bio.NC),90
+Neurons and Cognition (q-bio.NC),91
 Optimization and Control (math.OC),87
 Hardware Architecture (cs.AR),68
-Quantitative Methods (q-bio.QM),49
+Quantitative Methods (q-bio.QM),50
 Methodology (stat.ME),35
 Digital Libraries (cs.DL),33
 Graphics (cs.GR),30
@@ -40,13 +40,13 @@ Computational Complexity (cs.CC),23
 "Computational Engineering, Finance, and Science (cs.CE)",21
 Statistical Finance (q-fin.ST),21
 Emerging Technologies (cs.ET),20
-Programming Languages (cs.PL),18
 Numerical Analysis (math.NA),18
+Programming Languages (cs.PL),18
 Computational Physics (physics.comp-ph),16
-Atmospheric and Oceanic Physics (physics.ao-ph),14
 Instrumentation and Methods for Astrophysics (astro-ph.IM),14
 Fluid Dynamics (physics.flu-dyn),14
 Physics and Society (physics.soc-ph),14
+Atmospheric and Oceanic Physics (physics.ao-ph),14
 Trading and Market Microstructure (q-fin.TR),12
 Applications (stat.AP),11
 Medical Physics (physics.med-ph),11
@@ -58,33 +58,33 @@ General Economics (econ.GN),8
 Computational Finance (q-fin.CP),8
 Materials Science (cond-mat.mtrl-sci),8
 Portfolio Management (q-fin.PM),7
-Geophysics (physics.geo-ph),7
 Earth and Planetary Astrophysics (astro-ph.EP),7
+Geophysics (physics.geo-ph),7
+Chemical Physics (physics.chem-ph),6
 Other Computer Science (cs.OH),6
 Computational Geometry (cs.CG),6
-Chemical Physics (physics.chem-ph),6
 Category Theory (math.CT),5
+Applied Physics (physics.app-ph),4
 Optics (physics.optics),4
 Discrete Mathematics (cs.DM),4
-Astrophysics of Galaxies (astro-ph.GA),4
-Logic (math.LO),4
+History and Philosophy of Physics (physics.hist-ph),4
+Dynamical Systems (math.DS),4
 General Relativity and Quantum Cosmology (gr-qc),4
 Solar and Stellar Astrophysics (astro-ph.SR),4
-History and Philosophy of Physics (physics.hist-ph),4
 Populations and Evolution (q-bio.PE),4
-Dynamical Systems (math.DS),4
 Algebraic Topology (math.AT),4
-Combinatorics (math.CO),3
-Other Quantitative Biology (q-bio.OT),3
-Applied Physics (physics.app-ph),3
-Statistical Mechanics (cond-mat.stat-mech),3
-Disordered Systems and Neural Networks (cond-mat.dis-nn),3
-Molecular Networks (q-bio.MN),3
+Astrophysics of Galaxies (astro-ph.GA),4
+Logic (math.LO),4
 Econometrics (econ.EM),3
+Molecular Networks (q-bio.MN),3
+Adaptation and Self-Organizing Systems (nlin.AO),3
+Combinatorics (math.CO),3
 Instrumentation and Detectors (physics.ins-det),3
 "Data Analysis, Statistics and Probability (physics.data-an)",3
+Statistical Mechanics (cond-mat.stat-mech),3
+Other Quantitative Biology (q-bio.OT),3
 Symbolic Computation (cs.SC),3
-Adaptation and Self-Organizing Systems (nlin.AO),3
+Disordered Systems and Neural Networks (cond-mat.dis-nn),3
 Plasma Physics (physics.plasm-ph),2
 Probability (math.PR),2
 Risk Management (q-fin.RM),2
