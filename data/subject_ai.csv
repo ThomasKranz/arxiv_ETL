@@ -1,35 +1,35 @@
 subject,frequency
-Machine Learning (cs.LG),6864
-Artificial Intelligence (cs.AI),3871
-Computer Vision and Pattern Recognition (cs.CV),3806
-Computation and Language (cs.CL),3031
-Robotics (cs.RO),1063
-Information Retrieval (cs.IR),523
+Machine Learning (cs.LG),6906
+Artificial Intelligence (cs.AI),3897
+Computer Vision and Pattern Recognition (cs.CV),3820
+Computation and Language (cs.CL),3051
+Robotics (cs.RO),1081
+Information Retrieval (cs.IR),525
 Cryptography and Security (cs.CR),468
-Neural and Evolutionary Computing (cs.NE),341
-Human-Computer Interaction (cs.HC),327
-Sound (cs.SD),315
-Computers and Society (cs.CY),306
-Image and Video Processing (eess.IV),274
-Software Engineering (cs.SE),273
-Machine Learning (stat.ML),210
-Signal Processing (eess.SP),206
-Multiagent Systems (cs.MA),170
-Social and Information Networks (cs.SI),167
-Systems and Control (eess.SY),155
+Neural and Evolutionary Computing (cs.NE),342
+Human-Computer Interaction (cs.HC),328
+Computers and Society (cs.CY),318
+Sound (cs.SD),317
+Image and Video Processing (eess.IV),276
+Software Engineering (cs.SE),275
+Machine Learning (stat.ML),211
+Signal Processing (eess.SP),207
+Multiagent Systems (cs.MA),171
+Social and Information Networks (cs.SI),169
+Systems and Control (eess.SY),157
 Audio and Speech Processing (eess.AS),154
-"Distributed, Parallel, and Cluster Computing (cs.DC)",146
+"Distributed, Parallel, and Cluster Computing (cs.DC)",147
 Computer Science and Game Theory (cs.GT),141
-Networking and Internet Architecture (cs.NI),133
+Networking and Internet Architecture (cs.NI),134
 Logic in Computer Science (cs.LO),104
 Databases (cs.DB),102
 Quantum Physics (quant-ph),98
 Information Theory (cs.IT),93
 Neurons and Cognition (q-bio.NC),92
-Optimization and Control (math.OC),87
+Optimization and Control (math.OC),88
 Hardware Architecture (cs.AR),68
 Quantitative Methods (q-bio.QM),50
-Methodology (stat.ME),36
+Methodology (stat.ME),37
 Digital Libraries (cs.DL),35
 Data Structures and Algorithms (cs.DS),31
 Graphics (cs.GR),30
@@ -40,17 +40,17 @@ Computational Complexity (cs.CC),23
 "Computational Engineering, Finance, and Science (cs.CE)",21
 Statistical Finance (q-fin.ST),21
 Emerging Technologies (cs.ET),20
-Numerical Analysis (math.NA),18
 Programming Languages (cs.PL),18
+Numerical Analysis (math.NA),18
 Computational Physics (physics.comp-ph),16
+Atmospheric and Oceanic Physics (physics.ao-ph),14
 Instrumentation and Methods for Astrophysics (astro-ph.IM),14
 Fluid Dynamics (physics.flu-dyn),14
 Physics and Society (physics.soc-ph),14
-Atmospheric and Oceanic Physics (physics.ao-ph),14
 Trading and Market Microstructure (q-fin.TR),12
+Theoretical Economics (econ.TH),12
 Applications (stat.AP),11
 Medical Physics (physics.med-ph),11
-Theoretical Economics (econ.TH),11
 Statistics Theory (math.ST),9
 Formal Languages and Automata Theory (cs.FL),9
 Geophysics (physics.geo-ph),8
