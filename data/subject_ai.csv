@@ -1,20 +1,20 @@
 subject,frequency
-Machine Learning (cs.LG),6906
-Artificial Intelligence (cs.AI),3897
-Computer Vision and Pattern Recognition (cs.CV),3820
-Computation and Language (cs.CL),3051
-Robotics (cs.RO),1081
-Information Retrieval (cs.IR),525
-Cryptography and Security (cs.CR),468
+Machine Learning (cs.LG),6922
+Artificial Intelligence (cs.AI),3909
+Computer Vision and Pattern Recognition (cs.CV),3830
+Computation and Language (cs.CL),3062
+Robotics (cs.RO),1089
+Information Retrieval (cs.IR),527
+Cryptography and Security (cs.CR),469
 Neural and Evolutionary Computing (cs.NE),342
 Human-Computer Interaction (cs.HC),328
 Computers and Society (cs.CY),318
 Sound (cs.SD),317
 Image and Video Processing (eess.IV),276
 Software Engineering (cs.SE),275
-Machine Learning (stat.ML),211
-Signal Processing (eess.SP),207
-Multiagent Systems (cs.MA),171
+Machine Learning (stat.ML),212
+Signal Processing (eess.SP),208
+Multiagent Systems (cs.MA),172
 Social and Information Networks (cs.SI),169
 Systems and Control (eess.SY),157
 Audio and Speech Processing (eess.AS),154
@@ -33,8 +33,8 @@ Methodology (stat.ME),37
 Digital Libraries (cs.DL),35
 Data Structures and Algorithms (cs.DS),31
 Graphics (cs.GR),30
+Multimedia (cs.MM),29
 Biomolecules (q-bio.BM),28
-Multimedia (cs.MM),28
 Genomics (q-bio.GN),25
 Computational Complexity (cs.CC),23
 "Computational Engineering, Finance, and Science (cs.CE)",21
@@ -48,8 +48,8 @@ Instrumentation and Methods for Astrophysics (astro-ph.IM),14
 Fluid Dynamics (physics.flu-dyn),14
 Physics and Society (physics.soc-ph),14
 Trading and Market Microstructure (q-fin.TR),12
+Applications (stat.AP),12
 Theoretical Economics (econ.TH),12
-Applications (stat.AP),11
 Medical Physics (physics.med-ph),11
 Statistics Theory (math.ST),9
 Formal Languages and Automata Theory (cs.FL),9
