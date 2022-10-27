@@ -1,34 +1,34 @@
 subject,frequency
-Machine Learning (cs.LG),7036
-Artificial Intelligence (cs.AI),3958
-Computer Vision and Pattern Recognition (cs.CV),3895
-Computation and Language (cs.CL),3149
-Robotics (cs.RO),1109
+Machine Learning (cs.LG),7049
+Artificial Intelligence (cs.AI),3961
+Computer Vision and Pattern Recognition (cs.CV),3899
+Computation and Language (cs.CL),3157
+Robotics (cs.RO),1112
 Information Retrieval (cs.IR),538
-Cryptography and Security (cs.CR),479
+Cryptography and Security (cs.CR),482
 Neural and Evolutionary Computing (cs.NE),347
 Human-Computer Interaction (cs.HC),332
-Sound (cs.SD),322
+Sound (cs.SD),325
 Computers and Society (cs.CY),320
 Image and Video Processing (eess.IV),277
 Software Engineering (cs.SE),276
-Machine Learning (stat.ML),215
-Signal Processing (eess.SP),209
+Machine Learning (stat.ML),217
+Signal Processing (eess.SP),210
 Social and Information Networks (cs.SI),173
 Multiagent Systems (cs.MA),172
+Audio and Speech Processing (eess.AS),159
 Systems and Control (eess.SY),159
-Audio and Speech Processing (eess.AS),157
 "Distributed, Parallel, and Cluster Computing (cs.DC)",149
-Computer Science and Game Theory (cs.GT),142
+Computer Science and Game Theory (cs.GT),143
 Networking and Internet Architecture (cs.NI),135
 Logic in Computer Science (cs.LO),104
 Databases (cs.DB),102
-Quantum Physics (quant-ph),98
+Quantum Physics (quant-ph),99
 Neurons and Cognition (q-bio.NC),96
 Information Theory (cs.IT),94
-Optimization and Control (math.OC),89
+Optimization and Control (math.OC),90
 Hardware Architecture (cs.AR),69
-Quantitative Methods (q-bio.QM),52
+Quantitative Methods (q-bio.QM),53
 Methodology (stat.ME),37
 Digital Libraries (cs.DL),36
 Data Structures and Algorithms (cs.DS),33
@@ -40,7 +40,7 @@ Computational Complexity (cs.CC),23
 "Computational Engineering, Finance, and Science (cs.CE)",21
 Statistical Finance (q-fin.ST),21
 Emerging Technologies (cs.ET),20
-Numerical Analysis (math.NA),18
+Numerical Analysis (math.NA),19
 Programming Languages (cs.PL),18
 Computational Physics (physics.comp-ph),16
 Atmospheric and Oceanic Physics (physics.ao-ph),15
