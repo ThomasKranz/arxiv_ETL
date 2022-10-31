@@ -1,30 +1,30 @@
 subject,frequency
-Machine Learning (cs.LG),7066
-Artificial Intelligence (cs.AI),3969
-Computer Vision and Pattern Recognition (cs.CV),3914
-Computation and Language (cs.CL),3174
-Robotics (cs.RO),1116
-Information Retrieval (cs.IR),542
-Cryptography and Security (cs.CR),486
+Machine Learning (cs.LG),7091
+Artificial Intelligence (cs.AI),3976
+Computer Vision and Pattern Recognition (cs.CV),3925
+Computation and Language (cs.CL),3178
+Robotics (cs.RO),1120
+Information Retrieval (cs.IR),543
+Cryptography and Security (cs.CR),489
 Neural and Evolutionary Computing (cs.NE),348
+Sound (cs.SD),335
 Human-Computer Interaction (cs.HC),333
-Sound (cs.SD),333
 Computers and Society (cs.CY),322
+Software Engineering (cs.SE),278
 Image and Video Processing (eess.IV),277
-Software Engineering (cs.SE),276
 Machine Learning (stat.ML),218
 Signal Processing (eess.SP),210
 Social and Information Networks (cs.SI),174
 Multiagent Systems (cs.MA),172
-Audio and Speech Processing (eess.AS),159
 Systems and Control (eess.SY),159
+Audio and Speech Processing (eess.AS),159
 "Distributed, Parallel, and Cluster Computing (cs.DC)",149
-Computer Science and Game Theory (cs.GT),143
+Computer Science and Game Theory (cs.GT),144
 Networking and Internet Architecture (cs.NI),135
 Logic in Computer Science (cs.LO),104
 Databases (cs.DB),102
 Quantum Physics (quant-ph),100
-Neurons and Cognition (q-bio.NC),96
+Neurons and Cognition (q-bio.NC),97
 Information Theory (cs.IT),94
 Optimization and Control (math.OC),90
 Hardware Architecture (cs.AR),69
@@ -33,20 +33,20 @@ Methodology (stat.ME),37
 Digital Libraries (cs.DL),36
 Data Structures and Algorithms (cs.DS),33
 Graphics (cs.GR),31
-Multimedia (cs.MM),29
+Multimedia (cs.MM),30
 Biomolecules (q-bio.BM),28
 Genomics (q-bio.GN),25
 Computational Complexity (cs.CC),23
 "Computational Engineering, Finance, and Science (cs.CE)",21
 Statistical Finance (q-fin.ST),21
-Numerical Analysis (math.NA),20
 Emerging Technologies (cs.ET),20
+Numerical Analysis (math.NA),20
 Programming Languages (cs.PL),18
 Computational Physics (physics.comp-ph),16
 Atmospheric and Oceanic Physics (physics.ao-ph),15
 Instrumentation and Methods for Astrophysics (astro-ph.IM),14
-Fluid Dynamics (physics.flu-dyn),14
 Physics and Society (physics.soc-ph),14
+Fluid Dynamics (physics.flu-dyn),14
 Trading and Market Microstructure (q-fin.TR),13
 Applications (stat.AP),12
 Theoretical Economics (econ.TH),12
