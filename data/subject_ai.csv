@@ -1,26 +1,26 @@
 subject,frequency
-Machine Learning (cs.LG),7440
-Computer Vision and Pattern Recognition (cs.CV),4141
-Artificial Intelligence (cs.AI),4122
-Computation and Language (cs.CL),3388
-Robotics (cs.RO),1176
+Machine Learning (cs.LG),7457
+Computer Vision and Pattern Recognition (cs.CV),4160
+Artificial Intelligence (cs.AI),4133
+Computation and Language (cs.CL),3401
+Robotics (cs.RO),1178
 Information Retrieval (cs.IR),562
-Cryptography and Security (cs.CR),513
-Neural and Evolutionary Computing (cs.NE),368
-Sound (cs.SD),358
+Cryptography and Security (cs.CR),515
+Neural and Evolutionary Computing (cs.NE),370
+Sound (cs.SD),359
 Human-Computer Interaction (cs.HC),347
-Computers and Society (cs.CY),341
+Computers and Society (cs.CY),342
 Software Engineering (cs.SE),289
-Image and Video Processing (eess.IV),285
+Image and Video Processing (eess.IV),286
 Signal Processing (eess.SP),229
-Machine Learning (stat.ML),227
-Social and Information Networks (cs.SI),183
-Multiagent Systems (cs.MA),179
+Machine Learning (stat.ML),228
+Social and Information Networks (cs.SI),184
+Multiagent Systems (cs.MA),180
 Audio and Speech Processing (eess.AS),179
 Systems and Control (eess.SY),168
-"Distributed, Parallel, and Cluster Computing (cs.DC)",157
-Computer Science and Game Theory (cs.GT),152
-Networking and Internet Architecture (cs.NI),144
+"Distributed, Parallel, and Cluster Computing (cs.DC)",158
+Computer Science and Game Theory (cs.GT),154
+Networking and Internet Architecture (cs.NI),145
 Quantum Physics (quant-ph),112
 Logic in Computer Science (cs.LO),104
 Databases (cs.DB),102
@@ -53,9 +53,9 @@ Applications (stat.AP),13
 Theoretical Economics (econ.TH),12
 General Economics (econ.GN),10
 Materials Science (cond-mat.mtrl-sci),10
+Formal Languages and Automata Theory (cs.FL),10
 Geophysics (physics.geo-ph),9
 Statistics Theory (math.ST),9
-Formal Languages and Automata Theory (cs.FL),9
 Cosmology and Nongalactic Astrophysics (astro-ph.CO),8
 Earth and Planetary Astrophysics (astro-ph.EP),8
 Computational Finance (q-fin.CP),8
