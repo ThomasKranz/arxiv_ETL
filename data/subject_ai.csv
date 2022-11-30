@@ -1,39 +1,39 @@
 subject,frequency
-Machine Learning (cs.LG),7496
-Computer Vision and Pattern Recognition (cs.CV),4198
-Artificial Intelligence (cs.AI),4160
-Computation and Language (cs.CL),3428
-Robotics (cs.RO),1185
-Information Retrieval (cs.IR),564
-Cryptography and Security (cs.CR),519
+Machine Learning (cs.LG),7518
+Computer Vision and Pattern Recognition (cs.CV),4209
+Artificial Intelligence (cs.AI),4175
+Computation and Language (cs.CL),3436
+Robotics (cs.RO),1186
+Information Retrieval (cs.IR),565
+Cryptography and Security (cs.CR),520
 Neural and Evolutionary Computing (cs.NE),374
 Sound (cs.SD),359
 Human-Computer Interaction (cs.HC),347
-Computers and Society (cs.CY),342
-Software Engineering (cs.SE),289
-Image and Video Processing (eess.IV),287
-Machine Learning (stat.ML),229
+Computers and Society (cs.CY),343
+Software Engineering (cs.SE),290
+Image and Video Processing (eess.IV),288
+Machine Learning (stat.ML),230
 Signal Processing (eess.SP),229
 Social and Information Networks (cs.SI),184
 Multiagent Systems (cs.MA),181
 Audio and Speech Processing (eess.AS),179
 Systems and Control (eess.SY),169
-"Distributed, Parallel, and Cluster Computing (cs.DC)",158
-Computer Science and Game Theory (cs.GT),155
+"Distributed, Parallel, and Cluster Computing (cs.DC)",159
+Computer Science and Game Theory (cs.GT),156
 Networking and Internet Architecture (cs.NI),145
 Quantum Physics (quant-ph),113
 Logic in Computer Science (cs.LO),104
+Information Theory (cs.IT),103
 Neurons and Cognition (q-bio.NC),103
-Information Theory (cs.IT),102
 Databases (cs.DB),102
-Optimization and Control (math.OC),94
-Hardware Architecture (cs.AR),71
-Quantitative Methods (q-bio.QM),56
+Optimization and Control (math.OC),95
+Hardware Architecture (cs.AR),73
+Quantitative Methods (q-bio.QM),57
 Methodology (stat.ME),41
 Data Structures and Algorithms (cs.DS),38
 Digital Libraries (cs.DL),37
-Biomolecules (q-bio.BM),33
 Graphics (cs.GR),33
+Biomolecules (q-bio.BM),33
 Multimedia (cs.MM),31
 Genomics (q-bio.GN),25
 Computational Complexity (cs.CC),24
@@ -56,9 +56,9 @@ General Economics (econ.GN),10
 Formal Languages and Automata Theory (cs.FL),10
 Geophysics (physics.geo-ph),9
 Statistics Theory (math.ST),9
-Cosmology and Nongalactic Astrophysics (astro-ph.CO),8
-Computational Finance (q-fin.CP),8
 Earth and Planetary Astrophysics (astro-ph.EP),8
+Computational Finance (q-fin.CP),8
+Cosmology and Nongalactic Astrophysics (astro-ph.CO),8
 Portfolio Management (q-fin.PM),7
 Chemical Physics (physics.chem-ph),7
 Computational Geometry (cs.CG),6
