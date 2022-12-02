@@ -1,34 +1,34 @@
 subject,frequency
-Machine Learning (cs.LG),7538
-Computer Vision and Pattern Recognition (cs.CV),4221
-Artificial Intelligence (cs.AI),4178
-Computation and Language (cs.CL),3449
-Robotics (cs.RO),1188
-Information Retrieval (cs.IR),565
-Cryptography and Security (cs.CR),520
-Neural and Evolutionary Computing (cs.NE),375
+Machine Learning (cs.LG),7553
+Computer Vision and Pattern Recognition (cs.CV),4232
+Artificial Intelligence (cs.AI),4190
+Computation and Language (cs.CL),3454
+Robotics (cs.RO),1191
+Information Retrieval (cs.IR),566
+Cryptography and Security (cs.CR),521
+Neural and Evolutionary Computing (cs.NE),378
 Sound (cs.SD),359
-Human-Computer Interaction (cs.HC),347
-Computers and Society (cs.CY),345
+Human-Computer Interaction (cs.HC),349
+Computers and Society (cs.CY),347
 Software Engineering (cs.SE),290
 Image and Video Processing (eess.IV),288
 Machine Learning (stat.ML),231
 Signal Processing (eess.SP),229
 Social and Information Networks (cs.SI),184
-Multiagent Systems (cs.MA),181
+Multiagent Systems (cs.MA),182
 Audio and Speech Processing (eess.AS),179
-Systems and Control (eess.SY),169
-"Distributed, Parallel, and Cluster Computing (cs.DC)",161
+Systems and Control (eess.SY),171
+"Distributed, Parallel, and Cluster Computing (cs.DC)",162
 Computer Science and Game Theory (cs.GT),156
 Networking and Internet Architecture (cs.NI),146
 Quantum Physics (quant-ph),113
 Logic in Computer Science (cs.LO),104
+Neurons and Cognition (q-bio.NC),104
 Information Theory (cs.IT),103
-Neurons and Cognition (q-bio.NC),103
 Databases (cs.DB),102
 Optimization and Control (math.OC),95
 Hardware Architecture (cs.AR),73
-Quantitative Methods (q-bio.QM),58
+Quantitative Methods (q-bio.QM),59
 Methodology (stat.ME),41
 Data Structures and Algorithms (cs.DS),38
 Digital Libraries (cs.DL),37
@@ -52,9 +52,9 @@ Medical Physics (physics.med-ph),14
 Applications (stat.AP),13
 Theoretical Economics (econ.TH),12
 General Economics (econ.GN),10
+Geophysics (physics.geo-ph),10
 Formal Languages and Automata Theory (cs.FL),10
 Materials Science (cond-mat.mtrl-sci),10
-Geophysics (physics.geo-ph),9
 Statistics Theory (math.ST),9
 Computational Finance (q-fin.CP),8
 Cosmology and Nongalactic Astrophysics (astro-ph.CO),8
