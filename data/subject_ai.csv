@@ -1,37 +1,37 @@
 subject,frequency
-Machine Learning (cs.LG),7627
-Computer Vision and Pattern Recognition (cs.CV),4294
-Artificial Intelligence (cs.AI),4231
-Computation and Language (cs.CL),3484
-Robotics (cs.RO),1206
+Machine Learning (cs.LG),7642
+Computer Vision and Pattern Recognition (cs.CV),4307
+Artificial Intelligence (cs.AI),4240
+Computation and Language (cs.CL),3497
+Robotics (cs.RO),1208
 Information Retrieval (cs.IR),567
 Cryptography and Security (cs.CR),527
-Neural and Evolutionary Computing (cs.NE),382
+Neural and Evolutionary Computing (cs.NE),383
 Sound (cs.SD),362
-Human-Computer Interaction (cs.HC),355
-Computers and Society (cs.CY),348
-Software Engineering (cs.SE),290
+Human-Computer Interaction (cs.HC),358
+Computers and Society (cs.CY),349
+Software Engineering (cs.SE),292
 Image and Video Processing (eess.IV),289
 Machine Learning (stat.ML),231
 Signal Processing (eess.SP),230
 Social and Information Networks (cs.SI),185
+Audio and Speech Processing (eess.AS),183
 Multiagent Systems (cs.MA),182
-Audio and Speech Processing (eess.AS),182
 Systems and Control (eess.SY),174
-"Distributed, Parallel, and Cluster Computing (cs.DC)",165
-Computer Science and Game Theory (cs.GT),156
+"Distributed, Parallel, and Cluster Computing (cs.DC)",167
+Computer Science and Game Theory (cs.GT),157
 Networking and Internet Architecture (cs.NI),149
-Quantum Physics (quant-ph),115
+Quantum Physics (quant-ph),116
 Logic in Computer Science (cs.LO),105
 Neurons and Cognition (q-bio.NC),105
 Information Theory (cs.IT),104
 Databases (cs.DB),103
-Optimization and Control (math.OC),98
+Optimization and Control (math.OC),99
 Hardware Architecture (cs.AR),73
 Quantitative Methods (q-bio.QM),59
 Methodology (stat.ME),41
+Digital Libraries (cs.DL),39
 Data Structures and Algorithms (cs.DS),38
-Digital Libraries (cs.DL),38
 Biomolecules (q-bio.BM),33
 Graphics (cs.GR),33
 Multimedia (cs.MM),31
@@ -60,8 +60,8 @@ Statistics Theory (math.ST),9
 Cosmology and Nongalactic Astrophysics (astro-ph.CO),8
 Earth and Planetary Astrophysics (astro-ph.EP),8
 Portfolio Management (q-fin.PM),8
+Other Computer Science (cs.OH),7
 Chemical Physics (physics.chem-ph),7
-Other Computer Science (cs.OH),6
 Computational Geometry (cs.CG),6
 Astrophysics of Galaxies (astro-ph.GA),5
 Populations and Evolution (q-bio.PE),5
