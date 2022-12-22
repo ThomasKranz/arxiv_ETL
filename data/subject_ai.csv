@@ -1,25 +1,25 @@
 subject,frequency
-Machine Learning (cs.LG),7718
-Computer Vision and Pattern Recognition (cs.CV),4356
-Artificial Intelligence (cs.AI),4301
-Computation and Language (cs.CL),3595
-Robotics (cs.RO),1216
-Information Retrieval (cs.IR),573
-Cryptography and Security (cs.CR),529
+Machine Learning (cs.LG),7733
+Computer Vision and Pattern Recognition (cs.CV),4366
+Artificial Intelligence (cs.AI),4311
+Computation and Language (cs.CL),3603
+Robotics (cs.RO),1217
+Information Retrieval (cs.IR),574
+Cryptography and Security (cs.CR),530
 Neural and Evolutionary Computing (cs.NE),388
 Sound (cs.SD),364
-Human-Computer Interaction (cs.HC),361
-Computers and Society (cs.CY),355
-Software Engineering (cs.SE),298
-Image and Video Processing (eess.IV),289
-Machine Learning (stat.ML),233
+Human-Computer Interaction (cs.HC),362
+Computers and Society (cs.CY),357
+Software Engineering (cs.SE),299
+Image and Video Processing (eess.IV),290
+Machine Learning (stat.ML),234
 Signal Processing (eess.SP),230
-Social and Information Networks (cs.SI),187
+Social and Information Networks (cs.SI),188
 Audio and Speech Processing (eess.AS),184
-Multiagent Systems (cs.MA),182
+Multiagent Systems (cs.MA),183
 Systems and Control (eess.SY),180
 "Distributed, Parallel, and Cluster Computing (cs.DC)",167
-Computer Science and Game Theory (cs.GT),158
+Computer Science and Game Theory (cs.GT),159
 Networking and Internet Architecture (cs.NI),152
 Quantum Physics (quant-ph),119
 Databases (cs.DB),108
@@ -36,82 +36,82 @@ Biomolecules (q-bio.BM),33
 Graphics (cs.GR),33
 Multimedia (cs.MM),31
 Genomics (q-bio.GN),28
-Statistical Finance (q-fin.ST),24
 Computational Complexity (cs.CC),24
+Statistical Finance (q-fin.ST),24
+Programming Languages (cs.PL),21
 "Computational Engineering, Finance, and Science (cs.CE)",21
 Numerical Analysis (math.NA),21
-Programming Languages (cs.PL),21
 Emerging Technologies (cs.ET),20
 Atmospheric and Oceanic Physics (physics.ao-ph),18
 Computational Physics (physics.comp-ph),17
 Instrumentation and Methods for Astrophysics (astro-ph.IM),16
-Physics and Society (physics.soc-ph),15
 Trading and Market Microstructure (q-fin.TR),15
 Fluid Dynamics (physics.flu-dyn),15
+Physics and Society (physics.soc-ph),15
 Medical Physics (physics.med-ph),14
 Applications (stat.AP),14
-Theoretical Economics (econ.TH),12
 Geophysics (physics.geo-ph),12
+Theoretical Economics (econ.TH),12
 General Economics (econ.GN),11
-Formal Languages and Automata Theory (cs.FL),10
 Materials Science (cond-mat.mtrl-sci),10
-Computational Finance (q-fin.CP),9
+Formal Languages and Automata Theory (cs.FL),10
 Statistics Theory (math.ST),9
-Cosmology and Nongalactic Astrophysics (astro-ph.CO),8
+Computational Finance (q-fin.CP),9
 Portfolio Management (q-fin.PM),8
+Cosmology and Nongalactic Astrophysics (astro-ph.CO),8
 Earth and Planetary Astrophysics (astro-ph.EP),8
-Other Computer Science (cs.OH),7
 Chemical Physics (physics.chem-ph),7
+Other Computer Science (cs.OH),7
 Computational Geometry (cs.CG),6
 Astrophysics of Galaxies (astro-ph.GA),5
-Populations and Evolution (q-bio.PE),5
 Category Theory (math.CT),5
-Applied Physics (physics.app-ph),4
-Algebraic Topology (math.AT),4
-Combinatorics (math.CO),4
+Populations and Evolution (q-bio.PE),5
 Optics (physics.optics),4
-General Relativity and Quantum Cosmology (gr-qc),4
-History and Philosophy of Physics (physics.hist-ph),4
-Dynamical Systems (math.DS),4
 Solar and Stellar Astrophysics (astro-ph.SR),4
-Discrete Mathematics (cs.DM),4
-Adaptation and Self-Organizing Systems (nlin.AO),4
 Logic (math.LO),4
+General Relativity and Quantum Cosmology (gr-qc),4
+Algebraic Topology (math.AT),4
+Applied Physics (physics.app-ph),4
+Combinatorics (math.CO),4
+Discrete Mathematics (cs.DM),4
+Dynamical Systems (math.DS),4
+Adaptation and Self-Organizing Systems (nlin.AO),4
+History and Philosophy of Physics (physics.hist-ph),4
 Risk Management (q-fin.RM),3
-High Energy Physics - Phenomenology (hep-ph),3
-Other Quantitative Biology (q-bio.OT),3
-Econometrics (econ.EM),3
-Instrumentation and Detectors (physics.ins-det),3
-"Data Analysis, Statistics and Probability (physics.data-an)",3
-Symbolic Computation (cs.SC),3
-Disordered Systems and Neural Networks (cond-mat.dis-nn),3
 Molecular Networks (q-bio.MN),3
 Mesoscale and Nanoscale Physics (cond-mat.mes-hall),3
+Econometrics (econ.EM),3
+Instrumentation and Detectors (physics.ins-det),3
+Disordered Systems and Neural Networks (cond-mat.dis-nn),3
+High Energy Physics - Phenomenology (hep-ph),3
+"Data Analysis, Statistics and Probability (physics.data-an)",3
 Statistical Mechanics (cond-mat.stat-mech),3
-Computation (stat.CO),2
-Mathematical Software (cs.MS),2
-Audio and Speech Processing (eess.AS) ,2
-High Energy Physics - Theory (hep-th),2
+Symbolic Computation (cs.SC),3
+Other Quantitative Biology (q-bio.OT),3
+Probability (math.PR),2
 Plasma Physics (physics.plasm-ph),2
+History and Overview (math.HO),2
+General Mathematics (math.GM),2
+Audio and Speech Processing (eess.AS) ,2
+Mathematical Software (cs.MS),2
+Computation (stat.CO),2
+High Energy Physics - Theory (hep-th),2
 High Energy Physics - Experiment (hep-ex),2
 General Finance (q-fin.GN),2
-Probability (math.PR),2
-General Mathematics (math.GM),2
-Rings and Algebras (math.RA),1
-Space Physics (physics.space-ph),1
-Accelerator Physics (physics.acc-ph),1
-Popular Physics (physics.pop-ph),1
 Other Statistics (stat.OT) ,1
-Operating Systems (cs.OS),1
-Nuclear Experiment (nucl-ex),1
-Mathematical Finance (q-fin.MF),1
-Materials Science (cond-mat.mtrl-sci) ,1
-High Energy Astrophysical Phenomena (astro-ph.HE),1
-Geometric Topology (math.GT),1
+Biological Physics (physics.bio-ph),1
+Cellular Automata and Lattice Gases (nlin.CG),1
+"Computational Engineering, Finance, and Science (cs.CE) ",1
+Differential Geometry (math.DG),1
+Space Physics (physics.space-ph),1
 General Topology (math.GN),1
 General Physics (physics.gen-ph),1
-Differential Geometry (math.DG),1
-"Computational Engineering, Finance, and Science (cs.CE) ",1
-Cellular Automata and Lattice Gases (nlin.CG),1
-Biological Physics (physics.bio-ph),1
-History and Overview (math.HO),1
+Popular Physics (physics.pop-ph),1
+Geometric Topology (math.GT),1
+High Energy Astrophysical Phenomena (astro-ph.HE),1
+Rings and Algebras (math.RA),1
+Materials Science (cond-mat.mtrl-sci) ,1
+Mathematical Finance (q-fin.MF),1
+Nuclear Experiment (nucl-ex),1
+Operating Systems (cs.OS),1
+Accelerator Physics (physics.acc-ph),1
