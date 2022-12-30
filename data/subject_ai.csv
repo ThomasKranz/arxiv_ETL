@@ -1,34 +1,34 @@
 subject,frequency
-Machine Learning (cs.LG),7776
-Computer Vision and Pattern Recognition (cs.CV),4399
-Artificial Intelligence (cs.AI),4353
-Computation and Language (cs.CL),3621
+Machine Learning (cs.LG),7790
+Computer Vision and Pattern Recognition (cs.CV),4410
+Artificial Intelligence (cs.AI),4365
+Computation and Language (cs.CL),3625
 Robotics (cs.RO),1225
-Information Retrieval (cs.IR),581
-Cryptography and Security (cs.CR),533
+Information Retrieval (cs.IR),587
+Cryptography and Security (cs.CR),535
 Neural and Evolutionary Computing (cs.NE),390
 Sound (cs.SD),364
 Human-Computer Interaction (cs.HC),363
 Computers and Society (cs.CY),360
-Software Engineering (cs.SE),302
+Software Engineering (cs.SE),304
 Image and Video Processing (eess.IV),294
-Machine Learning (stat.ML),239
-Signal Processing (eess.SP),234
+Machine Learning (stat.ML),240
+Signal Processing (eess.SP),238
 Social and Information Networks (cs.SI),188
-Multiagent Systems (cs.MA),184
+Multiagent Systems (cs.MA),185
 Audio and Speech Processing (eess.AS),184
-Systems and Control (eess.SY),181
+Systems and Control (eess.SY),182
 "Distributed, Parallel, and Cluster Computing (cs.DC)",167
 Computer Science and Game Theory (cs.GT),159
 Networking and Internet Architecture (cs.NI),154
 Quantum Physics (quant-ph),124
 Databases (cs.DB),111
-Neurons and Cognition (q-bio.NC),108
+Neurons and Cognition (q-bio.NC),109
 Information Theory (cs.IT),106
 Logic in Computer Science (cs.LO),106
 Optimization and Control (math.OC),100
 Hardware Architecture (cs.AR),73
-Quantitative Methods (q-bio.QM),60
+Quantitative Methods (q-bio.QM),61
 Methodology (stat.ME),41
 Digital Libraries (cs.DL),40
 Data Structures and Algorithms (cs.DS),39
@@ -42,8 +42,8 @@ Computational Complexity (cs.CC),24
 Numerical Analysis (math.NA),23
 Programming Languages (cs.PL),22
 Emerging Technologies (cs.ET),20
+Instrumentation and Methods for Astrophysics (astro-ph.IM),18
 Atmospheric and Oceanic Physics (physics.ao-ph),18
-Instrumentation and Methods for Astrophysics (astro-ph.IM),17
 Computational Physics (physics.comp-ph),17
 Fluid Dynamics (physics.flu-dyn),15
 Physics and Society (physics.soc-ph),15
