@@ -1,26 +1,26 @@
 subject,frequency
-Machine Learning (cs.LG),7837
-Computer Vision and Pattern Recognition (cs.CV),4443
-Artificial Intelligence (cs.AI),4383
-Computation and Language (cs.CL),3652
-Robotics (cs.RO),1241
-Information Retrieval (cs.IR),591
-Cryptography and Security (cs.CR),539
-Neural and Evolutionary Computing (cs.NE),395
-Human-Computer Interaction (cs.HC),369
+Machine Learning (cs.LG),7852
+Computer Vision and Pattern Recognition (cs.CV),4454
+Artificial Intelligence (cs.AI),4396
+Computation and Language (cs.CL),3665
+Robotics (cs.RO),1243
+Information Retrieval (cs.IR),592
+Cryptography and Security (cs.CR),541
+Neural and Evolutionary Computing (cs.NE),398
+Human-Computer Interaction (cs.HC),370
 Sound (cs.SD),364
 Computers and Society (cs.CY),364
-Software Engineering (cs.SE),307
+Software Engineering (cs.SE),310
 Image and Video Processing (eess.IV),296
-Signal Processing (eess.SP),240
+Signal Processing (eess.SP),244
 Machine Learning (stat.ML),240
 Social and Information Networks (cs.SI),189
 Multiagent Systems (cs.MA),188
+Systems and Control (eess.SY),186
 Audio and Speech Processing (eess.AS),185
-Systems and Control (eess.SY),184
 "Distributed, Parallel, and Cluster Computing (cs.DC)",167
+Networking and Internet Architecture (cs.NI),165
 Computer Science and Game Theory (cs.GT),161
-Networking and Internet Architecture (cs.NI),160
 Quantum Physics (quant-ph),124
 Databases (cs.DB),111
 Neurons and Cognition (q-bio.NC),110
@@ -32,13 +32,13 @@ Quantitative Methods (q-bio.QM),61
 Methodology (stat.ME),41
 Digital Libraries (cs.DL),40
 Data Structures and Algorithms (cs.DS),39
-Biomolecules (q-bio.BM),33
+Biomolecules (q-bio.BM),34
 Graphics (cs.GR),33
 Multimedia (cs.MM),32
 Genomics (q-bio.GN),28
-Computational Complexity (cs.CC),25
+Computational Complexity (cs.CC),26
 Statistical Finance (q-fin.ST),25
-"Computational Engineering, Finance, and Science (cs.CE)",23
+"Computational Engineering, Finance, and Science (cs.CE)",24
 Numerical Analysis (math.NA),23
 Programming Languages (cs.PL),22
 Emerging Technologies (cs.ET),21
