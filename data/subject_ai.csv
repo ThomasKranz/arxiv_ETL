@@ -1,33 +1,33 @@
 subject,frequency
-Machine Learning (cs.LG),7852
-Computer Vision and Pattern Recognition (cs.CV),4454
-Artificial Intelligence (cs.AI),4396
-Computation and Language (cs.CL),3665
-Robotics (cs.RO),1243
-Information Retrieval (cs.IR),592
+Machine Learning (cs.LG),7858
+Computer Vision and Pattern Recognition (cs.CV),4455
+Artificial Intelligence (cs.AI),4399
+Computation and Language (cs.CL),3671
+Robotics (cs.RO),1244
+Information Retrieval (cs.IR),594
 Cryptography and Security (cs.CR),541
-Neural and Evolutionary Computing (cs.NE),398
+Neural and Evolutionary Computing (cs.NE),400
 Human-Computer Interaction (cs.HC),370
+Computers and Society (cs.CY),365
 Sound (cs.SD),364
-Computers and Society (cs.CY),364
-Software Engineering (cs.SE),310
-Image and Video Processing (eess.IV),296
+Software Engineering (cs.SE),313
+Image and Video Processing (eess.IV),297
 Signal Processing (eess.SP),244
 Machine Learning (stat.ML),240
-Social and Information Networks (cs.SI),189
+Social and Information Networks (cs.SI),190
 Multiagent Systems (cs.MA),188
 Systems and Control (eess.SY),186
 Audio and Speech Processing (eess.AS),185
-"Distributed, Parallel, and Cluster Computing (cs.DC)",167
+"Distributed, Parallel, and Cluster Computing (cs.DC)",168
 Networking and Internet Architecture (cs.NI),165
 Computer Science and Game Theory (cs.GT),161
 Quantum Physics (quant-ph),124
-Databases (cs.DB),111
-Neurons and Cognition (q-bio.NC),110
+Databases (cs.DB),112
+Neurons and Cognition (q-bio.NC),111
 Information Theory (cs.IT),106
 Logic in Computer Science (cs.LO),106
 Optimization and Control (math.OC),101
-Hardware Architecture (cs.AR),73
+Hardware Architecture (cs.AR),74
 Quantitative Methods (q-bio.QM),61
 Methodology (stat.ME),41
 Digital Libraries (cs.DL),40
@@ -42,8 +42,8 @@ Statistical Finance (q-fin.ST),25
 Numerical Analysis (math.NA),23
 Programming Languages (cs.PL),22
 Emerging Technologies (cs.ET),21
+Instrumentation and Methods for Astrophysics (astro-ph.IM),19
 Atmospheric and Oceanic Physics (physics.ao-ph),18
-Instrumentation and Methods for Astrophysics (astro-ph.IM),18
 Computational Physics (physics.comp-ph),17
 Applications (stat.AP),15
 Trading and Market Microstructure (q-fin.TR),15
@@ -55,8 +55,8 @@ Geophysics (physics.geo-ph),12
 General Economics (econ.GN),11
 Materials Science (cond-mat.mtrl-sci),11
 Formal Languages and Automata Theory (cs.FL),10
+Computational Finance (q-fin.CP),10
 Statistics Theory (math.ST),9
-Computational Finance (q-fin.CP),9
 Chemical Physics (physics.chem-ph),8
 Cosmology and Nongalactic Astrophysics (astro-ph.CO),8
 Earth and Planetary Astrophysics (astro-ph.EP),8
