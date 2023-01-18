@@ -1,40 +1,40 @@
 subject,frequency
-Machine Learning (cs.LG),7897
-Computer Vision and Pattern Recognition (cs.CV),4470
-Artificial Intelligence (cs.AI),4428
-Computation and Language (cs.CL),3685
-Robotics (cs.RO),1252
-Information Retrieval (cs.IR),596
-Cryptography and Security (cs.CR),543
-Neural and Evolutionary Computing (cs.NE),401
-Human-Computer Interaction (cs.HC),372
-Computers and Society (cs.CY),368
-Sound (cs.SD),364
+Machine Learning (cs.LG),7922
+Computer Vision and Pattern Recognition (cs.CV),4488
+Artificial Intelligence (cs.AI),4441
+Computation and Language (cs.CL),3699
+Robotics (cs.RO),1256
+Information Retrieval (cs.IR),597
+Cryptography and Security (cs.CR),544
+Neural and Evolutionary Computing (cs.NE),403
+Human-Computer Interaction (cs.HC),381
+Computers and Society (cs.CY),369
+Sound (cs.SD),365
 Software Engineering (cs.SE),315
 Image and Video Processing (eess.IV),297
 Signal Processing (eess.SP),244
-Machine Learning (stat.ML),241
+Machine Learning (stat.ML),243
 Social and Information Networks (cs.SI),190
 Multiagent Systems (cs.MA),189
 Systems and Control (eess.SY),187
 Audio and Speech Processing (eess.AS),187
-"Distributed, Parallel, and Cluster Computing (cs.DC)",168
-Networking and Internet Architecture (cs.NI),168
-Computer Science and Game Theory (cs.GT),162
+Networking and Internet Architecture (cs.NI),170
+"Distributed, Parallel, and Cluster Computing (cs.DC)",169
+Computer Science and Game Theory (cs.GT),163
 Quantum Physics (quant-ph),127
-Neurons and Cognition (q-bio.NC),113
-Databases (cs.DB),112
-Information Theory (cs.IT),107
+Neurons and Cognition (q-bio.NC),114
+Databases (cs.DB),113
+Information Theory (cs.IT),108
 Logic in Computer Science (cs.LO),106
-Optimization and Control (math.OC),101
+Optimization and Control (math.OC),102
 Hardware Architecture (cs.AR),74
 Quantitative Methods (q-bio.QM),61
 Methodology (stat.ME),41
-Digital Libraries (cs.DL),40
+Digital Libraries (cs.DL),41
 Data Structures and Algorithms (cs.DS),39
 Biomolecules (q-bio.BM),34
 Graphics (cs.GR),33
-Multimedia (cs.MM),32
+Multimedia (cs.MM),33
 Genomics (q-bio.GN),28
 Computational Complexity (cs.CC),26
 Statistical Finance (q-fin.ST),25
@@ -66,8 +66,8 @@ Astrophysics of Galaxies (astro-ph.GA),6
 Computational Geometry (cs.CG),6
 Category Theory (math.CT),5
 Populations and Evolution (q-bio.PE),5
+Optics (physics.optics),5
 Molecular Networks (q-bio.MN),4
-Optics (physics.optics),4
 Solar and Stellar Astrophysics (astro-ph.SR),4
 Logic (math.LO),4
 General Relativity and Quantum Cosmology (gr-qc),4
