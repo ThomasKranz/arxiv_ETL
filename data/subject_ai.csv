@@ -1,33 +1,33 @@
 subject,frequency
-Machine Learning (cs.LG),8023
-Computer Vision and Pattern Recognition (cs.CV),4532
-Artificial Intelligence (cs.AI),4485
-Computation and Language (cs.CL),3754
-Robotics (cs.RO),1275
-Information Retrieval (cs.IR),604
-Cryptography and Security (cs.CR),548
-Neural and Evolutionary Computing (cs.NE),409
+Machine Learning (cs.LG),8082
+Computer Vision and Pattern Recognition (cs.CV),4548
+Artificial Intelligence (cs.AI),4514
+Computation and Language (cs.CL),3768
+Robotics (cs.RO),1280
+Information Retrieval (cs.IR),606
+Cryptography and Security (cs.CR),550
+Neural and Evolutionary Computing (cs.NE),410
 Human-Computer Interaction (cs.HC),391
-Computers and Society (cs.CY),381
-Sound (cs.SD),367
+Computers and Society (cs.CY),385
+Sound (cs.SD),369
 Software Engineering (cs.SE),320
-Image and Video Processing (eess.IV),302
+Image and Video Processing (eess.IV),303
 Signal Processing (eess.SP),249
 Machine Learning (stat.ML),248
-Social and Information Networks (cs.SI),196
+Social and Information Networks (cs.SI),198
 Multiagent Systems (cs.MA),194
 Audio and Speech Processing (eess.AS),188
 Systems and Control (eess.SY),187
 Networking and Internet Architecture (cs.NI),171
 "Distributed, Parallel, and Cluster Computing (cs.DC)",170
-Computer Science and Game Theory (cs.GT),167
+Computer Science and Game Theory (cs.GT),169
 Quantum Physics (quant-ph),127
 Neurons and Cognition (q-bio.NC),116
-Databases (cs.DB),113
+Databases (cs.DB),114
 Logic in Computer Science (cs.LO),108
 Information Theory (cs.IT),108
-Optimization and Control (math.OC),103
-Hardware Architecture (cs.AR),74
+Optimization and Control (math.OC),104
+Hardware Architecture (cs.AR),75
 Quantitative Methods (q-bio.QM),62
 Methodology (stat.ME),42
 Digital Libraries (cs.DL),41
@@ -39,8 +39,8 @@ Genomics (q-bio.GN),28
 Computational Complexity (cs.CC),26
 "Computational Engineering, Finance, and Science (cs.CE)",25
 Statistical Finance (q-fin.ST),25
+Numerical Analysis (math.NA),25
 Programming Languages (cs.PL),24
-Numerical Analysis (math.NA),24
 Emerging Technologies (cs.ET),21
 Instrumentation and Methods for Astrophysics (astro-ph.IM),19
 Atmospheric and Oceanic Physics (physics.ao-ph),18
