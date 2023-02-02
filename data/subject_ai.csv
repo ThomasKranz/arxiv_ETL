@@ -1,38 +1,38 @@
 subject,frequency
-Machine Learning (cs.LG),8105
-Computer Vision and Pattern Recognition (cs.CV),4561
-Artificial Intelligence (cs.AI),4528
-Computation and Language (cs.CL),3775
+Machine Learning (cs.LG),8128
+Computer Vision and Pattern Recognition (cs.CV),4569
+Artificial Intelligence (cs.AI),4540
+Computation and Language (cs.CL),3779
 Robotics (cs.RO),1280
-Information Retrieval (cs.IR),606
+Information Retrieval (cs.IR),607
 Cryptography and Security (cs.CR),550
-Neural and Evolutionary Computing (cs.NE),410
-Human-Computer Interaction (cs.HC),391
+Neural and Evolutionary Computing (cs.NE),412
+Human-Computer Interaction (cs.HC),392
 Computers and Society (cs.CY),387
-Sound (cs.SD),370
+Sound (cs.SD),372
 Software Engineering (cs.SE),320
 Image and Video Processing (eess.IV),303
+Machine Learning (stat.ML),249
 Signal Processing (eess.SP),249
-Machine Learning (stat.ML),248
 Social and Information Networks (cs.SI),198
 Multiagent Systems (cs.MA),194
-Audio and Speech Processing (eess.AS),188
 Systems and Control (eess.SY),188
+Audio and Speech Processing (eess.AS),188
 Networking and Internet Architecture (cs.NI),171
 Computer Science and Game Theory (cs.GT),170
 "Distributed, Parallel, and Cluster Computing (cs.DC)",170
 Quantum Physics (quant-ph),129
 Neurons and Cognition (q-bio.NC),116
 Databases (cs.DB),114
-Logic in Computer Science (cs.LO),108
+Logic in Computer Science (cs.LO),109
 Information Theory (cs.IT),108
 Optimization and Control (math.OC),104
 Hardware Architecture (cs.AR),75
 Quantitative Methods (q-bio.QM),62
-Methodology (stat.ME),42
-Digital Libraries (cs.DL),41
+Methodology (stat.ME),43
+Digital Libraries (cs.DL),42
 Data Structures and Algorithms (cs.DS),39
-Biomolecules (q-bio.BM),35
+Biomolecules (q-bio.BM),36
 Graphics (cs.GR),34
 Multimedia (cs.MM),33
 Genomics (q-bio.GN),28
@@ -45,8 +45,8 @@ Emerging Technologies (cs.ET),21
 Instrumentation and Methods for Astrophysics (astro-ph.IM),19
 Atmospheric and Oceanic Physics (physics.ao-ph),18
 Computational Physics (physics.comp-ph),17
+Trading and Market Microstructure (q-fin.TR),16
 Medical Physics (physics.med-ph),15
-Trading and Market Microstructure (q-fin.TR),15
 Physics and Society (physics.soc-ph),15
 Applications (stat.AP),15
 Fluid Dynamics (physics.flu-dyn),15
@@ -54,8 +54,8 @@ Materials Science (cond-mat.mtrl-sci),12
 Theoretical Economics (econ.TH),12
 Computational Finance (q-fin.CP),12
 Geophysics (physics.geo-ph),12
+Formal Languages and Automata Theory (cs.FL),11
 General Economics (econ.GN),11
-Formal Languages and Automata Theory (cs.FL),10
 Statistics Theory (math.ST),9
 Portfolio Management (q-fin.PM),8
 Earth and Planetary Astrophysics (astro-ph.EP),8
