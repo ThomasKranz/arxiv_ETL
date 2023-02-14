@@ -1,28 +1,28 @@
 subject,frequency
-Machine Learning (cs.LG),8278
-Computer Vision and Pattern Recognition (cs.CV),4633
-Artificial Intelligence (cs.AI),4624
-Computation and Language (cs.CL),3830
-Robotics (cs.RO),1300
-Information Retrieval (cs.IR),620
-Cryptography and Security (cs.CR),559
+Machine Learning (cs.LG),8308
+Computer Vision and Pattern Recognition (cs.CV),4650
+Artificial Intelligence (cs.AI),4643
+Computation and Language (cs.CL),3852
+Robotics (cs.RO),1303
+Information Retrieval (cs.IR),622
+Cryptography and Security (cs.CR),560
 Neural and Evolutionary Computing (cs.NE),416
-Human-Computer Interaction (cs.HC),401
-Computers and Society (cs.CY),394
-Sound (cs.SD),375
-Software Engineering (cs.SE),331
+Human-Computer Interaction (cs.HC),406
+Computers and Society (cs.CY),395
+Sound (cs.SD),376
+Software Engineering (cs.SE),334
 Image and Video Processing (eess.IV),307
-Machine Learning (stat.ML),253
+Machine Learning (stat.ML),255
 Signal Processing (eess.SP),253
-Social and Information Networks (cs.SI),199
+Social and Information Networks (cs.SI),200
 Multiagent Systems (cs.MA),197
-Audio and Speech Processing (eess.AS),190
+Audio and Speech Processing (eess.AS),191
 Systems and Control (eess.SY),188
-Networking and Internet Architecture (cs.NI),176
+Networking and Internet Architecture (cs.NI),177
 "Distributed, Parallel, and Cluster Computing (cs.DC)",173
 Computer Science and Game Theory (cs.GT),171
 Quantum Physics (quant-ph),130
-Neurons and Cognition (q-bio.NC),116
+Neurons and Cognition (q-bio.NC),117
 Databases (cs.DB),114
 Logic in Computer Science (cs.LO),110
 Information Theory (cs.IT),109
@@ -41,7 +41,7 @@ Computational Complexity (cs.CC),27
 Programming Languages (cs.PL),26
 Statistical Finance (q-fin.ST),26
 Numerical Analysis (math.NA),25
-Emerging Technologies (cs.ET),21
+Emerging Technologies (cs.ET),23
 Atmospheric and Oceanic Physics (physics.ao-ph),20
 Instrumentation and Methods for Astrophysics (astro-ph.IM),19
 Fluid Dynamics (physics.flu-dyn),18
