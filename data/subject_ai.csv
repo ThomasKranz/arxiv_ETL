@@ -1,17 +1,17 @@
 subject,frequency
-Machine Learning (cs.LG),8308
-Computer Vision and Pattern Recognition (cs.CV),4650
-Artificial Intelligence (cs.AI),4643
-Computation and Language (cs.CL),3852
-Robotics (cs.RO),1303
-Information Retrieval (cs.IR),622
+Machine Learning (cs.LG),8322
+Computer Vision and Pattern Recognition (cs.CV),4656
+Artificial Intelligence (cs.AI),4655
+Computation and Language (cs.CL),3856
+Robotics (cs.RO),1305
+Information Retrieval (cs.IR),626
 Cryptography and Security (cs.CR),560
 Neural and Evolutionary Computing (cs.NE),416
-Human-Computer Interaction (cs.HC),406
+Human-Computer Interaction (cs.HC),409
 Computers and Society (cs.CY),395
 Sound (cs.SD),376
-Software Engineering (cs.SE),334
-Image and Video Processing (eess.IV),307
+Software Engineering (cs.SE),335
+Image and Video Processing (eess.IV),308
 Machine Learning (stat.ML),255
 Signal Processing (eess.SP),253
 Social and Information Networks (cs.SI),200
@@ -22,24 +22,24 @@ Networking and Internet Architecture (cs.NI),177
 "Distributed, Parallel, and Cluster Computing (cs.DC)",173
 Computer Science and Game Theory (cs.GT),171
 Quantum Physics (quant-ph),130
-Neurons and Cognition (q-bio.NC),117
-Databases (cs.DB),114
+Neurons and Cognition (q-bio.NC),118
+Databases (cs.DB),115
 Logic in Computer Science (cs.LO),110
+Optimization and Control (math.OC),109
 Information Theory (cs.IT),109
-Optimization and Control (math.OC),108
-Hardware Architecture (cs.AR),76
+Hardware Architecture (cs.AR),77
 Quantitative Methods (q-bio.QM),62
 Methodology (stat.ME),44
+Data Structures and Algorithms (cs.DS),42
 Digital Libraries (cs.DL),42
-Data Structures and Algorithms (cs.DS),41
 Biomolecules (q-bio.BM),36
 Graphics (cs.GR),35
 Multimedia (cs.MM),33
 Genomics (q-bio.GN),30
-"Computational Engineering, Finance, and Science (cs.CE)",27
 Computational Complexity (cs.CC),27
-Programming Languages (cs.PL),26
+"Computational Engineering, Finance, and Science (cs.CE)",27
 Statistical Finance (q-fin.ST),26
+Programming Languages (cs.PL),26
 Numerical Analysis (math.NA),25
 Emerging Technologies (cs.ET),23
 Atmospheric and Oceanic Physics (physics.ao-ph),20
@@ -93,6 +93,7 @@ Plasma Physics (physics.plasm-ph),2
 Popular Physics (physics.pop-ph),2
 Probability (math.PR),2
 History and Overview (math.HO),2
+Performance (cs.PF),2
 Audio and Speech Processing (eess.AS) ,2
 Biological Physics (physics.bio-ph),2
 Mathematical Software (cs.MS),2
@@ -100,7 +101,6 @@ High Energy Physics - Theory (hep-th),2
 High Energy Physics - Experiment (hep-ex),2
 General Finance (q-fin.GN),2
 General Mathematics (math.GM),2
-Performance (cs.PF),1
 General Physics (physics.gen-ph),1
 Cellular Automata and Lattice Gases (nlin.CG),1
 "Computational Engineering, Finance, and Science (cs.CE) ",1
