@@ -1,16 +1,16 @@
 subject,frequency
-Machine Learning (cs.LG),8322
-Computer Vision and Pattern Recognition (cs.CV),4656
-Artificial Intelligence (cs.AI),4655
-Computation and Language (cs.CL),3856
-Robotics (cs.RO),1305
-Information Retrieval (cs.IR),626
+Machine Learning (cs.LG),8334
+Artificial Intelligence (cs.AI),4660
+Computer Vision and Pattern Recognition (cs.CV),4659
+Computation and Language (cs.CL),3866
+Robotics (cs.RO),1306
+Information Retrieval (cs.IR),627
 Cryptography and Security (cs.CR),560
-Neural and Evolutionary Computing (cs.NE),416
-Human-Computer Interaction (cs.HC),409
+Neural and Evolutionary Computing (cs.NE),419
+Human-Computer Interaction (cs.HC),412
 Computers and Society (cs.CY),395
 Sound (cs.SD),376
-Software Engineering (cs.SE),335
+Software Engineering (cs.SE),337
 Image and Video Processing (eess.IV),308
 Machine Learning (stat.ML),255
 Signal Processing (eess.SP),253
@@ -18,15 +18,15 @@ Social and Information Networks (cs.SI),200
 Multiagent Systems (cs.MA),197
 Audio and Speech Processing (eess.AS),191
 Systems and Control (eess.SY),188
-Networking and Internet Architecture (cs.NI),177
-"Distributed, Parallel, and Cluster Computing (cs.DC)",173
+Networking and Internet Architecture (cs.NI),178
+"Distributed, Parallel, and Cluster Computing (cs.DC)",174
 Computer Science and Game Theory (cs.GT),171
 Quantum Physics (quant-ph),130
 Neurons and Cognition (q-bio.NC),118
 Databases (cs.DB),115
 Logic in Computer Science (cs.LO),110
+Information Theory (cs.IT),110
 Optimization and Control (math.OC),109
-Information Theory (cs.IT),109
 Hardware Architecture (cs.AR),77
 Quantitative Methods (q-bio.QM),62
 Methodology (stat.ME),44
@@ -36,10 +36,10 @@ Biomolecules (q-bio.BM),36
 Graphics (cs.GR),35
 Multimedia (cs.MM),33
 Genomics (q-bio.GN),30
-Computational Complexity (cs.CC),27
 "Computational Engineering, Finance, and Science (cs.CE)",27
-Statistical Finance (q-fin.ST),26
+Computational Complexity (cs.CC),27
 Programming Languages (cs.PL),26
+Statistical Finance (q-fin.ST),26
 Numerical Analysis (math.NA),25
 Emerging Technologies (cs.ET),23
 Atmospheric and Oceanic Physics (physics.ao-ph),20
