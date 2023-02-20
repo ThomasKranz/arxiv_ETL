@@ -35,6 +35,6 @@ jobs:
              python3 arxiv_db_ai.py
       - run: git config --local user.email ${{ secrets.USER_EMAIL }}
       - run: git config --local user.name ${{ secrets.USER_NAME }}
-#       - run: git add *
-#       - run: git commit -m "data updated"
-#       - run: git push
+      - run: git add *
+      - run: git commit -m "data updated"
+      - run: git push
