@@ -33,8 +33,3 @@ jobs:
       - name: execute py script 
         run: |
              python3 arxiv_db_ai.py
-      - run: git config --local user.email "Thomas.Kranzkowski@gmail.com"
-      - run: git config --local user.name "Thomas Kranzkowski"
-      - run: git add *
-      - run: git commit -m "data updated"
-      - run: git push
