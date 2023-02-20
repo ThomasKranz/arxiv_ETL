@@ -8,8 +8,8 @@ import matplotlib.patches as patches
 def visualize(df_add):
     style.use('fivethirtyeight')
     fig, ax = plt.subplots(figsize=(20, 7))
-    sns.barplot(x=df_add['frequency'], y=df_add.loc[:10, 'subject'].drop([1], axis=0), ax=ax, palette='mako', alpha=0.75).set_title(
-        'Most related subfields of AI measured by submissions of scientific papers in 2021')
+    sns.barplot(x=df_add['frequency'], y=df_add.loc[:9, 'subject'], ax=ax, palette='mako', alpha=0.75).set_title(
+        'Most related subfields of AI measured by submissions of scientific papers since 2021')
     ax.set(xlabel='submissions of papers', ylabel='subfields of AI')
     for p in ax.patches:
         height = p.get_height()
