@@ -7,10 +7,10 @@ import matplotlib.patches as patches
 
 def visualize(df_add_subfields):
     style.use('fivethirtyeight')
-    fig, ax = plt.subplots(figsize=(20, 7))
-    sns.barplot(x=df_add_subfields['frequency'], y=df_add_subfields.loc[:9, 'subject'], ax=ax, palette='mako', alpha=0.75).set_title(
-        'Most related subfields of AI measured by submissions of scientific papers since 2021')
-    ax.set(xlabel='submissions of papers', ylabel='subfields of AI')
+    fig, ax = plt.subplots(figsize=(25, 20))
+    sns.barplot(x=df_add_subfields['frequency'], y=df_add_subfields.loc[:29, 'subject'], ax=ax, palette='mako', alpha=0.75).set_title(
+        '\nTop 30 related subfields of AI measured by submissions of scientific papers since February 2021 at arxiv.org\n')
+    ax.set(xlabel='frequencies of submissions of papers', ylabel='subfields of AI')
 
     for p in ax.patches:
         height = p.get_height()
