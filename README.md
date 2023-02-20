@@ -1,4 +1,4 @@
-![full_screen](https://raw.githubusercontent.com/ThomasKranz/arxiv_ETL/master/results/subject_ai-viz.png?token=GHSAT0AAAAAAB6O34YFAVBWUAMKAHFYFHEGY7TN6XA)
+![alt_text](https://raw.githubusercontent.com/ThomasKranz/arxiv_ETL/master/results/subject_ai-viz.png?token=GHSAT0AAAAAAB6O34YFAVBWUAMKAHFYFHEGY7TN6XA)
 
 # arxiv_ETL - CI/CD Pipeline
 
@@ -11,7 +11,5 @@ After extraction the data will be visualized using Matplotlib and seaborn and th
 The data will be finally stored in .csv and .db files using SQlite3.
 
 This repo contains a yaml file in the github folder to run this project as CI/CD pipeline. The workflow is scheduled for one daily run.
-
-The script can also be run as a batch-file. Have a look at the 'Run_python_file.bat'.
 
 Codes are still not commented. Pls contact me for any questions. Enjoy trying it out!
