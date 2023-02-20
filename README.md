@@ -1,6 +1,6 @@
 ![alt text](https://github.com/ThomasKranz/arxiv_ETL/blob/master/results/subject_ai-viz.png)
 
-Klick ![here](https://raw.githubusercontent.com/ThomasKranz/arxiv_ETL/master/results/subject_ai-viz.png?token=GHSAT0AAAAAAB6O34YFBEAAD5BOAGOFHSM2Y7TOJPA) for full scrren
+Klick [here](https://raw.githubusercontent.com/ThomasKranz/arxiv_ETL/master/results/subject_ai-viz.png?token=GHSAT0AAAAAAB6O34YFBEAAD5BOAGOFHSM2Y7TOJPA) for full scrren
 
 # arxiv_ETL - CI/CD Pipeline
 
