@@ -1,13 +1,13 @@
 import requests
 from bs4 import BeautifulSoup
 
-def scrape(website_url, new_subjects):
-    response = requests.get(website_url)  # ask for the content of the website
-    response.status_code  # print status code
-    response.raise_for_status()  # raise error if get was not successful
+def scrape(website_url):
+    new_subjects = []
+    response = requests.get(website_url)
+    response.status_code  
+    response.raise_for_status()  
     soup = BeautifulSoup(response.text, 'html.parser')
-    #target = soup.find('h3')
-    #for sib in target.find_next_siblings():
+   
     for sib in soup.find('h3').find_next_siblings():
         if sib.name == "h3":
             break
@@ -16,3 +16,4 @@ def scrape(website_url, new_subjects):
                 subject = element.find(attrs={'class': 'primary-subject'}).text
                 new_subjects.append(subject)
 
+    return new_subjects

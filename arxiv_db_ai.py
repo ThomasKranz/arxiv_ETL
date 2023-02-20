@@ -2,31 +2,32 @@ from src.dbmaker import makedb
 from src.visualizer import visualize
 from src.transformer import transform
 from src.scraper import scrape
+from src.reader import read
+from src.concator import concate
 import os.path
 from pathlib import Path
 
-### Extract
+
+### Extract new subfields of paper submissions
 
 website_url = 'https://arxiv.org/list/cs.AI/pastweek?show=203'
-new_subjects = []
-scrape(website_url, new_subjects)
+new_subjects = scrape(website_url)
 
-### Transform
+### Transform lists of new submissions into dataframe
 
-df3 = transform(new_subjects)
+df_arxiv = transform(new_subjects)
 
-### Load
+### Visualize and store data into csv, database
 
 if Path('./data/subject_ai.csv').is_file():
-    from src.reader import read
-    df4 = read()
-    from src.concator import concate
-    df_add = concate(df4, df3)
-    fig = visualize(df_add)
-    df_add.to_csv('./data/subject_ai.csv', index=False)
-    c = makedb(df_add)
+    
+    df_csv = read()
+   
+    df_add_subfields = concate(df_csv, df_arxiv)
+    fig = visualize(df_add_subfields)
+    df_add_subfields.to_csv('./data/subject_ai.csv', index=False)
+    c = makedb(df_add_subfields)
 else:
-    fig = visualize(df3)
-    df3.to_csv('./data/subject_ai.csv', index=False)
-    c = makedb(df3)
-print(c.execute('''SELECT * FROM counts_ai LIMIT 5''').fetchall())
+    fig = visualize(df_arxiv)
+    df_arxiv.to_csv('./data/subject_ai.csv', index=False)
+    c = makedb(df_arxiv)
