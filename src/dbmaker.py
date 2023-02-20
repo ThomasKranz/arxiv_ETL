@@ -1,7 +1,7 @@
 from pathlib import Path
 import sqlite3
 
-def makedb(df_add):
+def makedb(df_add_subfields):
     Path('./data/subjects.db').touch()
     conn = sqlite3.connect('./data/subjects.db')
     c = conn.cursor()
