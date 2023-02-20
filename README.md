@@ -1,5 +1,3 @@
-![alt text](https://github.com/ThomasKranz/arxiv_ETL/blob/master/results/subject_ai-viz.png)
-
 ![full_screen](https://raw.githubusercontent.com/ThomasKranz/arxiv_ETL/master/results/subject_ai-viz.png?token=GHSAT0AAAAAAB6O34YFAVBWUAMKAHFYFHEGY7TN6XA)
 
 # arxiv_ETL - CI/CD Pipeline
