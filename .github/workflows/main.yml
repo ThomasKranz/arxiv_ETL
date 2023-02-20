@@ -33,3 +33,6 @@ jobs:
       - name: execute py script 
         run: |
              python3 arxiv_db_ai.py
+      - run: git add *
+      - run: git commit -m "data updated"
+      - run: git push
