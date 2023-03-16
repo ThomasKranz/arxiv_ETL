@@ -1,34 +1,34 @@
 subject,frequency
-Machine Learning (cs.LG),8810
-Artificial Intelligence (cs.AI),4894
-Computer Vision and Pattern Recognition (cs.CV),4887
-Computation and Language (cs.CL),4017
-Robotics (cs.RO),1398
-Information Retrieval (cs.IR),646
+Machine Learning (cs.LG),8822
+Artificial Intelligence (cs.AI),4903
+Computer Vision and Pattern Recognition (cs.CV),4900
+Computation and Language (cs.CL),4025
+Robotics (cs.RO),1403
+Information Retrieval (cs.IR),647
 Cryptography and Security (cs.CR),582
 Human-Computer Interaction (cs.HC),440
-Neural and Evolutionary Computing (cs.NE),438
-Computers and Society (cs.CY),408
+Neural and Evolutionary Computing (cs.NE),439
+Computers and Society (cs.CY),409
 Sound (cs.SD),398
-Software Engineering (cs.SE),359
-Image and Video Processing (eess.IV),323
+Software Engineering (cs.SE),360
+Image and Video Processing (eess.IV),325
+Machine Learning (stat.ML),266
 Signal Processing (eess.SP),266
-Machine Learning (stat.ML),265
 Multiagent Systems (cs.MA),206
 Social and Information Networks (cs.SI),205
-Audio and Speech Processing (eess.AS),199
+Audio and Speech Processing (eess.AS),200
 Systems and Control (eess.SY),192
 Networking and Internet Architecture (cs.NI),182
 Computer Science and Game Theory (cs.GT),179
-"Distributed, Parallel, and Cluster Computing (cs.DC)",177
+"Distributed, Parallel, and Cluster Computing (cs.DC)",178
 Quantum Physics (quant-ph),134
+Databases (cs.DB),123
 Neurons and Cognition (q-bio.NC),121
-Databases (cs.DB),120
 Logic in Computer Science (cs.LO),117
 Information Theory (cs.IT),115
 Optimization and Control (math.OC),112
 Hardware Architecture (cs.AR),78
-Quantitative Methods (q-bio.QM),63
+Quantitative Methods (q-bio.QM),64
 Methodology (stat.ME),45
 Data Structures and Algorithms (cs.DS),44
 Digital Libraries (cs.DL),43
@@ -56,11 +56,11 @@ Computational Finance (q-fin.CP),12
 Geophysics (physics.geo-ph),12
 General Economics (econ.GN),11
 Formal Languages and Automata Theory (cs.FL),11
+Chemical Physics (physics.chem-ph),9
 Portfolio Management (q-fin.PM),9
 Statistics Theory (math.ST),9
-Other Computer Science (cs.OH),8
 Earth and Planetary Astrophysics (astro-ph.EP),8
-Chemical Physics (physics.chem-ph),8
+Other Computer Science (cs.OH),8
 Cosmology and Nongalactic Astrophysics (astro-ph.CO),8
 Astrophysics of Galaxies (astro-ph.GA),7
 Computational Geometry (cs.CG),6
