@@ -1,24 +1,24 @@
 subject,frequency
-Machine Learning (cs.LG),8836
-Artificial Intelligence (cs.AI),4920
-Computer Vision and Pattern Recognition (cs.CV),4907
-Computation and Language (cs.CL),4030
-Robotics (cs.RO),1406
+Machine Learning (cs.LG),8848
+Artificial Intelligence (cs.AI),4922
+Computer Vision and Pattern Recognition (cs.CV),4917
+Computation and Language (cs.CL),4034
+Robotics (cs.RO),1408
 Information Retrieval (cs.IR),647
-Cryptography and Security (cs.CR),582
-Human-Computer Interaction (cs.HC),443
+Cryptography and Security (cs.CR),583
+Human-Computer Interaction (cs.HC),444
 Neural and Evolutionary Computing (cs.NE),439
-Computers and Society (cs.CY),409
+Computers and Society (cs.CY),410
 Sound (cs.SD),399
-Software Engineering (cs.SE),362
+Software Engineering (cs.SE),364
 Image and Video Processing (eess.IV),326
 Machine Learning (stat.ML),267
 Signal Processing (eess.SP),266
+Social and Information Networks (cs.SI),206
 Multiagent Systems (cs.MA),206
-Social and Information Networks (cs.SI),205
 Audio and Speech Processing (eess.AS),201
 Systems and Control (eess.SY),192
-Networking and Internet Architecture (cs.NI),182
+Networking and Internet Architecture (cs.NI),183
 Computer Science and Game Theory (cs.GT),179
 "Distributed, Parallel, and Cluster Computing (cs.DC)",178
 Quantum Physics (quant-ph),134
@@ -54,7 +54,7 @@ Materials Science (cond-mat.mtrl-sci),13
 Theoretical Economics (econ.TH),12
 Computational Finance (q-fin.CP),12
 Geophysics (physics.geo-ph),12
-General Economics (econ.GN),11
+General Economics (econ.GN),12
 Formal Languages and Automata Theory (cs.FL),11
 Chemical Physics (physics.chem-ph),9
 Portfolio Management (q-fin.PM),9
@@ -90,6 +90,7 @@ Econometrics (econ.EM),3
 Risk Management (q-fin.RM),3
 Mesoscale and Nanoscale Physics (cond-mat.mes-hall),3
 High Energy Physics - Theory (hep-th),3
+History and Overview (math.HO),3
 Probability (math.PR),2
 High Energy Physics - Experiment (hep-ex),2
 Performance (cs.PF),2
@@ -98,7 +99,6 @@ General Finance (q-fin.GN),2
 General Mathematics (math.GM),2
 Audio and Speech Processing (eess.AS) ,2
 Mathematical Software (cs.MS),2
-History and Overview (math.HO),2
 Popular Physics (physics.pop-ph),2
 Plasma Physics (physics.plasm-ph),2
 "Computational Engineering, Finance, and Science (cs.CE) ",1
