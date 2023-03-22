@@ -1,20 +1,20 @@
 subject,frequency
-Machine Learning (cs.LG),8871
-Computer Vision and Pattern Recognition (cs.CV),4940
-Artificial Intelligence (cs.AI),4934
-Computation and Language (cs.CL),4039
-Robotics (cs.RO),1410
+Machine Learning (cs.LG),8891
+Computer Vision and Pattern Recognition (cs.CV),4947
+Artificial Intelligence (cs.AI),4944
+Computation and Language (cs.CL),4043
+Robotics (cs.RO),1415
 Information Retrieval (cs.IR),649
-Cryptography and Security (cs.CR),585
-Human-Computer Interaction (cs.HC),445
-Neural and Evolutionary Computing (cs.NE),441
+Cryptography and Security (cs.CR),587
+Human-Computer Interaction (cs.HC),447
+Neural and Evolutionary Computing (cs.NE),443
 Computers and Society (cs.CY),411
 Sound (cs.SD),402
 Software Engineering (cs.SE),364
-Image and Video Processing (eess.IV),327
+Image and Video Processing (eess.IV),328
+Signal Processing (eess.SP),269
 Machine Learning (stat.ML),267
-Signal Processing (eess.SP),266
-Social and Information Networks (cs.SI),207
+Social and Information Networks (cs.SI),208
 Multiagent Systems (cs.MA),206
 Audio and Speech Processing (eess.AS),202
 Systems and Control (eess.SY),193
@@ -22,8 +22,8 @@ Networking and Internet Architecture (cs.NI),184
 Computer Science and Game Theory (cs.GT),180
 "Distributed, Parallel, and Cluster Computing (cs.DC)",179
 Quantum Physics (quant-ph),135
-Databases (cs.DB),123
-Neurons and Cognition (q-bio.NC),121
+Databases (cs.DB),124
+Neurons and Cognition (q-bio.NC),122
 Logic in Computer Science (cs.LO),118
 Information Theory (cs.IT),116
 Optimization and Control (math.OC),113
@@ -33,7 +33,7 @@ Methodology (stat.ME),45
 Data Structures and Algorithms (cs.DS),44
 Digital Libraries (cs.DL),43
 Graphics (cs.GR),37
-Biomolecules (q-bio.BM),36
+Biomolecules (q-bio.BM),37
 Multimedia (cs.MM),34
 Genomics (q-bio.GN),31
 Programming Languages (cs.PL),29
@@ -83,17 +83,17 @@ Adaptation and Self-Organizing Systems (nlin.AO),4
 "Data Analysis, Statistics and Probability (physics.data-an)",4
 Dynamical Systems (math.DS),4
 High Energy Physics - Phenomenology (hep-ph),4
-Other Quantitative Biology (q-bio.OT),3
+Performance (cs.PF),3
 Symbolic Computation (cs.SC),3
 Computation (stat.CO),3
 Econometrics (econ.EM),3
 Risk Management (q-fin.RM),3
 Mesoscale and Nanoscale Physics (cond-mat.mes-hall),3
 High Energy Physics - Theory (hep-th),3
+Other Quantitative Biology (q-bio.OT),3
 History and Overview (math.HO),3
 Probability (math.PR),2
 High Energy Physics - Experiment (hep-ex),2
-Performance (cs.PF),2
 Biological Physics (physics.bio-ph),2
 General Finance (q-fin.GN),2
 General Mathematics (math.GM),2
