@@ -1,33 +1,33 @@
 subject,frequency
-Machine Learning (cs.LG),9051
-Computer Vision and Pattern Recognition (cs.CV),5114
-Artificial Intelligence (cs.AI),5023
-Computation and Language (cs.CL),4126
-Robotics (cs.RO),1440
+Machine Learning (cs.LG),9067
+Computer Vision and Pattern Recognition (cs.CV),5134
+Artificial Intelligence (cs.AI),5037
+Computation and Language (cs.CL),4137
+Robotics (cs.RO),1441
 Information Retrieval (cs.IR),655
 Cryptography and Security (cs.CR),603
-Human-Computer Interaction (cs.HC),468
-Neural and Evolutionary Computing (cs.NE),455
-Computers and Society (cs.CY),424
+Human-Computer Interaction (cs.HC),469
+Neural and Evolutionary Computing (cs.NE),457
+Computers and Society (cs.CY),425
 Sound (cs.SD),409
 Software Engineering (cs.SE),375
 Image and Video Processing (eess.IV),333
 Signal Processing (eess.SP),269
 Machine Learning (stat.ML),268
-Social and Information Networks (cs.SI),214
-Multiagent Systems (cs.MA),208
+Social and Information Networks (cs.SI),216
+Multiagent Systems (cs.MA),209
 Audio and Speech Processing (eess.AS),204
-Systems and Control (eess.SY),197
-Networking and Internet Architecture (cs.NI),188
+Systems and Control (eess.SY),198
+Networking and Internet Architecture (cs.NI),189
 Computer Science and Game Theory (cs.GT),183
-"Distributed, Parallel, and Cluster Computing (cs.DC)",181
+"Distributed, Parallel, and Cluster Computing (cs.DC)",182
 Quantum Physics (quant-ph),137
-Databases (cs.DB),131
-Neurons and Cognition (q-bio.NC),123
+Databases (cs.DB),132
+Neurons and Cognition (q-bio.NC),125
+Logic in Computer Science (cs.LO),119
 Information Theory (cs.IT),118
-Logic in Computer Science (cs.LO),118
-Optimization and Control (math.OC),116
-Hardware Architecture (cs.AR),80
+Optimization and Control (math.OC),118
+Hardware Architecture (cs.AR),81
 Quantitative Methods (q-bio.QM),65
 Digital Libraries (cs.DL),45
 Methodology (stat.ME),45
