@@ -1,23 +1,23 @@
 subject,frequency
-Machine Learning (cs.LG),9074
-Computer Vision and Pattern Recognition (cs.CV),5144
-Artificial Intelligence (cs.AI),5041
-Computation and Language (cs.CL),4145
-Robotics (cs.RO),1442
+Machine Learning (cs.LG),9085
+Computer Vision and Pattern Recognition (cs.CV),5155
+Artificial Intelligence (cs.AI),5054
+Computation and Language (cs.CL),4157
+Robotics (cs.RO),1445
 Information Retrieval (cs.IR),656
-Cryptography and Security (cs.CR),604
+Cryptography and Security (cs.CR),606
 Human-Computer Interaction (cs.HC),470
-Neural and Evolutionary Computing (cs.NE),458
-Computers and Society (cs.CY),426
+Neural and Evolutionary Computing (cs.NE),461
+Computers and Society (cs.CY),427
 Sound (cs.SD),409
 Software Engineering (cs.SE),375
-Image and Video Processing (eess.IV),333
+Image and Video Processing (eess.IV),334
 Machine Learning (stat.ML),269
 Signal Processing (eess.SP),269
 Social and Information Networks (cs.SI),216
 Multiagent Systems (cs.MA),209
 Audio and Speech Processing (eess.AS),204
-Systems and Control (eess.SY),198
+Systems and Control (eess.SY),199
 Networking and Internet Architecture (cs.NI),189
 Computer Science and Game Theory (cs.GT),183
 "Distributed, Parallel, and Cluster Computing (cs.DC)",182
@@ -32,15 +32,15 @@ Quantitative Methods (q-bio.QM),65
 Digital Libraries (cs.DL),45
 Methodology (stat.ME),45
 Data Structures and Algorithms (cs.DS),45
+Graphics (cs.GR),38
 Biomolecules (q-bio.BM),37
-Graphics (cs.GR),37
 Multimedia (cs.MM),34
 Genomics (q-bio.GN),32
 Programming Languages (cs.PL),29
 "Computational Engineering, Finance, and Science (cs.CE)",29
+Computational Complexity (cs.CC),28
 Statistical Finance (q-fin.ST),28
 Numerical Analysis (math.NA),27
-Computational Complexity (cs.CC),27
 Emerging Technologies (cs.ET),24
 Atmospheric and Oceanic Physics (physics.ao-ph),21
 Instrumentation and Methods for Astrophysics (astro-ph.IM),20
