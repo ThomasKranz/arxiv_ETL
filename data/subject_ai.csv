@@ -1,13 +1,13 @@
 subject,frequency
-Machine Learning (cs.LG),9085
-Computer Vision and Pattern Recognition (cs.CV),5155
-Artificial Intelligence (cs.AI),5054
-Computation and Language (cs.CL),4157
-Robotics (cs.RO),1445
-Information Retrieval (cs.IR),656
-Cryptography and Security (cs.CR),606
-Human-Computer Interaction (cs.HC),470
-Neural and Evolutionary Computing (cs.NE),461
+Machine Learning (cs.LG),9096
+Computer Vision and Pattern Recognition (cs.CV),5162
+Artificial Intelligence (cs.AI),5057
+Computation and Language (cs.CL),4160
+Robotics (cs.RO),1448
+Information Retrieval (cs.IR),658
+Cryptography and Security (cs.CR),607
+Human-Computer Interaction (cs.HC),473
+Neural and Evolutionary Computing (cs.NE),462
 Computers and Society (cs.CY),427
 Sound (cs.SD),409
 Software Engineering (cs.SE),375
@@ -22,11 +22,11 @@ Networking and Internet Architecture (cs.NI),189
 Computer Science and Game Theory (cs.GT),183
 "Distributed, Parallel, and Cluster Computing (cs.DC)",182
 Quantum Physics (quant-ph),137
-Databases (cs.DB),132
+Databases (cs.DB),133
 Neurons and Cognition (q-bio.NC),125
 Logic in Computer Science (cs.LO),119
+Optimization and Control (math.OC),119
 Information Theory (cs.IT),118
-Optimization and Control (math.OC),118
 Hardware Architecture (cs.AR),81
 Quantitative Methods (q-bio.QM),65
 Digital Libraries (cs.DL),45
@@ -37,15 +37,15 @@ Biomolecules (q-bio.BM),37
 Multimedia (cs.MM),34
 Genomics (q-bio.GN),32
 Programming Languages (cs.PL),29
+Computational Complexity (cs.CC),29
 "Computational Engineering, Finance, and Science (cs.CE)",29
-Computational Complexity (cs.CC),28
 Statistical Finance (q-fin.ST),28
 Numerical Analysis (math.NA),27
 Emerging Technologies (cs.ET),24
 Atmospheric and Oceanic Physics (physics.ao-ph),21
 Instrumentation and Methods for Astrophysics (astro-ph.IM),20
+Computational Physics (physics.comp-ph),20
 Fluid Dynamics (physics.flu-dyn),19
-Computational Physics (physics.comp-ph),19
 Medical Physics (physics.med-ph),17
 Trading and Market Microstructure (q-fin.TR),16
 Applications (stat.AP),16
@@ -56,7 +56,7 @@ Materials Science (cond-mat.mtrl-sci),13
 Theoretical Economics (econ.TH),12
 Geophysics (physics.geo-ph),12
 Formal Languages and Automata Theory (cs.FL),11
-Chemical Physics (physics.chem-ph),9
+Chemical Physics (physics.chem-ph),10
 Portfolio Management (q-fin.PM),9
 Statistics Theory (math.ST),9
 Earth and Planetary Astrophysics (astro-ph.EP),8
