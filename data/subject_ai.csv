@@ -1,37 +1,37 @@
 subject,frequency
-Machine Learning (cs.LG),9144
-Computer Vision and Pattern Recognition (cs.CV),5191
-Artificial Intelligence (cs.AI),5078
-Computation and Language (cs.CL),4183
-Robotics (cs.RO),1452
-Information Retrieval (cs.IR),660
-Cryptography and Security (cs.CR),608
-Human-Computer Interaction (cs.HC),473
-Neural and Evolutionary Computing (cs.NE),469
+Machine Learning (cs.LG),9157
+Computer Vision and Pattern Recognition (cs.CV),5205
+Artificial Intelligence (cs.AI),5082
+Computation and Language (cs.CL),4188
+Robotics (cs.RO),1454
+Information Retrieval (cs.IR),661
+Cryptography and Security (cs.CR),609
+Human-Computer Interaction (cs.HC),474
+Neural and Evolutionary Computing (cs.NE),470
 Computers and Society (cs.CY),428
 Sound (cs.SD),410
 Software Engineering (cs.SE),376
 Image and Video Processing (eess.IV),335
 Machine Learning (stat.ML),270
 Signal Processing (eess.SP),269
-Social and Information Networks (cs.SI),217
+Social and Information Networks (cs.SI),218
 Multiagent Systems (cs.MA),209
 Audio and Speech Processing (eess.AS),204
-Systems and Control (eess.SY),199
+Systems and Control (eess.SY),201
 Networking and Internet Architecture (cs.NI),189
-"Distributed, Parallel, and Cluster Computing (cs.DC)",183
+"Distributed, Parallel, and Cluster Computing (cs.DC)",184
 Computer Science and Game Theory (cs.GT),183
 Quantum Physics (quant-ph),137
-Databases (cs.DB),134
-Neurons and Cognition (q-bio.NC),126
+Databases (cs.DB),135
+Neurons and Cognition (q-bio.NC),127
 Optimization and Control (math.OC),119
 Logic in Computer Science (cs.LO),119
 Information Theory (cs.IT),118
 Hardware Architecture (cs.AR),82
 Quantitative Methods (q-bio.QM),65
+Methodology (stat.ME),46
 Data Structures and Algorithms (cs.DS),46
 Digital Libraries (cs.DL),45
-Methodology (stat.ME),45
 Graphics (cs.GR),38
 Biomolecules (q-bio.BM),37
 Multimedia (cs.MM),34
@@ -50,7 +50,7 @@ Medical Physics (physics.med-ph),17
 Physics and Society (physics.soc-ph),16
 Trading and Market Microstructure (q-fin.TR),16
 Applications (stat.AP),16
-Materials Science (cond-mat.mtrl-sci),13
+Materials Science (cond-mat.mtrl-sci),14
 General Economics (econ.GN),13
 Computational Finance (q-fin.CP),13
 Theoretical Economics (econ.TH),12
@@ -72,28 +72,28 @@ Combinatorics (math.CO),5
 Discrete Mathematics (cs.DM),5
 Category Theory (math.CT),5
 Logic (math.LO),5
-History and Overview (math.HO),4
+Econometrics (econ.EM),4
 Adaptation and Self-Organizing Systems (nlin.AO),4
 Applied Physics (physics.app-ph),4
 General Relativity and Quantum Cosmology (gr-qc),4
 Algebraic Topology (math.AT),4
 High Energy Physics - Phenomenology (hep-ph),4
 History and Philosophy of Physics (physics.hist-ph),4
-Solar and Stellar Astrophysics (astro-ph.SR),4
+History and Overview (math.HO),4
 "Data Analysis, Statistics and Probability (physics.data-an)",4
 Statistical Mechanics (cond-mat.stat-mech),4
+Mesoscale and Nanoscale Physics (cond-mat.mes-hall),4
 Dynamical Systems (math.DS),4
 Instrumentation and Detectors (physics.ins-det),4
+Solar and Stellar Astrophysics (astro-ph.SR),4
 Symbolic Computation (cs.SC),3
 High Energy Physics - Theory (hep-th),3
 Risk Management (q-fin.RM),3
 High Energy Physics - Experiment (hep-ex),3
-Mesoscale and Nanoscale Physics (cond-mat.mes-hall),3
 Other Quantitative Biology (q-bio.OT),3
 Performance (cs.PF),3
 Computation (stat.CO),3
 Plasma Physics (physics.plasm-ph),3
-Econometrics (econ.EM),3
 Probability (math.PR),2
 Biological Physics (physics.bio-ph),2
 Popular Physics (physics.pop-ph),2
