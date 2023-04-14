@@ -1,19 +1,19 @@
 subject,frequency
-Machine Learning (cs.LG),9157
-Computer Vision and Pattern Recognition (cs.CV),5205
-Artificial Intelligence (cs.AI),5082
-Computation and Language (cs.CL),4188
-Robotics (cs.RO),1454
+Machine Learning (cs.LG),9169
+Computer Vision and Pattern Recognition (cs.CV),5224
+Artificial Intelligence (cs.AI),5087
+Computation and Language (cs.CL),4194
+Robotics (cs.RO),1456
 Information Retrieval (cs.IR),661
-Cryptography and Security (cs.CR),609
+Cryptography and Security (cs.CR),610
 Human-Computer Interaction (cs.HC),474
 Neural and Evolutionary Computing (cs.NE),470
-Computers and Society (cs.CY),428
+Computers and Society (cs.CY),436
 Sound (cs.SD),410
 Software Engineering (cs.SE),376
 Image and Video Processing (eess.IV),335
+Signal Processing (eess.SP),274
 Machine Learning (stat.ML),270
-Signal Processing (eess.SP),269
 Social and Information Networks (cs.SI),218
 Multiagent Systems (cs.MA),209
 Audio and Speech Processing (eess.AS),204
@@ -24,8 +24,8 @@ Computer Science and Game Theory (cs.GT),183
 Quantum Physics (quant-ph),137
 Databases (cs.DB),135
 Neurons and Cognition (q-bio.NC),127
-Optimization and Control (math.OC),119
-Logic in Computer Science (cs.LO),119
+Optimization and Control (math.OC),120
+Logic in Computer Science (cs.LO),120
 Information Theory (cs.IT),118
 Hardware Architecture (cs.AR),82
 Quantitative Methods (q-bio.QM),65
@@ -37,8 +37,8 @@ Biomolecules (q-bio.BM),37
 Multimedia (cs.MM),34
 Genomics (q-bio.GN),32
 Programming Languages (cs.PL),30
+"Computational Engineering, Finance, and Science (cs.CE)",30
 Computational Complexity (cs.CC),29
-"Computational Engineering, Finance, and Science (cs.CE)",29
 Statistical Finance (q-fin.ST),28
 Numerical Analysis (math.NA),27
 Emerging Technologies (cs.ET),24
