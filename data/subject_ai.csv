@@ -1,37 +1,37 @@
 subject,frequency
-Machine Learning (cs.LG),9169
-Computer Vision and Pattern Recognition (cs.CV),5224
-Artificial Intelligence (cs.AI),5087
-Computation and Language (cs.CL),4194
-Robotics (cs.RO),1456
+Machine Learning (cs.LG),9176
+Computer Vision and Pattern Recognition (cs.CV),5234
+Artificial Intelligence (cs.AI),5093
+Computation and Language (cs.CL),4200
+Robotics (cs.RO),1457
 Information Retrieval (cs.IR),661
-Cryptography and Security (cs.CR),610
+Cryptography and Security (cs.CR),612
 Human-Computer Interaction (cs.HC),474
-Neural and Evolutionary Computing (cs.NE),470
+Neural and Evolutionary Computing (cs.NE),471
 Computers and Society (cs.CY),436
-Sound (cs.SD),410
-Software Engineering (cs.SE),376
-Image and Video Processing (eess.IV),335
+Sound (cs.SD),411
+Software Engineering (cs.SE),377
+Image and Video Processing (eess.IV),336
 Signal Processing (eess.SP),274
 Machine Learning (stat.ML),270
-Social and Information Networks (cs.SI),218
+Social and Information Networks (cs.SI),219
 Multiagent Systems (cs.MA),209
 Audio and Speech Processing (eess.AS),204
-Systems and Control (eess.SY),201
+Systems and Control (eess.SY),203
 Networking and Internet Architecture (cs.NI),189
 "Distributed, Parallel, and Cluster Computing (cs.DC)",184
 Computer Science and Game Theory (cs.GT),183
-Quantum Physics (quant-ph),137
+Quantum Physics (quant-ph),138
 Databases (cs.DB),135
 Neurons and Cognition (q-bio.NC),127
 Optimization and Control (math.OC),120
 Logic in Computer Science (cs.LO),120
 Information Theory (cs.IT),118
-Hardware Architecture (cs.AR),82
+Hardware Architecture (cs.AR),83
 Quantitative Methods (q-bio.QM),65
+Digital Libraries (cs.DL),46
 Methodology (stat.ME),46
 Data Structures and Algorithms (cs.DS),46
-Digital Libraries (cs.DL),45
 Graphics (cs.GR),38
 Biomolecules (q-bio.BM),37
 Multimedia (cs.MM),34
@@ -42,10 +42,10 @@ Computational Complexity (cs.CC),29
 Statistical Finance (q-fin.ST),28
 Numerical Analysis (math.NA),27
 Emerging Technologies (cs.ET),24
+Instrumentation and Methods for Astrophysics (astro-ph.IM),21
 Atmospheric and Oceanic Physics (physics.ao-ph),21
 Computational Physics (physics.comp-ph),20
-Instrumentation and Methods for Astrophysics (astro-ph.IM),20
-Fluid Dynamics (physics.flu-dyn),19
+Fluid Dynamics (physics.flu-dyn),20
 Medical Physics (physics.med-ph),17
 Physics and Society (physics.soc-ph),16
 Trading and Market Microstructure (q-fin.TR),16
