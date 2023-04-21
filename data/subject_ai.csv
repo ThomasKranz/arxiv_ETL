@@ -1,42 +1,42 @@
 subject,frequency
-Machine Learning (cs.LG),9230
-Computer Vision and Pattern Recognition (cs.CV),5268
-Artificial Intelligence (cs.AI),5113
-Computation and Language (cs.CL),4239
+Machine Learning (cs.LG),9250
+Computer Vision and Pattern Recognition (cs.CV),5286
+Artificial Intelligence (cs.AI),5120
+Computation and Language (cs.CL),4244
 Robotics (cs.RO),1468
 Information Retrieval (cs.IR),671
-Cryptography and Security (cs.CR),616
-Human-Computer Interaction (cs.HC),486
-Neural and Evolutionary Computing (cs.NE),479
+Cryptography and Security (cs.CR),617
+Human-Computer Interaction (cs.HC),493
+Neural and Evolutionary Computing (cs.NE),483
 Computers and Society (cs.CY),443
 Sound (cs.SD),411
-Software Engineering (cs.SE),378
+Software Engineering (cs.SE),379
 Image and Video Processing (eess.IV),339
 Signal Processing (eess.SP),274
 Machine Learning (stat.ML),270
 Social and Information Networks (cs.SI),220
-Multiagent Systems (cs.MA),211
+Multiagent Systems (cs.MA),212
 Audio and Speech Processing (eess.AS),206
 Systems and Control (eess.SY),204
 Networking and Internet Architecture (cs.NI),190
-"Distributed, Parallel, and Cluster Computing (cs.DC)",184
+"Distributed, Parallel, and Cluster Computing (cs.DC)",187
 Computer Science and Game Theory (cs.GT),184
-Quantum Physics (quant-ph),140
-Databases (cs.DB),135
+Quantum Physics (quant-ph),143
+Databases (cs.DB),136
 Neurons and Cognition (q-bio.NC),127
-Logic in Computer Science (cs.LO),121
+Logic in Computer Science (cs.LO),122
+Information Theory (cs.IT),120
 Optimization and Control (math.OC),120
-Information Theory (cs.IT),119
 Hardware Architecture (cs.AR),86
 Quantitative Methods (q-bio.QM),66
 Methodology (stat.ME),47
 Data Structures and Algorithms (cs.DS),46
 Digital Libraries (cs.DL),46
 Graphics (cs.GR),39
-Biomolecules (q-bio.BM),37
+Biomolecules (q-bio.BM),38
 Multimedia (cs.MM),34
 Genomics (q-bio.GN),32
-Programming Languages (cs.PL),30
+Programming Languages (cs.PL),31
 "Computational Engineering, Finance, and Science (cs.CE)",30
 Computational Complexity (cs.CC),29
 Statistical Finance (q-fin.ST),28
