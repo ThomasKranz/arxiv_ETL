@@ -1,25 +1,25 @@
 subject,frequency
-Machine Learning (cs.LG),9303
-Computer Vision and Pattern Recognition (cs.CV),5338
-Artificial Intelligence (cs.AI),5187
-Computation and Language (cs.CL),4293
-Robotics (cs.RO),1481
-Information Retrieval (cs.IR),672
-Cryptography and Security (cs.CR),630
+Machine Learning (cs.LG),9314
+Computer Vision and Pattern Recognition (cs.CV),5347
+Artificial Intelligence (cs.AI),5205
+Computation and Language (cs.CL),4300
+Robotics (cs.RO),1485
+Information Retrieval (cs.IR),673
+Cryptography and Security (cs.CR),632
 Human-Computer Interaction (cs.HC),497
 Neural and Evolutionary Computing (cs.NE),489
-Computers and Society (cs.CY),453
+Computers and Society (cs.CY),455
 Sound (cs.SD),413
 Software Engineering (cs.SE),383
-Image and Video Processing (eess.IV),339
+Image and Video Processing (eess.IV),341
 Signal Processing (eess.SP),277
 Machine Learning (stat.ML),270
-Social and Information Networks (cs.SI),221
+Social and Information Networks (cs.SI),222
 Multiagent Systems (cs.MA),213
+Audio and Speech Processing (eess.AS),209
 Systems and Control (eess.SY),209
-Audio and Speech Processing (eess.AS),208
+Networking and Internet Architecture (cs.NI),192
 "Distributed, Parallel, and Cluster Computing (cs.DC)",191
-Networking and Internet Architecture (cs.NI),191
 Computer Science and Game Theory (cs.GT),184
 Quantum Physics (quant-ph),145
 Databases (cs.DB),137
@@ -37,8 +37,8 @@ Biomolecules (q-bio.BM),39
 Multimedia (cs.MM),34
 Genomics (q-bio.GN),33
 Programming Languages (cs.PL),31
+Computational Complexity (cs.CC),30
 "Computational Engineering, Finance, and Science (cs.CE)",30
-Computational Complexity (cs.CC),29
 Numerical Analysis (math.NA),28
 Statistical Finance (q-fin.ST),28
 Emerging Technologies (cs.ET),25
@@ -50,7 +50,7 @@ Medical Physics (physics.med-ph),17
 Physics and Society (physics.soc-ph),16
 Trading and Market Microstructure (q-fin.TR),16
 Applications (stat.AP),16
-Materials Science (cond-mat.mtrl-sci),14
+Materials Science (cond-mat.mtrl-sci),15
 General Economics (econ.GN),13
 Theoretical Economics (econ.TH),13
 Computational Finance (q-fin.CP),13
@@ -59,9 +59,9 @@ Formal Languages and Automata Theory (cs.FL),12
 Chemical Physics (physics.chem-ph),11
 Portfolio Management (q-fin.PM),9
 Statistics Theory (math.ST),9
+Earth and Planetary Astrophysics (astro-ph.EP),9
 Other Computer Science (cs.OH),8
 Cosmology and Nongalactic Astrophysics (astro-ph.CO),8
-Earth and Planetary Astrophysics (astro-ph.EP),8
 Astrophysics of Galaxies (astro-ph.GA),7
 Computational Geometry (cs.CG),6
 Populations and Evolution (q-bio.PE),6
