@@ -1,35 +1,35 @@
 subject,frequency
-Machine Learning (cs.LG),9314
-Computer Vision and Pattern Recognition (cs.CV),5347
-Artificial Intelligence (cs.AI),5205
-Computation and Language (cs.CL),4300
-Robotics (cs.RO),1485
+Machine Learning (cs.LG),9325
+Computer Vision and Pattern Recognition (cs.CV),5369
+Artificial Intelligence (cs.AI),5222
+Computation and Language (cs.CL),4305
+Robotics (cs.RO),1486
 Information Retrieval (cs.IR),673
-Cryptography and Security (cs.CR),632
-Human-Computer Interaction (cs.HC),497
+Cryptography and Security (cs.CR),635
+Human-Computer Interaction (cs.HC),499
 Neural and Evolutionary Computing (cs.NE),489
-Computers and Society (cs.CY),455
-Sound (cs.SD),413
+Computers and Society (cs.CY),456
+Sound (cs.SD),414
 Software Engineering (cs.SE),383
 Image and Video Processing (eess.IV),341
-Signal Processing (eess.SP),277
-Machine Learning (stat.ML),270
+Signal Processing (eess.SP),281
+Machine Learning (stat.ML),271
 Social and Information Networks (cs.SI),222
-Multiagent Systems (cs.MA),213
+Multiagent Systems (cs.MA),214
 Audio and Speech Processing (eess.AS),209
 Systems and Control (eess.SY),209
 Networking and Internet Architecture (cs.NI),192
 "Distributed, Parallel, and Cluster Computing (cs.DC)",191
-Computer Science and Game Theory (cs.GT),184
-Quantum Physics (quant-ph),145
-Databases (cs.DB),137
+Computer Science and Game Theory (cs.GT),185
+Quantum Physics (quant-ph),146
+Databases (cs.DB),138
 Neurons and Cognition (q-bio.NC),127
 Logic in Computer Science (cs.LO),123
 Information Theory (cs.IT),122
 Optimization and Control (math.OC),122
 Hardware Architecture (cs.AR),87
 Quantitative Methods (q-bio.QM),67
-Digital Libraries (cs.DL),48
+Digital Libraries (cs.DL),49
 Methodology (stat.ME),47
 Data Structures and Algorithms (cs.DS),46
 Graphics (cs.GR),39
@@ -66,13 +66,14 @@ Astrophysics of Galaxies (astro-ph.GA),7
 Computational Geometry (cs.CG),6
 Populations and Evolution (q-bio.PE),6
 Logic (math.LO),5
-Combinatorics (math.CO),5
 Category Theory (math.CT),5
+Combinatorics (math.CO),5
 Optics (physics.optics),5
 Disordered Systems and Neural Networks (cond-mat.dis-nn),5
 Molecular Networks (q-bio.MN),5
 Discrete Mathematics (cs.DM),5
 Instrumentation and Detectors (physics.ins-det),4
+Plasma Physics (physics.plasm-ph),4
 General Relativity and Quantum Cosmology (gr-qc),4
 Algebraic Topology (math.AT),4
 High Energy Physics - Experiment (hep-ex),4
@@ -89,11 +90,10 @@ Econometrics (econ.EM),4
 Statistical Mechanics (cond-mat.stat-mech),4
 High Energy Physics - Theory (hep-th),3
 Symbolic Computation (cs.SC),3
-Risk Management (q-fin.RM),3
 Other Quantitative Biology (q-bio.OT),3
+Risk Management (q-fin.RM),3
 Performance (cs.PF),3
 Computation (stat.CO),3
-Plasma Physics (physics.plasm-ph),3
 Biological Physics (physics.bio-ph),2
 Probability (math.PR),2
 Audio and Speech Processing (eess.AS) ,2
