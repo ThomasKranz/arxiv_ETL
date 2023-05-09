@@ -1,26 +1,26 @@
 subject,frequency
-Machine Learning (cs.LG),9400
-Computer Vision and Pattern Recognition (cs.CV),5434
-Artificial Intelligence (cs.AI),5258
-Computation and Language (cs.CL),4391
-Robotics (cs.RO),1495
-Information Retrieval (cs.IR),677
-Cryptography and Security (cs.CR),640
-Human-Computer Interaction (cs.HC),505
-Neural and Evolutionary Computing (cs.NE),489
-Computers and Society (cs.CY),468
+Machine Learning (cs.LG),9424
+Computer Vision and Pattern Recognition (cs.CV),5446
+Artificial Intelligence (cs.AI),5274
+Computation and Language (cs.CL),4416
+Robotics (cs.RO),1503
+Information Retrieval (cs.IR),681
+Cryptography and Security (cs.CR),645
+Human-Computer Interaction (cs.HC),506
+Neural and Evolutionary Computing (cs.NE),491
+Computers and Society (cs.CY),469
 Sound (cs.SD),418
-Software Engineering (cs.SE),391
+Software Engineering (cs.SE),393
 Image and Video Processing (eess.IV),344
 Signal Processing (eess.SP),281
 Machine Learning (stat.ML),273
-Social and Information Networks (cs.SI),222
+Social and Information Networks (cs.SI),224
 Multiagent Systems (cs.MA),216
 Audio and Speech Processing (eess.AS),210
 Systems and Control (eess.SY),210
-"Distributed, Parallel, and Cluster Computing (cs.DC)",193
+"Distributed, Parallel, and Cluster Computing (cs.DC)",194
 Networking and Internet Architecture (cs.NI),193
-Computer Science and Game Theory (cs.GT),186
+Computer Science and Game Theory (cs.GT),187
 Quantum Physics (quant-ph),147
 Databases (cs.DB),139
 Logic in Computer Science (cs.LO),128
@@ -29,18 +29,18 @@ Optimization and Control (math.OC),124
 Information Theory (cs.IT),123
 Hardware Architecture (cs.AR),87
 Quantitative Methods (q-bio.QM),67
-Digital Libraries (cs.DL),50
+Digital Libraries (cs.DL),51
 Methodology (stat.ME),48
 Data Structures and Algorithms (cs.DS),46
 Graphics (cs.GR),41
-Biomolecules (q-bio.BM),40
+Biomolecules (q-bio.BM),41
 Multimedia (cs.MM),37
 Genomics (q-bio.GN),33
 Programming Languages (cs.PL),32
 "Computational Engineering, Finance, and Science (cs.CE)",31
 Computational Complexity (cs.CC),30
+Statistical Finance (q-fin.ST),30
 Numerical Analysis (math.NA),28
-Statistical Finance (q-fin.ST),28
 Emerging Technologies (cs.ET),26
 Instrumentation and Methods for Astrophysics (astro-ph.IM),23
 Atmospheric and Oceanic Physics (physics.ao-ph),21
