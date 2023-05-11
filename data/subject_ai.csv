@@ -1,13 +1,13 @@
 subject,frequency
-Machine Learning (cs.LG),9446
-Computer Vision and Pattern Recognition (cs.CV),5458
-Artificial Intelligence (cs.AI),5282
-Computation and Language (cs.CL),4429
-Robotics (cs.RO),1505
-Information Retrieval (cs.IR),682
-Cryptography and Security (cs.CR),645
-Human-Computer Interaction (cs.HC),507
-Neural and Evolutionary Computing (cs.NE),494
+Machine Learning (cs.LG),9460
+Computer Vision and Pattern Recognition (cs.CV),5473
+Artificial Intelligence (cs.AI),5288
+Computation and Language (cs.CL),4449
+Robotics (cs.RO),1507
+Information Retrieval (cs.IR),684
+Cryptography and Security (cs.CR),647
+Human-Computer Interaction (cs.HC),508
+Neural and Evolutionary Computing (cs.NE),495
 Computers and Society (cs.CY),470
 Sound (cs.SD),418
 Software Engineering (cs.SE),396
@@ -23,19 +23,19 @@ Networking and Internet Architecture (cs.NI),195
 Computer Science and Game Theory (cs.GT),187
 Quantum Physics (quant-ph),147
 Databases (cs.DB),139
-Logic in Computer Science (cs.LO),129
+Logic in Computer Science (cs.LO),130
 Neurons and Cognition (q-bio.NC),127
 Optimization and Control (math.OC),124
 Information Theory (cs.IT),123
 Hardware Architecture (cs.AR),88
 Quantitative Methods (q-bio.QM),67
 Digital Libraries (cs.DL),51
-Methodology (stat.ME),48
+Methodology (stat.ME),49
 Data Structures and Algorithms (cs.DS),46
 Graphics (cs.GR),42
-Biomolecules (q-bio.BM),41
-Multimedia (cs.MM),37
-Programming Languages (cs.PL),33
+Biomolecules (q-bio.BM),42
+Multimedia (cs.MM),38
+Programming Languages (cs.PL),34
 Genomics (q-bio.GN),33
 "Computational Engineering, Finance, and Science (cs.CE)",31
 Computational Complexity (cs.CC),30
@@ -64,10 +64,10 @@ Populations and Evolution (q-bio.PE),8
 Other Computer Science (cs.OH),8
 Cosmology and Nongalactic Astrophysics (astro-ph.CO),8
 Astrophysics of Galaxies (astro-ph.GA),7
+Category Theory (math.CT),6
 Discrete Mathematics (cs.DM),6
 Computational Geometry (cs.CG),6
 Logic (math.LO),5
-Category Theory (math.CT),5
 Combinatorics (math.CO),5
 Optics (physics.optics),5
 Disordered Systems and Neural Networks (cond-mat.dis-nn),5
