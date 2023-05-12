@@ -1,36 +1,36 @@
 subject,frequency
-Machine Learning (cs.LG),9460
-Computer Vision and Pattern Recognition (cs.CV),5473
-Artificial Intelligence (cs.AI),5288
-Computation and Language (cs.CL),4449
-Robotics (cs.RO),1507
-Information Retrieval (cs.IR),684
-Cryptography and Security (cs.CR),647
+Machine Learning (cs.LG),9471
+Computer Vision and Pattern Recognition (cs.CV),5482
+Artificial Intelligence (cs.AI),5295
+Computation and Language (cs.CL),4466
+Robotics (cs.RO),1509
+Information Retrieval (cs.IR),685
+Cryptography and Security (cs.CR),648
 Human-Computer Interaction (cs.HC),508
 Neural and Evolutionary Computing (cs.NE),495
-Computers and Society (cs.CY),470
-Sound (cs.SD),418
-Software Engineering (cs.SE),396
+Computers and Society (cs.CY),472
+Sound (cs.SD),420
+Software Engineering (cs.SE),397
 Image and Video Processing (eess.IV),344
 Signal Processing (eess.SP),284
 Machine Learning (stat.ML),273
 Social and Information Networks (cs.SI),225
 Multiagent Systems (cs.MA),217
-Audio and Speech Processing (eess.AS),210
+Audio and Speech Processing (eess.AS),211
 Systems and Control (eess.SY),210
 Networking and Internet Architecture (cs.NI),195
 "Distributed, Parallel, and Cluster Computing (cs.DC)",194
-Computer Science and Game Theory (cs.GT),187
+Computer Science and Game Theory (cs.GT),191
 Quantum Physics (quant-ph),147
-Databases (cs.DB),139
+Databases (cs.DB),140
 Logic in Computer Science (cs.LO),130
 Neurons and Cognition (q-bio.NC),127
 Optimization and Control (math.OC),124
 Information Theory (cs.IT),123
-Hardware Architecture (cs.AR),88
+Hardware Architecture (cs.AR),89
 Quantitative Methods (q-bio.QM),67
 Digital Libraries (cs.DL),51
-Methodology (stat.ME),49
+Methodology (stat.ME),50
 Data Structures and Algorithms (cs.DS),46
 Graphics (cs.GR),42
 Biomolecules (q-bio.BM),42
@@ -65,12 +65,12 @@ Other Computer Science (cs.OH),8
 Cosmology and Nongalactic Astrophysics (astro-ph.CO),8
 Astrophysics of Galaxies (astro-ph.GA),7
 Category Theory (math.CT),6
+Disordered Systems and Neural Networks (cond-mat.dis-nn),6
 Discrete Mathematics (cs.DM),6
 Computational Geometry (cs.CG),6
 Logic (math.LO),5
 Combinatorics (math.CO),5
 Optics (physics.optics),5
-Disordered Systems and Neural Networks (cond-mat.dis-nn),5
 Molecular Networks (q-bio.MN),5
 Instrumentation and Detectors (physics.ins-det),4
 Plasma Physics (physics.plasm-ph),4
