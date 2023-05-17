@@ -1,18 +1,18 @@
 subject,frequency
-Machine Learning (cs.LG),9504
-Computer Vision and Pattern Recognition (cs.CV),5508
-Artificial Intelligence (cs.AI),5318
-Computation and Language (cs.CL),4508
-Robotics (cs.RO),1513
-Information Retrieval (cs.IR),690
-Cryptography and Security (cs.CR),650
+Machine Learning (cs.LG),9518
+Computer Vision and Pattern Recognition (cs.CV),5521
+Artificial Intelligence (cs.AI),5332
+Computation and Language (cs.CL),4519
+Robotics (cs.RO),1515
+Information Retrieval (cs.IR),692
+Cryptography and Security (cs.CR),652
 Human-Computer Interaction (cs.HC),510
-Neural and Evolutionary Computing (cs.NE),498
-Computers and Society (cs.CY),474
-Sound (cs.SD),421
+Neural and Evolutionary Computing (cs.NE),502
+Computers and Society (cs.CY),475
+Sound (cs.SD),423
 Software Engineering (cs.SE),401
 Image and Video Processing (eess.IV),344
-Signal Processing (eess.SP),285
+Signal Processing (eess.SP),288
 Machine Learning (stat.ML),274
 Social and Information Networks (cs.SI),225
 Multiagent Systems (cs.MA),219
@@ -32,8 +32,8 @@ Quantitative Methods (q-bio.QM),67
 Digital Libraries (cs.DL),51
 Methodology (stat.ME),50
 Data Structures and Algorithms (cs.DS),46
+Biomolecules (q-bio.BM),44
 Graphics (cs.GR),43
-Biomolecules (q-bio.BM),42
 Multimedia (cs.MM),38
 Programming Languages (cs.PL),34
 Genomics (q-bio.GN),33
@@ -43,7 +43,7 @@ Computational Complexity (cs.CC),30
 Numerical Analysis (math.NA),29
 Emerging Technologies (cs.ET),26
 Instrumentation and Methods for Astrophysics (astro-ph.IM),23
-Atmospheric and Oceanic Physics (physics.ao-ph),21
+Atmospheric and Oceanic Physics (physics.ao-ph),22
 Computational Physics (physics.comp-ph),20
 Fluid Dynamics (physics.flu-dyn),20
 Medical Physics (physics.med-ph),18
