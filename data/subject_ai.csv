@@ -1,44 +1,44 @@
 subject,frequency
-Machine Learning (cs.LG),9771
-Computer Vision and Pattern Recognition (cs.CV),5676
-Artificial Intelligence (cs.AI),5479
-Computation and Language (cs.CL),4920
-Robotics (cs.RO),1545
-Information Retrieval (cs.IR),706
-Cryptography and Security (cs.CR),662
-Human-Computer Interaction (cs.HC),535
-Neural and Evolutionary Computing (cs.NE),516
-Computers and Society (cs.CY),491
-Sound (cs.SD),437
-Software Engineering (cs.SE),418
-Image and Video Processing (eess.IV),347
+Machine Learning (cs.LG),9821
+Computer Vision and Pattern Recognition (cs.CV),5696
+Artificial Intelligence (cs.AI),5489
+Computation and Language (cs.CL),4945
+Robotics (cs.RO),1549
+Information Retrieval (cs.IR),712
+Cryptography and Security (cs.CR),663
+Human-Computer Interaction (cs.HC),536
+Neural and Evolutionary Computing (cs.NE),517
+Computers and Society (cs.CY),501
+Sound (cs.SD),439
+Software Engineering (cs.SE),419
+Image and Video Processing (eess.IV),349
 Signal Processing (eess.SP),298
 Machine Learning (stat.ML),284
-Social and Information Networks (cs.SI),228
+Social and Information Networks (cs.SI),229
+Audio and Speech Processing (eess.AS),227
 Multiagent Systems (cs.MA),226
-Audio and Speech Processing (eess.AS),225
 Systems and Control (eess.SY),215
+Networking and Internet Architecture (cs.NI),202
 "Distributed, Parallel, and Cluster Computing (cs.DC)",201
-Networking and Internet Architecture (cs.NI),201
 Computer Science and Game Theory (cs.GT),199
-Quantum Physics (quant-ph),150
+Quantum Physics (quant-ph),151
 Databases (cs.DB),141
-Logic in Computer Science (cs.LO),138
+Logic in Computer Science (cs.LO),139
 Neurons and Cognition (q-bio.NC),135
-Optimization and Control (math.OC),125
-Information Theory (cs.IT),125
+Optimization and Control (math.OC),126
+Information Theory (cs.IT),126
 Hardware Architecture (cs.AR),92
 Quantitative Methods (q-bio.QM),70
 Methodology (stat.ME),52
 Digital Libraries (cs.DL),51
 Biomolecules (q-bio.BM),48
 Data Structures and Algorithms (cs.DS),47
-Graphics (cs.GR),45
+Graphics (cs.GR),46
 Multimedia (cs.MM),41
-Programming Languages (cs.PL),36
+Programming Languages (cs.PL),39
 Genomics (q-bio.GN),35
+Computational Complexity (cs.CC),33
 Statistical Finance (q-fin.ST),32
-Computational Complexity (cs.CC),32
 "Computational Engineering, Finance, and Science (cs.CE)",31
 Numerical Analysis (math.NA),29
 Emerging Technologies (cs.ET),27
