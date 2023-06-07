@@ -1,29 +1,29 @@
 subject,frequency
-Machine Learning (cs.LG),9972
-Computer Vision and Pattern Recognition (cs.CV),5759
-Artificial Intelligence (cs.AI),5564
-Computation and Language (cs.CL),5036
-Robotics (cs.RO),1560
-Information Retrieval (cs.IR),722
-Cryptography and Security (cs.CR),670
-Human-Computer Interaction (cs.HC),541
-Neural and Evolutionary Computing (cs.NE),524
-Computers and Society (cs.CY),507
+Machine Learning (cs.LG),9997
+Computer Vision and Pattern Recognition (cs.CV),5771
+Artificial Intelligence (cs.AI),5591
+Computation and Language (cs.CL),5051
+Robotics (cs.RO),1565
+Information Retrieval (cs.IR),723
+Cryptography and Security (cs.CR),672
+Human-Computer Interaction (cs.HC),549
+Neural and Evolutionary Computing (cs.NE),526
+Computers and Society (cs.CY),511
 Sound (cs.SD),448
-Software Engineering (cs.SE),429
+Software Engineering (cs.SE),430
 Image and Video Processing (eess.IV),351
 Signal Processing (eess.SP),299
-Machine Learning (stat.ML),286
-Social and Information Networks (cs.SI),235
-Audio and Speech Processing (eess.AS),231
+Machine Learning (stat.ML),287
+Social and Information Networks (cs.SI),236
+Audio and Speech Processing (eess.AS),232
 Multiagent Systems (cs.MA),228
 Systems and Control (eess.SY),215
 Networking and Internet Architecture (cs.NI),205
 "Distributed, Parallel, and Cluster Computing (cs.DC)",201
 Computer Science and Game Theory (cs.GT),201
-Quantum Physics (quant-ph),153
-Logic in Computer Science (cs.LO),141
-Databases (cs.DB),141
+Quantum Physics (quant-ph),155
+Logic in Computer Science (cs.LO),142
+Databases (cs.DB),142
 Neurons and Cognition (q-bio.NC),136
 Optimization and Control (math.OC),127
 Information Theory (cs.IT),127
@@ -38,7 +38,7 @@ Multimedia (cs.MM),41
 Programming Languages (cs.PL),40
 Genomics (q-bio.GN),35
 Computational Complexity (cs.CC),34
-Statistical Finance (q-fin.ST),32
+Statistical Finance (q-fin.ST),33
 "Computational Engineering, Finance, and Science (cs.CE)",31
 Numerical Analysis (math.NA),29
 Emerging Technologies (cs.ET),27
@@ -75,6 +75,7 @@ Statistical Mechanics (cond-mat.stat-mech),5
 Logic (math.LO),5
 Instrumentation and Detectors (physics.ins-det),5
 "Data Analysis, Statistics and Probability (physics.data-an)",5
+High Energy Physics - Theory (hep-th),5
 Combinatorics (math.CO),5
 Econometrics (econ.EM),4
 Adaptation and Self-Organizing Systems (nlin.AO),4
@@ -82,7 +83,6 @@ Applied Physics (physics.app-ph),4
 High Energy Physics - Experiment (hep-ex),4
 Solar and Stellar Astrophysics (astro-ph.SR),4
 High Energy Physics - Phenomenology (hep-ph),4
-High Energy Physics - Theory (hep-th),4
 History and Overview (math.HO),4
 Plasma Physics (physics.plasm-ph),4
 Performance (cs.PF),4
