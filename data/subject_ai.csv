@@ -1,20 +1,20 @@
 subject,frequency
-Machine Learning (cs.LG),9997
-Computer Vision and Pattern Recognition (cs.CV),5771
-Artificial Intelligence (cs.AI),5591
-Computation and Language (cs.CL),5051
+Machine Learning (cs.LG),10026
+Computer Vision and Pattern Recognition (cs.CV),5779
+Artificial Intelligence (cs.AI),5622
+Computation and Language (cs.CL),5061
 Robotics (cs.RO),1565
 Information Retrieval (cs.IR),723
 Cryptography and Security (cs.CR),672
-Human-Computer Interaction (cs.HC),549
+Human-Computer Interaction (cs.HC),551
 Neural and Evolutionary Computing (cs.NE),526
 Computers and Society (cs.CY),511
-Sound (cs.SD),448
-Software Engineering (cs.SE),430
-Image and Video Processing (eess.IV),351
-Signal Processing (eess.SP),299
-Machine Learning (stat.ML),287
-Social and Information Networks (cs.SI),236
+Sound (cs.SD),449
+Software Engineering (cs.SE),431
+Image and Video Processing (eess.IV),352
+Signal Processing (eess.SP),301
+Machine Learning (stat.ML),289
+Social and Information Networks (cs.SI),237
 Audio and Speech Processing (eess.AS),232
 Multiagent Systems (cs.MA),228
 Systems and Control (eess.SY),215
@@ -22,7 +22,7 @@ Networking and Internet Architecture (cs.NI),205
 "Distributed, Parallel, and Cluster Computing (cs.DC)",201
 Computer Science and Game Theory (cs.GT),201
 Quantum Physics (quant-ph),155
-Logic in Computer Science (cs.LO),142
+Logic in Computer Science (cs.LO),143
 Databases (cs.DB),142
 Neurons and Cognition (q-bio.NC),136
 Optimization and Control (math.OC),127
@@ -32,8 +32,8 @@ Quantitative Methods (q-bio.QM),71
 Methodology (stat.ME),53
 Digital Libraries (cs.DL),51
 Biomolecules (q-bio.BM),49
+Graphics (cs.GR),47
 Data Structures and Algorithms (cs.DS),47
-Graphics (cs.GR),46
 Multimedia (cs.MM),41
 Programming Languages (cs.PL),40
 Genomics (q-bio.GN),35
@@ -74,6 +74,7 @@ Algebraic Topology (math.AT),5
 Statistical Mechanics (cond-mat.stat-mech),5
 Logic (math.LO),5
 Instrumentation and Detectors (physics.ins-det),5
+High Energy Physics - Phenomenology (hep-ph),5
 "Data Analysis, Statistics and Probability (physics.data-an)",5
 High Energy Physics - Theory (hep-th),5
 Combinatorics (math.CO),5
@@ -82,7 +83,6 @@ Adaptation and Self-Organizing Systems (nlin.AO),4
 Applied Physics (physics.app-ph),4
 High Energy Physics - Experiment (hep-ex),4
 Solar and Stellar Astrophysics (astro-ph.SR),4
-High Energy Physics - Phenomenology (hep-ph),4
 History and Overview (math.HO),4
 Plasma Physics (physics.plasm-ph),4
 Performance (cs.PF),4
