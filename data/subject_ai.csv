@@ -1,35 +1,35 @@
 subject,frequency
-Machine Learning (cs.LG),10047
-Computer Vision and Pattern Recognition (cs.CV),5795
-Artificial Intelligence (cs.AI),5642
-Computation and Language (cs.CL),5078
-Robotics (cs.RO),1566
-Information Retrieval (cs.IR),725
-Cryptography and Security (cs.CR),674
-Human-Computer Interaction (cs.HC),553
+Machine Learning (cs.LG),10065
+Computer Vision and Pattern Recognition (cs.CV),5807
+Artificial Intelligence (cs.AI),5650
+Computation and Language (cs.CL),5091
+Robotics (cs.RO),1568
+Information Retrieval (cs.IR),727
+Cryptography and Security (cs.CR),675
+Human-Computer Interaction (cs.HC),555
 Neural and Evolutionary Computing (cs.NE),527
-Computers and Society (cs.CY),512
+Computers and Society (cs.CY),515
 Sound (cs.SD),450
 Software Engineering (cs.SE),431
 Image and Video Processing (eess.IV),352
 Signal Processing (eess.SP),304
 Machine Learning (stat.ML),289
 Social and Information Networks (cs.SI),237
-Audio and Speech Processing (eess.AS),233
-Multiagent Systems (cs.MA),228
+Audio and Speech Processing (eess.AS),234
+Multiagent Systems (cs.MA),229
 Systems and Control (eess.SY),215
 Networking and Internet Architecture (cs.NI),205
-"Distributed, Parallel, and Cluster Computing (cs.DC)",201
+"Distributed, Parallel, and Cluster Computing (cs.DC)",202
 Computer Science and Game Theory (cs.GT),201
 Quantum Physics (quant-ph),155
-Databases (cs.DB),144
+Databases (cs.DB),145
 Logic in Computer Science (cs.LO),143
 Neurons and Cognition (q-bio.NC),136
 Information Theory (cs.IT),127
 Optimization and Control (math.OC),127
-Hardware Architecture (cs.AR),94
+Hardware Architecture (cs.AR),95
 Quantitative Methods (q-bio.QM),72
-Methodology (stat.ME),54
+Methodology (stat.ME),55
 Digital Libraries (cs.DL),51
 Biomolecules (q-bio.BM),49
 Graphics (cs.GR),47
@@ -44,8 +44,8 @@ Numerical Analysis (math.NA),29
 Emerging Technologies (cs.ET),27
 Atmospheric and Oceanic Physics (physics.ao-ph),24
 Instrumentation and Methods for Astrophysics (astro-ph.IM),23
+Computational Physics (physics.comp-ph),21
 Fluid Dynamics (physics.flu-dyn),20
-Computational Physics (physics.comp-ph),20
 Applications (stat.AP),19
 Medical Physics (physics.med-ph),18
 Materials Science (cond-mat.mtrl-sci),17
