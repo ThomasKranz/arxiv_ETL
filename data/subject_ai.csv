@@ -1,41 +1,41 @@
 subject,frequency
-Machine Learning (cs.LG),10065
-Computer Vision and Pattern Recognition (cs.CV),5807
-Artificial Intelligence (cs.AI),5650
-Computation and Language (cs.CL),5091
-Robotics (cs.RO),1568
+Machine Learning (cs.LG),10106
+Computer Vision and Pattern Recognition (cs.CV),5833
+Artificial Intelligence (cs.AI),5661
+Computation and Language (cs.CL),5118
+Robotics (cs.RO),1578
 Information Retrieval (cs.IR),727
-Cryptography and Security (cs.CR),675
-Human-Computer Interaction (cs.HC),555
-Neural and Evolutionary Computing (cs.NE),527
-Computers and Society (cs.CY),515
-Sound (cs.SD),450
-Software Engineering (cs.SE),431
-Image and Video Processing (eess.IV),352
-Signal Processing (eess.SP),304
+Cryptography and Security (cs.CR),678
+Human-Computer Interaction (cs.HC),556
+Neural and Evolutionary Computing (cs.NE),528
+Computers and Society (cs.CY),516
+Sound (cs.SD),451
+Software Engineering (cs.SE),435
+Image and Video Processing (eess.IV),355
+Signal Processing (eess.SP),305
 Machine Learning (stat.ML),289
 Social and Information Networks (cs.SI),237
-Audio and Speech Processing (eess.AS),234
+Audio and Speech Processing (eess.AS),235
 Multiagent Systems (cs.MA),229
-Systems and Control (eess.SY),215
+Systems and Control (eess.SY),216
 Networking and Internet Architecture (cs.NI),205
 "Distributed, Parallel, and Cluster Computing (cs.DC)",202
 Computer Science and Game Theory (cs.GT),201
 Quantum Physics (quant-ph),155
 Databases (cs.DB),145
-Logic in Computer Science (cs.LO),143
+Logic in Computer Science (cs.LO),144
 Neurons and Cognition (q-bio.NC),136
-Information Theory (cs.IT),127
+Information Theory (cs.IT),128
 Optimization and Control (math.OC),127
 Hardware Architecture (cs.AR),95
 Quantitative Methods (q-bio.QM),72
 Methodology (stat.ME),55
 Digital Libraries (cs.DL),51
 Biomolecules (q-bio.BM),49
-Graphics (cs.GR),47
+Graphics (cs.GR),48
 Data Structures and Algorithms (cs.DS),47
 Multimedia (cs.MM),41
-Programming Languages (cs.PL),40
+Programming Languages (cs.PL),41
 Genomics (q-bio.GN),35
 Computational Complexity (cs.CC),34
 Statistical Finance (q-fin.ST),33
