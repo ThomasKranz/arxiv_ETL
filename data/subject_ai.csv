@@ -1,21 +1,21 @@
 subject,frequency
-Machine Learning (cs.LG),10132
-Computer Vision and Pattern Recognition (cs.CV),5839
-Artificial Intelligence (cs.AI),5675
-Computation and Language (cs.CL),5138
-Robotics (cs.RO),1581
-Information Retrieval (cs.IR),728
-Cryptography and Security (cs.CR),679
-Human-Computer Interaction (cs.HC),560
-Neural and Evolutionary Computing (cs.NE),529
-Computers and Society (cs.CY),519
+Machine Learning (cs.LG),10158
+Computer Vision and Pattern Recognition (cs.CV),5845
+Artificial Intelligence (cs.AI),5689
+Computation and Language (cs.CL),5158
+Robotics (cs.RO),1584
+Information Retrieval (cs.IR),729
+Cryptography and Security (cs.CR),680
+Human-Computer Interaction (cs.HC),564
+Neural and Evolutionary Computing (cs.NE),530
+Computers and Society (cs.CY),522
 Sound (cs.SD),451
-Software Engineering (cs.SE),436
+Software Engineering (cs.SE),437
 Image and Video Processing (eess.IV),355
 Signal Processing (eess.SP),305
 Machine Learning (stat.ML),289
-Audio and Speech Processing (eess.AS),239
-Social and Information Networks (cs.SI),239
+Audio and Speech Processing (eess.AS),243
+Social and Information Networks (cs.SI),241
 Multiagent Systems (cs.MA),229
 Systems and Control (eess.SY),216
 Networking and Internet Architecture (cs.NI),205
@@ -28,7 +28,7 @@ Neurons and Cognition (q-bio.NC),136
 Information Theory (cs.IT),128
 Optimization and Control (math.OC),127
 Hardware Architecture (cs.AR),95
-Quantitative Methods (q-bio.QM),73
+Quantitative Methods (q-bio.QM),74
 Methodology (stat.ME),55
 Digital Libraries (cs.DL),51
 Biomolecules (q-bio.BM),49
@@ -64,11 +64,11 @@ Cosmology and Nongalactic Astrophysics (astro-ph.CO),8
 Populations and Evolution (q-bio.PE),8
 Other Computer Science (cs.OH),8
 Astrophysics of Galaxies (astro-ph.GA),7
+Combinatorics (math.CO),7
 Molecular Networks (q-bio.MN),6
 Discrete Mathematics (cs.DM),6
 Category Theory (math.CT),6
 Disordered Systems and Neural Networks (cond-mat.dis-nn),6
-Combinatorics (math.CO),6
 Computational Geometry (cs.CG),6
 Optics (physics.optics),6
 Logic (math.LO),5
