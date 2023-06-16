@@ -1,37 +1,37 @@
 subject,frequency
-Machine Learning (cs.LG),10158
-Computer Vision and Pattern Recognition (cs.CV),5845
-Artificial Intelligence (cs.AI),5689
-Computation and Language (cs.CL),5158
-Robotics (cs.RO),1584
+Machine Learning (cs.LG),10201
+Computer Vision and Pattern Recognition (cs.CV),5874
+Artificial Intelligence (cs.AI),5703
+Computation and Language (cs.CL),5189
+Robotics (cs.RO),1590
 Information Retrieval (cs.IR),729
-Cryptography and Security (cs.CR),680
-Human-Computer Interaction (cs.HC),564
-Neural and Evolutionary Computing (cs.NE),530
-Computers and Society (cs.CY),522
-Sound (cs.SD),451
+Cryptography and Security (cs.CR),688
+Human-Computer Interaction (cs.HC),568
+Neural and Evolutionary Computing (cs.NE),531
+Computers and Society (cs.CY),523
+Sound (cs.SD),454
 Software Engineering (cs.SE),437
 Image and Video Processing (eess.IV),355
 Signal Processing (eess.SP),305
-Machine Learning (stat.ML),289
-Audio and Speech Processing (eess.AS),243
+Machine Learning (stat.ML),290
+Audio and Speech Processing (eess.AS),246
 Social and Information Networks (cs.SI),241
-Multiagent Systems (cs.MA),229
-Systems and Control (eess.SY),216
-Networking and Internet Architecture (cs.NI),205
+Multiagent Systems (cs.MA),232
+Systems and Control (eess.SY),217
+Networking and Internet Architecture (cs.NI),206
 "Distributed, Parallel, and Cluster Computing (cs.DC)",202
 Computer Science and Game Theory (cs.GT),201
 Quantum Physics (quant-ph),155
+Logic in Computer Science (cs.LO),145
 Databases (cs.DB),145
-Logic in Computer Science (cs.LO),144
-Neurons and Cognition (q-bio.NC),136
+Neurons and Cognition (q-bio.NC),137
 Information Theory (cs.IT),128
 Optimization and Control (math.OC),127
 Hardware Architecture (cs.AR),95
-Quantitative Methods (q-bio.QM),74
+Quantitative Methods (q-bio.QM),75
 Methodology (stat.ME),55
 Digital Libraries (cs.DL),51
-Biomolecules (q-bio.BM),49
+Biomolecules (q-bio.BM),50
 Graphics (cs.GR),48
 Data Structures and Algorithms (cs.DS),47
 Multimedia (cs.MM),41
@@ -44,11 +44,11 @@ Numerical Analysis (math.NA),29
 Emerging Technologies (cs.ET),27
 Atmospheric and Oceanic Physics (physics.ao-ph),24
 Instrumentation and Methods for Astrophysics (astro-ph.IM),23
+Fluid Dynamics (physics.flu-dyn),21
 Computational Physics (physics.comp-ph),21
-Fluid Dynamics (physics.flu-dyn),20
 Applications (stat.AP),19
-Medical Physics (physics.med-ph),18
-Materials Science (cond-mat.mtrl-sci),17
+Medical Physics (physics.med-ph),19
+Materials Science (cond-mat.mtrl-sci),18
 Trading and Market Microstructure (q-fin.TR),17
 Physics and Society (physics.soc-ph),16
 General Economics (econ.GN),16
