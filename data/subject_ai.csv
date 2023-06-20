@@ -1,28 +1,28 @@
 subject,frequency
-Machine Learning (cs.LG),10236
-Computer Vision and Pattern Recognition (cs.CV),5883
-Artificial Intelligence (cs.AI),5706
-Computation and Language (cs.CL),5203
-Robotics (cs.RO),1595
+Machine Learning (cs.LG),10271
+Computer Vision and Pattern Recognition (cs.CV),5892
+Artificial Intelligence (cs.AI),5709
+Computation and Language (cs.CL),5217
+Robotics (cs.RO),1600
 Information Retrieval (cs.IR),729
-Cryptography and Security (cs.CR),689
-Human-Computer Interaction (cs.HC),569
+Cryptography and Security (cs.CR),690
+Human-Computer Interaction (cs.HC),570
 Neural and Evolutionary Computing (cs.NE),531
-Computers and Society (cs.CY),525
-Sound (cs.SD),455
+Computers and Society (cs.CY),527
+Sound (cs.SD),456
 Software Engineering (cs.SE),437
 Image and Video Processing (eess.IV),355
 Signal Processing (eess.SP),305
-Machine Learning (stat.ML),291
-Audio and Speech Processing (eess.AS),248
+Machine Learning (stat.ML),292
+Audio and Speech Processing (eess.AS),250
 Social and Information Networks (cs.SI),241
 Multiagent Systems (cs.MA),232
-Systems and Control (eess.SY),218
-Networking and Internet Architecture (cs.NI),207
+Systems and Control (eess.SY),219
+Networking and Internet Architecture (cs.NI),208
 "Distributed, Parallel, and Cluster Computing (cs.DC)",202
 Computer Science and Game Theory (cs.GT),201
-Quantum Physics (quant-ph),156
-Databases (cs.DB),146
+Quantum Physics (quant-ph),157
+Databases (cs.DB),147
 Logic in Computer Science (cs.LO),145
 Neurons and Cognition (q-bio.NC),137
 Information Theory (cs.IT),128
@@ -34,11 +34,11 @@ Digital Libraries (cs.DL),51
 Biomolecules (q-bio.BM),50
 Graphics (cs.GR),48
 Data Structures and Algorithms (cs.DS),47
-Multimedia (cs.MM),42
+Multimedia (cs.MM),43
 Programming Languages (cs.PL),41
+Statistical Finance (q-fin.ST),35
 Genomics (q-bio.GN),35
 Computational Complexity (cs.CC),34
-Statistical Finance (q-fin.ST),34
 "Computational Engineering, Finance, and Science (cs.CE)",31
 Numerical Analysis (math.NA),29
 Emerging Technologies (cs.ET),27
@@ -52,8 +52,8 @@ Materials Science (cond-mat.mtrl-sci),18
 Trading and Market Microstructure (q-fin.TR),17
 General Economics (econ.GN),16
 Physics and Society (physics.soc-ph),16
+Chemical Physics (physics.chem-ph),15
 Theoretical Economics (econ.TH),14
-Chemical Physics (physics.chem-ph),14
 Computational Finance (q-fin.CP),14
 Formal Languages and Automata Theory (cs.FL),13
 Geophysics (physics.geo-ph),12
