@@ -1,39 +1,39 @@
 subject,frequency
-Machine Learning (cs.LG),10357
-Computer Vision and Pattern Recognition (cs.CV),5924
-Artificial Intelligence (cs.AI),5732
-Computation and Language (cs.CL),5253
-Robotics (cs.RO),1614
+Machine Learning (cs.LG),10368
+Computer Vision and Pattern Recognition (cs.CV),5927
+Artificial Intelligence (cs.AI),5739
+Computation and Language (cs.CL),5260
+Robotics (cs.RO),1617
 Information Retrieval (cs.IR),739
-Cryptography and Security (cs.CR),694
-Human-Computer Interaction (cs.HC),573
+Cryptography and Security (cs.CR),696
+Human-Computer Interaction (cs.HC),574
 Computers and Society (cs.CY),539
 Neural and Evolutionary Computing (cs.NE),537
 Sound (cs.SD),462
-Software Engineering (cs.SE),441
+Software Engineering (cs.SE),442
 Image and Video Processing (eess.IV),356
-Signal Processing (eess.SP),306
-Machine Learning (stat.ML),294
+Signal Processing (eess.SP),308
+Machine Learning (stat.ML),295
 Audio and Speech Processing (eess.AS),254
 Social and Information Networks (cs.SI),243
 Multiagent Systems (cs.MA),232
-Systems and Control (eess.SY),220
+Systems and Control (eess.SY),221
 Networking and Internet Architecture (cs.NI),209
 "Distributed, Parallel, and Cluster Computing (cs.DC)",203
 Computer Science and Game Theory (cs.GT),201
 Quantum Physics (quant-ph),160
 Databases (cs.DB),148
 Logic in Computer Science (cs.LO),147
-Neurons and Cognition (q-bio.NC),139
+Neurons and Cognition (q-bio.NC),140
 Information Theory (cs.IT),128
 Optimization and Control (math.OC),127
 Hardware Architecture (cs.AR),96
 Quantitative Methods (q-bio.QM),75
 Methodology (stat.ME),55
 Digital Libraries (cs.DL),51
+Data Structures and Algorithms (cs.DS),50
 Biomolecules (q-bio.BM),50
 Graphics (cs.GR),49
-Data Structures and Algorithms (cs.DS),49
 Multimedia (cs.MM),43
 Programming Languages (cs.PL),41
 Statistical Finance (q-fin.ST),36
@@ -48,7 +48,7 @@ Computational Physics (physics.comp-ph),22
 Fluid Dynamics (physics.flu-dyn),21
 Applications (stat.AP),19
 Medical Physics (physics.med-ph),19
-Materials Science (cond-mat.mtrl-sci),18
+Materials Science (cond-mat.mtrl-sci),19
 Trading and Market Microstructure (q-fin.TR),18
 Physics and Society (physics.soc-ph),16
 General Economics (econ.GN),16
