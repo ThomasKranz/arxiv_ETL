@@ -1,16 +1,16 @@
 subject,frequency
-Machine Learning (cs.LG),10422
-Computer Vision and Pattern Recognition (cs.CV),5957
-Artificial Intelligence (cs.AI),5787
-Computation and Language (cs.CL),5301
-Robotics (cs.RO),1623
-Information Retrieval (cs.IR),743
+Machine Learning (cs.LG),10442
+Computer Vision and Pattern Recognition (cs.CV),5965
+Artificial Intelligence (cs.AI),5802
+Computation and Language (cs.CL),5315
+Robotics (cs.RO),1628
+Information Retrieval (cs.IR),744
 Cryptography and Security (cs.CR),700
 Human-Computer Interaction (cs.HC),577
-Computers and Society (cs.CY),547
-Neural and Evolutionary Computing (cs.NE),539
-Sound (cs.SD),462
-Software Engineering (cs.SE),445
+Computers and Society (cs.CY),548
+Neural and Evolutionary Computing (cs.NE),540
+Sound (cs.SD),463
+Software Engineering (cs.SE),446
 Image and Video Processing (eess.IV),359
 Signal Processing (eess.SP),310
 Machine Learning (stat.ML),296
@@ -19,21 +19,21 @@ Social and Information Networks (cs.SI),243
 Multiagent Systems (cs.MA),232
 Systems and Control (eess.SY),223
 Networking and Internet Architecture (cs.NI),209
-"Distributed, Parallel, and Cluster Computing (cs.DC)",203
+"Distributed, Parallel, and Cluster Computing (cs.DC)",204
 Computer Science and Game Theory (cs.GT),202
 Quantum Physics (quant-ph),161
 Databases (cs.DB),148
-Logic in Computer Science (cs.LO),147
-Neurons and Cognition (q-bio.NC),140
+Logic in Computer Science (cs.LO),148
+Neurons and Cognition (q-bio.NC),141
 Optimization and Control (math.OC),129
 Information Theory (cs.IT),128
-Hardware Architecture (cs.AR),96
+Hardware Architecture (cs.AR),97
 Quantitative Methods (q-bio.QM),76
 Methodology (stat.ME),56
 Digital Libraries (cs.DL),51
-Biomolecules (q-bio.BM),50
+Graphics (cs.GR),50
 Data Structures and Algorithms (cs.DS),50
-Graphics (cs.GR),49
+Biomolecules (q-bio.BM),50
 Multimedia (cs.MM),43
 Programming Languages (cs.PL),41
 Statistical Finance (q-fin.ST),36
@@ -43,7 +43,7 @@ Numerical Analysis (math.NA),31
 "Computational Engineering, Finance, and Science (cs.CE)",31
 Emerging Technologies (cs.ET),27
 Atmospheric and Oceanic Physics (physics.ao-ph),25
-Instrumentation and Methods for Astrophysics (astro-ph.IM),24
+Instrumentation and Methods for Astrophysics (astro-ph.IM),25
 Computational Physics (physics.comp-ph),23
 Fluid Dynamics (physics.flu-dyn),21
 Medical Physics (physics.med-ph),19
