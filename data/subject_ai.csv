@@ -1,26 +1,26 @@
 subject,frequency
-Machine Learning (cs.LG),10460
-Computer Vision and Pattern Recognition (cs.CV),5983
-Artificial Intelligence (cs.AI),5810
-Computation and Language (cs.CL),5323
-Robotics (cs.RO),1632
-Information Retrieval (cs.IR),747
+Machine Learning (cs.LG),10469
+Computer Vision and Pattern Recognition (cs.CV),5991
+Artificial Intelligence (cs.AI),5819
+Computation and Language (cs.CL),5330
+Robotics (cs.RO),1637
+Information Retrieval (cs.IR),748
 Cryptography and Security (cs.CR),701
 Human-Computer Interaction (cs.HC),580
 Computers and Society (cs.CY),549
-Neural and Evolutionary Computing (cs.NE),541
-Sound (cs.SD),463
+Neural and Evolutionary Computing (cs.NE),543
+Sound (cs.SD),464
 Software Engineering (cs.SE),447
 Image and Video Processing (eess.IV),359
 Signal Processing (eess.SP),310
 Machine Learning (stat.ML),296
 Audio and Speech Processing (eess.AS),254
 Social and Information Networks (cs.SI),244
-Multiagent Systems (cs.MA),232
-Systems and Control (eess.SY),224
+Multiagent Systems (cs.MA),233
+Systems and Control (eess.SY),225
+"Distributed, Parallel, and Cluster Computing (cs.DC)",210
 Networking and Internet Architecture (cs.NI),209
-"Distributed, Parallel, and Cluster Computing (cs.DC)",205
-Computer Science and Game Theory (cs.GT),202
+Computer Science and Game Theory (cs.GT),203
 Quantum Physics (quant-ph),162
 Databases (cs.DB),148
 Logic in Computer Science (cs.LO),148
@@ -47,9 +47,9 @@ Atmospheric and Oceanic Physics (physics.ao-ph),25
 Computational Physics (physics.comp-ph),23
 Fluid Dynamics (physics.flu-dyn),21
 Medical Physics (physics.med-ph),19
+Trading and Market Microstructure (q-fin.TR),19
 Applications (stat.AP),19
 Materials Science (cond-mat.mtrl-sci),19
-Trading and Market Microstructure (q-fin.TR),18
 General Economics (econ.GN),16
 Physics and Society (physics.soc-ph),16
 Chemical Physics (physics.chem-ph),16
@@ -68,17 +68,17 @@ Disordered Systems and Neural Networks (cond-mat.dis-nn),7
 Combinatorics (math.CO),7
 Category Theory (math.CT),6
 Computational Geometry (cs.CG),6
-Molecular Networks (q-bio.MN),6
+"Data Analysis, Statistics and Probability (physics.data-an)",6
 Discrete Mathematics (cs.DM),6
+Molecular Networks (q-bio.MN),6
 Optics (physics.optics),6
 Algebraic Topology (math.AT),5
-History and Philosophy of Physics (physics.hist-ph),5
 High Energy Physics - Theory (hep-th),5
 High Energy Physics - Phenomenology (hep-ph),5
 Econometrics (econ.EM),5
-Logic (math.LO),5
+History and Philosophy of Physics (physics.hist-ph),5
 Instrumentation and Detectors (physics.ins-det),5
-"Data Analysis, Statistics and Probability (physics.data-an)",5
+Logic (math.LO),5
 Statistical Mechanics (cond-mat.stat-mech),5
 Applied Physics (physics.app-ph),4
 Solar and Stellar Astrophysics (astro-ph.SR),4
