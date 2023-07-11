@@ -1,33 +1,33 @@
 subject,frequency
-Machine Learning (cs.LG),10610
-Computer Vision and Pattern Recognition (cs.CV),6092
-Artificial Intelligence (cs.AI),5867
-Computation and Language (cs.CL),5396
-Robotics (cs.RO),1664
-Information Retrieval (cs.IR),761
-Cryptography and Security (cs.CR),709
-Human-Computer Interaction (cs.HC),589
-Computers and Society (cs.CY),560
-Neural and Evolutionary Computing (cs.NE),547
-Sound (cs.SD),470
-Software Engineering (cs.SE),455
-Image and Video Processing (eess.IV),361
-Signal Processing (eess.SP),311
-Machine Learning (stat.ML),298
-Audio and Speech Processing (eess.AS),259
-Social and Information Networks (cs.SI),246
+Machine Learning (cs.LG),10632
+Computer Vision and Pattern Recognition (cs.CV),6110
+Artificial Intelligence (cs.AI),5881
+Computation and Language (cs.CL),5411
+Robotics (cs.RO),1671
+Information Retrieval (cs.IR),762
+Cryptography and Security (cs.CR),710
+Human-Computer Interaction (cs.HC),593
+Computers and Society (cs.CY),562
+Neural and Evolutionary Computing (cs.NE),548
+Sound (cs.SD),471
+Software Engineering (cs.SE),460
+Image and Video Processing (eess.IV),363
+Signal Processing (eess.SP),312
+Machine Learning (stat.ML),299
+Audio and Speech Processing (eess.AS),260
+Social and Information Networks (cs.SI),247
 Multiagent Systems (cs.MA),235
 Systems and Control (eess.SY),228
-"Distributed, Parallel, and Cluster Computing (cs.DC)",212
+"Distributed, Parallel, and Cluster Computing (cs.DC)",214
 Networking and Internet Architecture (cs.NI),209
 Computer Science and Game Theory (cs.GT),203
 Quantum Physics (quant-ph),162
-Databases (cs.DB),152
-Logic in Computer Science (cs.LO),148
+Databases (cs.DB),153
+Logic in Computer Science (cs.LO),150
 Neurons and Cognition (q-bio.NC),141
 Optimization and Control (math.OC),132
-Information Theory (cs.IT),129
-Hardware Architecture (cs.AR),99
+Information Theory (cs.IT),130
+Hardware Architecture (cs.AR),100
 Quantitative Methods (q-bio.QM),77
 Methodology (stat.ME),59
 Digital Libraries (cs.DL),51
