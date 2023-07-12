@@ -1,29 +1,29 @@
 subject,frequency
-Machine Learning (cs.LG),10632
-Computer Vision and Pattern Recognition (cs.CV),6110
-Artificial Intelligence (cs.AI),5881
-Computation and Language (cs.CL),5411
+Machine Learning (cs.LG),10648
+Computer Vision and Pattern Recognition (cs.CV),6120
+Artificial Intelligence (cs.AI),5896
+Computation and Language (cs.CL),5417
 Robotics (cs.RO),1671
-Information Retrieval (cs.IR),762
-Cryptography and Security (cs.CR),710
-Human-Computer Interaction (cs.HC),593
+Information Retrieval (cs.IR),766
+Cryptography and Security (cs.CR),711
+Human-Computer Interaction (cs.HC),594
 Computers and Society (cs.CY),562
 Neural and Evolutionary Computing (cs.NE),548
-Sound (cs.SD),471
-Software Engineering (cs.SE),460
+Sound (cs.SD),473
+Software Engineering (cs.SE),461
 Image and Video Processing (eess.IV),363
-Signal Processing (eess.SP),312
-Machine Learning (stat.ML),299
+Signal Processing (eess.SP),321
+Machine Learning (stat.ML),301
 Audio and Speech Processing (eess.AS),260
 Social and Information Networks (cs.SI),247
 Multiagent Systems (cs.MA),235
 Systems and Control (eess.SY),228
 "Distributed, Parallel, and Cluster Computing (cs.DC)",214
-Networking and Internet Architecture (cs.NI),209
-Computer Science and Game Theory (cs.GT),203
+Networking and Internet Architecture (cs.NI),210
+Computer Science and Game Theory (cs.GT),204
 Quantum Physics (quant-ph),162
+Logic in Computer Science (cs.LO),154
 Databases (cs.DB),153
-Logic in Computer Science (cs.LO),150
 Neurons and Cognition (q-bio.NC),141
 Optimization and Control (math.OC),132
 Information Theory (cs.IT),130
@@ -66,20 +66,20 @@ Other Computer Science (cs.OH),8
 Astrophysics of Galaxies (astro-ph.GA),7
 Disordered Systems and Neural Networks (cond-mat.dis-nn),7
 Combinatorics (math.CO),7
-"Data Analysis, Statistics and Probability (physics.data-an)",6
+Logic (math.LO),6
 Category Theory (math.CT),6
 Computational Geometry (cs.CG),6
-Molecular Networks (q-bio.MN),6
+"Data Analysis, Statistics and Probability (physics.data-an)",6
 Discrete Mathematics (cs.DM),6
+Molecular Networks (q-bio.MN),6
 Optics (physics.optics),6
 Algebraic Topology (math.AT),5
 History and Philosophy of Physics (physics.hist-ph),5
-High Energy Physics - Theory (hep-th),5
 High Energy Physics - Phenomenology (hep-ph),5
 Econometrics (econ.EM),5
 Other Quantitative Biology (q-bio.OT),5
+High Energy Physics - Theory (hep-th),5
 Instrumentation and Detectors (physics.ins-det),5
-Logic (math.LO),5
 Statistical Mechanics (cond-mat.stat-mech),5
 Applied Physics (physics.app-ph),4
 Solar and Stellar Astrophysics (astro-ph.SR),4
