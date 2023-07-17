@@ -1,28 +1,28 @@
 subject,frequency
-Machine Learning (cs.LG),10685
-Computer Vision and Pattern Recognition (cs.CV),6145
-Artificial Intelligence (cs.AI),5921
-Computation and Language (cs.CL),5428
-Robotics (cs.RO),1680
+Machine Learning (cs.LG),10698
+Computer Vision and Pattern Recognition (cs.CV),6150
+Artificial Intelligence (cs.AI),5927
+Computation and Language (cs.CL),5438
+Robotics (cs.RO),1681
 Information Retrieval (cs.IR),768
 Cryptography and Security (cs.CR),713
 Human-Computer Interaction (cs.HC),601
 Computers and Society (cs.CY),562
-Neural and Evolutionary Computing (cs.NE),548
-Sound (cs.SD),473
-Software Engineering (cs.SE),463
+Neural and Evolutionary Computing (cs.NE),549
+Sound (cs.SD),475
+Software Engineering (cs.SE),464
 Image and Video Processing (eess.IV),363
 Signal Processing (eess.SP),321
 Machine Learning (stat.ML),301
-Audio and Speech Processing (eess.AS),260
-Social and Information Networks (cs.SI),248
+Audio and Speech Processing (eess.AS),261
+Social and Information Networks (cs.SI),249
 Multiagent Systems (cs.MA),236
 Systems and Control (eess.SY),229
-"Distributed, Parallel, and Cluster Computing (cs.DC)",214
-Networking and Internet Architecture (cs.NI),210
+"Distributed, Parallel, and Cluster Computing (cs.DC)",215
+Networking and Internet Architecture (cs.NI),211
 Computer Science and Game Theory (cs.GT),204
 Quantum Physics (quant-ph),163
-Logic in Computer Science (cs.LO),155
+Logic in Computer Science (cs.LO),156
 Databases (cs.DB),153
 Neurons and Cognition (q-bio.NC),141
 Optimization and Control (math.OC),132
@@ -51,8 +51,8 @@ Materials Science (cond-mat.mtrl-sci),19
 Trading and Market Microstructure (q-fin.TR),19
 Medical Physics (physics.med-ph),19
 Physics and Society (physics.soc-ph),17
+Chemical Physics (physics.chem-ph),17
 General Economics (econ.GN),16
-Chemical Physics (physics.chem-ph),16
 Computational Finance (q-fin.CP),14
 Formal Languages and Automata Theory (cs.FL),14
 Theoretical Economics (econ.TH),14
