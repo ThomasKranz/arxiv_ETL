@@ -1,22 +1,22 @@
 subject,frequency
-Machine Learning (cs.LG),10771
-Computer Vision and Pattern Recognition (cs.CV),6209
-Artificial Intelligence (cs.AI),6031
-Computation and Language (cs.CL),5470
-Robotics (cs.RO),1693
-Information Retrieval (cs.IR),775
-Cryptography and Security (cs.CR),722
-Human-Computer Interaction (cs.HC),607
+Machine Learning (cs.LG),10781
+Computer Vision and Pattern Recognition (cs.CV),6219
+Artificial Intelligence (cs.AI),6048
+Computation and Language (cs.CL),5474
+Robotics (cs.RO),1695
+Information Retrieval (cs.IR),776
+Cryptography and Security (cs.CR),723
+Human-Computer Interaction (cs.HC),608
 Computers and Society (cs.CY),567
-Neural and Evolutionary Computing (cs.NE),551
+Neural and Evolutionary Computing (cs.NE),552
+Software Engineering (cs.SE),475
 Sound (cs.SD),475
-Software Engineering (cs.SE),473
-Image and Video Processing (eess.IV),366
+Image and Video Processing (eess.IV),367
 Signal Processing (eess.SP),323
 Machine Learning (stat.ML),301
 Audio and Speech Processing (eess.AS),263
 Social and Information Networks (cs.SI),253
-Multiagent Systems (cs.MA),237
+Multiagent Systems (cs.MA),238
 Systems and Control (eess.SY),232
 "Distributed, Parallel, and Cluster Computing (cs.DC)",217
 Networking and Internet Architecture (cs.NI),213
@@ -24,10 +24,10 @@ Computer Science and Game Theory (cs.GT),205
 Quantum Physics (quant-ph),164
 Logic in Computer Science (cs.LO),159
 Databases (cs.DB),154
-Neurons and Cognition (q-bio.NC),143
+Neurons and Cognition (q-bio.NC),145
 Optimization and Control (math.OC),133
 Information Theory (cs.IT),130
-Hardware Architecture (cs.AR),100
+Hardware Architecture (cs.AR),101
 Quantitative Methods (q-bio.QM),79
 Methodology (stat.ME),59
 Digital Libraries (cs.DL),51
@@ -54,43 +54,43 @@ Physics and Society (physics.soc-ph),17
 Chemical Physics (physics.chem-ph),17
 General Economics (econ.GN),17
 Formal Languages and Automata Theory (cs.FL),15
+Geophysics (physics.geo-ph),14
 Theoretical Economics (econ.TH),14
 Computational Finance (q-fin.CP),14
-Geophysics (physics.geo-ph),13
 Earth and Planetary Astrophysics (astro-ph.EP),10
 Statistics Theory (math.ST),10
 Portfolio Management (q-fin.PM),10
-Other Computer Science (cs.OH),8
+Populations and Evolution (q-bio.PE),9
 Cosmology and Nongalactic Astrophysics (astro-ph.CO),8
-Populations and Evolution (q-bio.PE),8
-Optics (physics.optics),7
+Other Computer Science (cs.OH),8
 Combinatorics (math.CO),7
+Optics (physics.optics),7
 Astrophysics of Galaxies (astro-ph.GA),7
 Disordered Systems and Neural Networks (cond-mat.dis-nn),7
-Discrete Mathematics (cs.DM),6
+"Data Analysis, Statistics and Probability (physics.data-an)",6
 Molecular Networks (q-bio.MN),6
-Logic (math.LO),6
+Discrete Mathematics (cs.DM),6
 Category Theory (math.CT),6
 Computational Geometry (cs.CG),6
-"Data Analysis, Statistics and Probability (physics.data-an)",6
+Logic (math.LO),6
 Statistical Mechanics (cond-mat.stat-mech),5
 High Energy Physics - Phenomenology (hep-ph),5
-High Energy Physics - Theory (hep-th),5
-Algebraic Topology (math.AT),5
 Econometrics (econ.EM),5
-History and Philosophy of Physics (physics.hist-ph),5
+High Energy Physics - Theory (hep-th),5
 Instrumentation and Detectors (physics.ins-det),5
+History and Philosophy of Physics (physics.hist-ph),5
+Algebraic Topology (math.AT),5
 Other Quantitative Biology (q-bio.OT),5
+Performance (cs.PF),4
+General Relativity and Quantum Cosmology (gr-qc),4
+Adaptation and Self-Organizing Systems (nlin.AO),4
+High Energy Physics - Experiment (hep-ex),4
 Plasma Physics (physics.plasm-ph),4
-Mesoscale and Nanoscale Physics (cond-mat.mes-hall),4
-History and Overview (math.HO),4
 Solar and Stellar Astrophysics (astro-ph.SR),4
 Dynamical Systems (math.DS),4
 Applied Physics (physics.app-ph),4
-High Energy Physics - Experiment (hep-ex),4
-Adaptation and Self-Organizing Systems (nlin.AO),4
-Performance (cs.PF),4
-General Relativity and Quantum Cosmology (gr-qc),4
+History and Overview (math.HO),4
+Mesoscale and Nanoscale Physics (cond-mat.mes-hall),4
 Mathematical Software (cs.MS),3
 Computation (stat.CO),3
 Symbolic Computation (cs.SC),3
