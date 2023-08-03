@@ -1,19 +1,19 @@
 subject,frequency
-Machine Learning (cs.LG),10901
-Computer Vision and Pattern Recognition (cs.CV),6315
-Artificial Intelligence (cs.AI),6117
-Computation and Language (cs.CL),5569
-Robotics (cs.RO),1721
-Information Retrieval (cs.IR),782
-Cryptography and Security (cs.CR),732
-Human-Computer Interaction (cs.HC),623
+Machine Learning (cs.LG),10918
+Computer Vision and Pattern Recognition (cs.CV),6321
+Artificial Intelligence (cs.AI),6124
+Computation and Language (cs.CL),5576
+Robotics (cs.RO),1724
+Information Retrieval (cs.IR),785
+Cryptography and Security (cs.CR),735
+Human-Computer Interaction (cs.HC),624
 Computers and Society (cs.CY),578
-Neural and Evolutionary Computing (cs.NE),556
+Neural and Evolutionary Computing (cs.NE),558
 Software Engineering (cs.SE),485
 Sound (cs.SD),484
 Image and Video Processing (eess.IV),371
 Signal Processing (eess.SP),323
-Machine Learning (stat.ML),306
+Machine Learning (stat.ML),307
 Audio and Speech Processing (eess.AS),269
 Social and Information Networks (cs.SI),256
 Systems and Control (eess.SY),243
@@ -30,8 +30,8 @@ Information Theory (cs.IT),132
 Hardware Architecture (cs.AR),101
 Quantitative Methods (q-bio.QM),81
 Methodology (stat.ME),61
+Digital Libraries (cs.DL),53
 Data Structures and Algorithms (cs.DS),52
-Digital Libraries (cs.DL),52
 Graphics (cs.GR),51
 Biomolecules (q-bio.BM),50
 Multimedia (cs.MM),44
@@ -39,7 +39,7 @@ Programming Languages (cs.PL),42
 Genomics (q-bio.GN),36
 Statistical Finance (q-fin.ST),36
 Computational Complexity (cs.CC),35
-"Computational Engineering, Finance, and Science (cs.CE)",32
+"Computational Engineering, Finance, and Science (cs.CE)",33
 Numerical Analysis (math.NA),31
 Instrumentation and Methods for Astrophysics (astro-ph.IM),28
 Emerging Technologies (cs.ET),27
@@ -64,13 +64,13 @@ Populations and Evolution (q-bio.PE),9
 Other Computer Science (cs.OH),8
 Cosmology and Nongalactic Astrophysics (astro-ph.CO),8
 Optics (physics.optics),7
-Astrophysics of Galaxies (astro-ph.GA),7
 Combinatorics (math.CO),7
+Category Theory (math.CT),7
 Disordered Systems and Neural Networks (cond-mat.dis-nn),7
-Category Theory (math.CT),6
-"Data Analysis, Statistics and Probability (physics.data-an)",6
-Discrete Mathematics (cs.DM),6
+Astrophysics of Galaxies (astro-ph.GA),7
 Logic (math.LO),6
+Discrete Mathematics (cs.DM),6
+"Data Analysis, Statistics and Probability (physics.data-an)",6
 Molecular Networks (q-bio.MN),6
 Computational Geometry (cs.CG),6
 Algebraic Topology (math.AT),5
