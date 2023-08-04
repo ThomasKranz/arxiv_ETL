@@ -1,36 +1,36 @@
 subject,frequency
-Machine Learning (cs.LG),10918
-Computer Vision and Pattern Recognition (cs.CV),6321
-Artificial Intelligence (cs.AI),6124
-Computation and Language (cs.CL),5576
-Robotics (cs.RO),1724
-Information Retrieval (cs.IR),785
+Machine Learning (cs.LG),10931
+Computer Vision and Pattern Recognition (cs.CV),6330
+Artificial Intelligence (cs.AI),6132
+Computation and Language (cs.CL),5587
+Robotics (cs.RO),1728
+Information Retrieval (cs.IR),786
 Cryptography and Security (cs.CR),735
 Human-Computer Interaction (cs.HC),624
 Computers and Society (cs.CY),578
 Neural and Evolutionary Computing (cs.NE),558
+Sound (cs.SD),485
 Software Engineering (cs.SE),485
-Sound (cs.SD),484
 Image and Video Processing (eess.IV),371
 Signal Processing (eess.SP),323
 Machine Learning (stat.ML),307
 Audio and Speech Processing (eess.AS),269
 Social and Information Networks (cs.SI),256
 Systems and Control (eess.SY),243
-Multiagent Systems (cs.MA),241
+Multiagent Systems (cs.MA),242
 "Distributed, Parallel, and Cluster Computing (cs.DC)",219
 Networking and Internet Architecture (cs.NI),217
 Computer Science and Game Theory (cs.GT),209
 Quantum Physics (quant-ph),167
 Logic in Computer Science (cs.LO),160
 Databases (cs.DB),158
-Neurons and Cognition (q-bio.NC),147
+Neurons and Cognition (q-bio.NC),148
 Optimization and Control (math.OC),137
 Information Theory (cs.IT),132
 Hardware Architecture (cs.AR),101
 Quantitative Methods (q-bio.QM),81
 Methodology (stat.ME),61
-Digital Libraries (cs.DL),53
+Digital Libraries (cs.DL),54
 Data Structures and Algorithms (cs.DS),52
 Graphics (cs.GR),51
 Biomolecules (q-bio.BM),50
@@ -62,11 +62,11 @@ Statistics Theory (math.ST),10
 Portfolio Management (q-fin.PM),10
 Populations and Evolution (q-bio.PE),9
 Other Computer Science (cs.OH),8
+Disordered Systems and Neural Networks (cond-mat.dis-nn),8
 Cosmology and Nongalactic Astrophysics (astro-ph.CO),8
+Category Theory (math.CT),7
 Optics (physics.optics),7
 Combinatorics (math.CO),7
-Category Theory (math.CT),7
-Disordered Systems and Neural Networks (cond-mat.dis-nn),7
 Astrophysics of Galaxies (astro-ph.GA),7
 Logic (math.LO),6
 Discrete Mathematics (cs.DM),6
