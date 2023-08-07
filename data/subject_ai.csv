@@ -1,40 +1,40 @@
 subject,frequency
-Machine Learning (cs.LG),10931
-Computer Vision and Pattern Recognition (cs.CV),6330
-Artificial Intelligence (cs.AI),6132
-Computation and Language (cs.CL),5587
-Robotics (cs.RO),1728
-Information Retrieval (cs.IR),786
-Cryptography and Security (cs.CR),735
+Machine Learning (cs.LG),10948
+Computer Vision and Pattern Recognition (cs.CV),6337
+Artificial Intelligence (cs.AI),6137
+Computation and Language (cs.CL),5594
+Robotics (cs.RO),1730
+Information Retrieval (cs.IR),788
+Cryptography and Security (cs.CR),736
 Human-Computer Interaction (cs.HC),624
-Computers and Society (cs.CY),578
-Neural and Evolutionary Computing (cs.NE),558
+Computers and Society (cs.CY),595
+Neural and Evolutionary Computing (cs.NE),559
+Software Engineering (cs.SE),486
 Sound (cs.SD),485
-Software Engineering (cs.SE),485
 Image and Video Processing (eess.IV),371
-Signal Processing (eess.SP),323
+Signal Processing (eess.SP),328
 Machine Learning (stat.ML),307
 Audio and Speech Processing (eess.AS),269
 Social and Information Networks (cs.SI),256
 Systems and Control (eess.SY),243
 Multiagent Systems (cs.MA),242
 "Distributed, Parallel, and Cluster Computing (cs.DC)",219
-Networking and Internet Architecture (cs.NI),217
+Networking and Internet Architecture (cs.NI),218
 Computer Science and Game Theory (cs.GT),209
 Quantum Physics (quant-ph),167
 Logic in Computer Science (cs.LO),160
 Databases (cs.DB),158
-Neurons and Cognition (q-bio.NC),148
+Neurons and Cognition (q-bio.NC),149
 Optimization and Control (math.OC),137
 Information Theory (cs.IT),132
-Hardware Architecture (cs.AR),101
+Hardware Architecture (cs.AR),102
 Quantitative Methods (q-bio.QM),81
-Methodology (stat.ME),61
-Digital Libraries (cs.DL),54
+Methodology (stat.ME),62
+Digital Libraries (cs.DL),56
 Data Structures and Algorithms (cs.DS),52
 Graphics (cs.GR),51
-Biomolecules (q-bio.BM),50
-Multimedia (cs.MM),44
+Biomolecules (q-bio.BM),51
+Multimedia (cs.MM),45
 Programming Languages (cs.PL),42
 Genomics (q-bio.GN),36
 Statistical Finance (q-fin.ST),36
@@ -50,7 +50,7 @@ Fluid Dynamics (physics.flu-dyn),22
 Trading and Market Microstructure (q-fin.TR),19
 Medical Physics (physics.med-ph),19
 Materials Science (cond-mat.mtrl-sci),19
-General Economics (econ.GN),18
+General Economics (econ.GN),19
 Chemical Physics (physics.chem-ph),18
 Physics and Society (physics.soc-ph),17
 Computational Finance (q-fin.CP),16
