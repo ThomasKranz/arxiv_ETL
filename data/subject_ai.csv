@@ -1,31 +1,31 @@
 subject,frequency
-Machine Learning (cs.LG),11149
-Computer Vision and Pattern Recognition (cs.CV),6516
-Artificial Intelligence (cs.AI),6327
-Computation and Language (cs.CL),5712
-Robotics (cs.RO),1763
-Information Retrieval (cs.IR),827
-Cryptography and Security (cs.CR),756
-Human-Computer Interaction (cs.HC),643
-Computers and Society (cs.CY),605
+Machine Learning (cs.LG),11168
+Computer Vision and Pattern Recognition (cs.CV),6535
+Artificial Intelligence (cs.AI),6340
+Computation and Language (cs.CL),5726
+Robotics (cs.RO),1766
+Information Retrieval (cs.IR),830
+Cryptography and Security (cs.CR),757
+Human-Computer Interaction (cs.HC),644
+Computers and Society (cs.CY),606
 Neural and Evolutionary Computing (cs.NE),562
-Software Engineering (cs.SE),502
-Sound (cs.SD),495
-Image and Video Processing (eess.IV),377
+Software Engineering (cs.SE),503
+Sound (cs.SD),497
+Image and Video Processing (eess.IV),378
 Signal Processing (eess.SP),333
-Machine Learning (stat.ML),310
+Machine Learning (stat.ML),312
 Audio and Speech Processing (eess.AS),275
-Social and Information Networks (cs.SI),259
+Social and Information Networks (cs.SI),260
 Systems and Control (eess.SY),251
 Multiagent Systems (cs.MA),245
-Networking and Internet Architecture (cs.NI),226
+Networking and Internet Architecture (cs.NI),227
 "Distributed, Parallel, and Cluster Computing (cs.DC)",224
-Computer Science and Game Theory (cs.GT),213
-Quantum Physics (quant-ph),174
+Computer Science and Game Theory (cs.GT),214
+Quantum Physics (quant-ph),175
 Logic in Computer Science (cs.LO),164
-Databases (cs.DB),161
+Databases (cs.DB),162
 Neurons and Cognition (q-bio.NC),149
-Optimization and Control (math.OC),140
+Optimization and Control (math.OC),141
 Information Theory (cs.IT),134
 Hardware Architecture (cs.AR),105
 Quantitative Methods (q-bio.QM),83
@@ -38,9 +38,9 @@ Multimedia (cs.MM),46
 Programming Languages (cs.PL),42
 Statistical Finance (q-fin.ST),39
 Genomics (q-bio.GN),37
-Computational Complexity (cs.CC),35
+Computational Complexity (cs.CC),36
+Numerical Analysis (math.NA),34
 "Computational Engineering, Finance, and Science (cs.CE)",34
-Numerical Analysis (math.NA),33
 Emerging Technologies (cs.ET),29
 Instrumentation and Methods for Astrophysics (astro-ph.IM),29
 Atmospheric and Oceanic Physics (physics.ao-ph),27
@@ -48,7 +48,7 @@ Fluid Dynamics (physics.flu-dyn),23
 Computational Physics (physics.comp-ph),23
 Medical Physics (physics.med-ph),22
 Applications (stat.AP),22
-General Economics (econ.GN),20
+General Economics (econ.GN),21
 Materials Science (cond-mat.mtrl-sci),20
 Trading and Market Microstructure (q-fin.TR),19
 Chemical Physics (physics.chem-ph),18
