@@ -1,28 +1,28 @@
 subject,frequency
-Machine Learning (cs.LG),11262
-Computer Vision and Pattern Recognition (cs.CV),6624
-Artificial Intelligence (cs.AI),6426
-Computation and Language (cs.CL),5791
-Robotics (cs.RO),1781
-Information Retrieval (cs.IR),842
+Machine Learning (cs.LG),11278
+Computer Vision and Pattern Recognition (cs.CV),6630
+Artificial Intelligence (cs.AI),6450
+Computation and Language (cs.CL),5801
+Robotics (cs.RO),1788
+Information Retrieval (cs.IR),843
 Cryptography and Security (cs.CR),763
-Human-Computer Interaction (cs.HC),654
-Computers and Society (cs.CY),608
+Human-Computer Interaction (cs.HC),655
+Computers and Society (cs.CY),609
 Neural and Evolutionary Computing (cs.NE),564
 Software Engineering (cs.SE),512
-Sound (cs.SD),504
-Image and Video Processing (eess.IV),382
+Sound (cs.SD),506
+Image and Video Processing (eess.IV),383
 Signal Processing (eess.SP),344
 Machine Learning (stat.ML),314
 Audio and Speech Processing (eess.AS),276
-Social and Information Networks (cs.SI),262
+Social and Information Networks (cs.SI),263
 Systems and Control (eess.SY),253
 Multiagent Systems (cs.MA),246
 Networking and Internet Architecture (cs.NI),229
-"Distributed, Parallel, and Cluster Computing (cs.DC)",225
+"Distributed, Parallel, and Cluster Computing (cs.DC)",226
 Computer Science and Game Theory (cs.GT),214
-Quantum Physics (quant-ph),178
-Logic in Computer Science (cs.LO),167
+Quantum Physics (quant-ph),179
+Logic in Computer Science (cs.LO),172
 Databases (cs.DB),164
 Neurons and Cognition (q-bio.NC),153
 Optimization and Control (math.OC),141
@@ -35,15 +35,15 @@ Data Structures and Algorithms (cs.DS),54
 Biomolecules (q-bio.BM),54
 Graphics (cs.GR),54
 Multimedia (cs.MM),47
-Programming Languages (cs.PL),42
+Programming Languages (cs.PL),43
 Statistical Finance (q-fin.ST),39
 Genomics (q-bio.GN),37
 Computational Complexity (cs.CC),36
 Numerical Analysis (math.NA),35
 "Computational Engineering, Finance, and Science (cs.CE)",34
 Instrumentation and Methods for Astrophysics (astro-ph.IM),30
+Atmospheric and Oceanic Physics (physics.ao-ph),29
 Emerging Technologies (cs.ET),29
-Atmospheric and Oceanic Physics (physics.ao-ph),28
 Computational Physics (physics.comp-ph),24
 Fluid Dynamics (physics.flu-dyn),23
 Medical Physics (physics.med-ph),23
