@@ -1,22 +1,22 @@
 subject,frequency
-Machine Learning (cs.LG),11300
-Computer Vision and Pattern Recognition (cs.CV),6650
-Artificial Intelligence (cs.AI),6474
-Computation and Language (cs.CL),5816
-Robotics (cs.RO),1794
+Machine Learning (cs.LG),11308
+Computer Vision and Pattern Recognition (cs.CV),6660
+Artificial Intelligence (cs.AI),6484
+Computation and Language (cs.CL),5822
+Robotics (cs.RO),1796
 Information Retrieval (cs.IR),845
-Cryptography and Security (cs.CR),771
+Cryptography and Security (cs.CR),772
 Human-Computer Interaction (cs.HC),655
-Computers and Society (cs.CY),611
+Computers and Society (cs.CY),612
 Neural and Evolutionary Computing (cs.NE),564
 Software Engineering (cs.SE),513
 Sound (cs.SD),507
 Image and Video Processing (eess.IV),383
 Signal Processing (eess.SP),344
 Machine Learning (stat.ML),314
-Audio and Speech Processing (eess.AS),279
+Audio and Speech Processing (eess.AS),280
 Social and Information Networks (cs.SI),263
-Systems and Control (eess.SY),255
+Systems and Control (eess.SY),257
 Multiagent Systems (cs.MA),247
 Networking and Internet Architecture (cs.NI),229
 "Distributed, Parallel, and Cluster Computing (cs.DC)",226
@@ -31,12 +31,12 @@ Hardware Architecture (cs.AR),105
 Quantitative Methods (q-bio.QM),84
 Methodology (stat.ME),65
 Digital Libraries (cs.DL),58
-Biomolecules (q-bio.BM),55
+Biomolecules (q-bio.BM),56
 Data Structures and Algorithms (cs.DS),54
 Graphics (cs.GR),54
 Multimedia (cs.MM),47
 Programming Languages (cs.PL),43
-Statistical Finance (q-fin.ST),40
+Statistical Finance (q-fin.ST),41
 Genomics (q-bio.GN),37
 Computational Complexity (cs.CC),36
 Numerical Analysis (math.NA),35
