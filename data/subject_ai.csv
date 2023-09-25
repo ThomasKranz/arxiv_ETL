@@ -1,33 +1,33 @@
 subject,frequency
-Machine Learning (cs.LG),11553
-Computer Vision and Pattern Recognition (cs.CV),6838
-Artificial Intelligence (cs.AI),6657
-Computation and Language (cs.CL),6025
-Robotics (cs.RO),1870
-Information Retrieval (cs.IR),869
+Machine Learning (cs.LG),11567
+Computer Vision and Pattern Recognition (cs.CV),6845
+Artificial Intelligence (cs.AI),6677
+Computation and Language (cs.CL),6036
+Robotics (cs.RO),1876
+Information Retrieval (cs.IR),870
 Cryptography and Security (cs.CR),795
-Human-Computer Interaction (cs.HC),678
-Computers and Society (cs.CY),618
+Human-Computer Interaction (cs.HC),683
+Computers and Society (cs.CY),633
 Neural and Evolutionary Computing (cs.NE),573
-Software Engineering (cs.SE),529
+Software Engineering (cs.SE),531
 Sound (cs.SD),524
 Image and Video Processing (eess.IV),395
 Signal Processing (eess.SP),359
 Machine Learning (stat.ML),319
-Audio and Speech Processing (eess.AS),295
+Audio and Speech Processing (eess.AS),296
 Social and Information Networks (cs.SI),268
 Systems and Control (eess.SY),266
 Multiagent Systems (cs.MA),249
 Networking and Internet Architecture (cs.NI),234
 "Distributed, Parallel, and Cluster Computing (cs.DC)",232
 Computer Science and Game Theory (cs.GT),218
-Quantum Physics (quant-ph),188
+Quantum Physics (quant-ph),189
 Logic in Computer Science (cs.LO),173
 Databases (cs.DB),164
-Neurons and Cognition (q-bio.NC),160
+Neurons and Cognition (q-bio.NC),161
 Optimization and Control (math.OC),143
 Information Theory (cs.IT),135
-Hardware Architecture (cs.AR),108
+Hardware Architecture (cs.AR),109
 Quantitative Methods (q-bio.QM),85
 Methodology (stat.ME),66
 Digital Libraries (cs.DL),59
