@@ -1,40 +1,40 @@
 subject,frequency
-Machine Learning (cs.LG),12149
-Computer Vision and Pattern Recognition (cs.CV),7139
-Artificial Intelligence (cs.AI),6994
-Computation and Language (cs.CL),6522
-Robotics (cs.RO),1986
-Information Retrieval (cs.IR),897
-Cryptography and Security (cs.CR),836
-Human-Computer Interaction (cs.HC),720
-Computers and Society (cs.CY),659
+Machine Learning (cs.LG),12197
+Computer Vision and Pattern Recognition (cs.CV),7155
+Artificial Intelligence (cs.AI),7004
+Computation and Language (cs.CL),6567
+Robotics (cs.RO),1999
+Information Retrieval (cs.IR),900
+Cryptography and Security (cs.CR),839
+Human-Computer Interaction (cs.HC),729
+Computers and Society (cs.CY),660
 Neural and Evolutionary Computing (cs.NE),588
-Software Engineering (cs.SE),561
-Sound (cs.SD),546
-Image and Video Processing (eess.IV),404
+Software Engineering (cs.SE),562
+Sound (cs.SD),549
+Image and Video Processing (eess.IV),405
 Signal Processing (eess.SP),372
-Machine Learning (stat.ML),334
+Machine Learning (stat.ML),338
 Audio and Speech Processing (eess.AS),308
-Social and Information Networks (cs.SI),279
+Social and Information Networks (cs.SI),280
 Systems and Control (eess.SY),273
 Multiagent Systems (cs.MA),256
 Networking and Internet Architecture (cs.NI),244
-"Distributed, Parallel, and Cluster Computing (cs.DC)",239
+"Distributed, Parallel, and Cluster Computing (cs.DC)",240
 Computer Science and Game Theory (cs.GT),227
 Quantum Physics (quant-ph),198
 Logic in Computer Science (cs.LO),177
-Neurons and Cognition (q-bio.NC),170
+Neurons and Cognition (q-bio.NC),171
 Databases (cs.DB),170
-Optimization and Control (math.OC),151
-Information Theory (cs.IT),140
+Optimization and Control (math.OC),152
+Information Theory (cs.IT),142
 Hardware Architecture (cs.AR),111
 Quantitative Methods (q-bio.QM),86
 Methodology (stat.ME),67
 Digital Libraries (cs.DL),59
-Graphics (cs.GR),59
+Biomolecules (q-bio.BM),59
 Data Structures and Algorithms (cs.DS),59
-Biomolecules (q-bio.BM),58
-Multimedia (cs.MM),48
+Graphics (cs.GR),59
+Multimedia (cs.MM),49
 Programming Languages (cs.PL),47
 Statistical Finance (q-fin.ST),41
 Genomics (q-bio.GN),40
