@@ -1,45 +1,45 @@
 subject,frequency
-Machine Learning (cs.LG),12358
-Computer Vision and Pattern Recognition (cs.CV),7244
-Artificial Intelligence (cs.AI),7126
-Computation and Language (cs.CL),6728
-Robotics (cs.RO),2022
-Information Retrieval (cs.IR),912
-Cryptography and Security (cs.CR),844
-Human-Computer Interaction (cs.HC),736
+Machine Learning (cs.LG),12375
+Computer Vision and Pattern Recognition (cs.CV),7257
+Artificial Intelligence (cs.AI),7141
+Computation and Language (cs.CL),6740
+Robotics (cs.RO),2024
+Information Retrieval (cs.IR),913
+Cryptography and Security (cs.CR),846
+Human-Computer Interaction (cs.HC),737
 Computers and Society (cs.CY),665
 Neural and Evolutionary Computing (cs.NE),588
-Software Engineering (cs.SE),571
+Software Engineering (cs.SE),572
 Sound (cs.SD),553
 Image and Video Processing (eess.IV),409
 Signal Processing (eess.SP),375
-Machine Learning (stat.ML),343
-Audio and Speech Processing (eess.AS),308
+Machine Learning (stat.ML),344
+Audio and Speech Processing (eess.AS),309
 Social and Information Networks (cs.SI),282
 Systems and Control (eess.SY),273
-Multiagent Systems (cs.MA),257
+Multiagent Systems (cs.MA),258
 Networking and Internet Architecture (cs.NI),246
 "Distributed, Parallel, and Cluster Computing (cs.DC)",240
-Computer Science and Game Theory (cs.GT),229
+Computer Science and Game Theory (cs.GT),230
 Quantum Physics (quant-ph),198
 Logic in Computer Science (cs.LO),179
 Neurons and Cognition (q-bio.NC),174
 Databases (cs.DB),171
-Optimization and Control (math.OC),152
+Optimization and Control (math.OC),153
 Information Theory (cs.IT),144
 Hardware Architecture (cs.AR),113
 Quantitative Methods (q-bio.QM),90
 Methodology (stat.ME),68
+Data Structures and Algorithms (cs.DS),61
 Biomolecules (q-bio.BM),60
 Digital Libraries (cs.DL),60
 Graphics (cs.GR),60
-Data Structures and Algorithms (cs.DS),60
 Programming Languages (cs.PL),49
 Multimedia (cs.MM),49
 Statistical Finance (q-fin.ST),41
+"Computational Engineering, Finance, and Science (cs.CE)",41
 Genomics (q-bio.GN),41
-Numerical Analysis (math.NA),40
-"Computational Engineering, Finance, and Science (cs.CE)",40
+Numerical Analysis (math.NA),41
 Computational Complexity (cs.CC),38
 Atmospheric and Oceanic Physics (physics.ao-ph),33
 Instrumentation and Methods for Astrophysics (astro-ph.IM),33
