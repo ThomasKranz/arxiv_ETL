@@ -1,20 +1,20 @@
 subject,frequency
-Machine Learning (cs.LG),12375
-Computer Vision and Pattern Recognition (cs.CV),7257
-Artificial Intelligence (cs.AI),7141
-Computation and Language (cs.CL),6740
-Robotics (cs.RO),2024
-Information Retrieval (cs.IR),913
-Cryptography and Security (cs.CR),846
-Human-Computer Interaction (cs.HC),737
-Computers and Society (cs.CY),665
+Machine Learning (cs.LG),12407
+Computer Vision and Pattern Recognition (cs.CV),7275
+Artificial Intelligence (cs.AI),7148
+Computation and Language (cs.CL),6753
+Robotics (cs.RO),2036
+Information Retrieval (cs.IR),914
+Cryptography and Security (cs.CR),850
+Human-Computer Interaction (cs.HC),739
+Computers and Society (cs.CY),666
 Neural and Evolutionary Computing (cs.NE),588
-Software Engineering (cs.SE),572
-Sound (cs.SD),553
+Software Engineering (cs.SE),573
+Sound (cs.SD),554
 Image and Video Processing (eess.IV),409
 Signal Processing (eess.SP),375
-Machine Learning (stat.ML),344
-Audio and Speech Processing (eess.AS),309
+Machine Learning (stat.ML),345
+Audio and Speech Processing (eess.AS),310
 Social and Information Networks (cs.SI),282
 Systems and Control (eess.SY),273
 Multiagent Systems (cs.MA),258
@@ -22,7 +22,7 @@ Networking and Internet Architecture (cs.NI),246
 "Distributed, Parallel, and Cluster Computing (cs.DC)",240
 Computer Science and Game Theory (cs.GT),230
 Quantum Physics (quant-ph),198
-Logic in Computer Science (cs.LO),179
+Logic in Computer Science (cs.LO),180
 Neurons and Cognition (q-bio.NC),174
 Databases (cs.DB),171
 Optimization and Control (math.OC),153
@@ -59,8 +59,8 @@ Geophysics (physics.geo-ph),16
 Theoretical Economics (econ.TH),16
 Portfolio Management (q-fin.PM),14
 Earth and Planetary Astrophysics (astro-ph.EP),13
+Statistics Theory (math.ST),11
 Other Computer Science (cs.OH),11
-Statistics Theory (math.ST),10
 Optics (physics.optics),10
 Populations and Evolution (q-bio.PE),9
 Disordered Systems and Neural Networks (cond-mat.dis-nn),9
