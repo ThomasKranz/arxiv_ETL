@@ -1,27 +1,27 @@
 subject,frequency
-Machine Learning (cs.LG),12520
-Computer Vision and Pattern Recognition (cs.CV),7335
-Artificial Intelligence (cs.AI),7188
-Computation and Language (cs.CL),6821
-Robotics (cs.RO),2053
-Information Retrieval (cs.IR),923
-Cryptography and Security (cs.CR),857
-Human-Computer Interaction (cs.HC),746
-Computers and Society (cs.CY),669
-Neural and Evolutionary Computing (cs.NE),589
-Software Engineering (cs.SE),583
+Machine Learning (cs.LG),12539
+Computer Vision and Pattern Recognition (cs.CV),7345
+Artificial Intelligence (cs.AI),7192
+Computation and Language (cs.CL),6857
+Robotics (cs.RO),2055
+Information Retrieval (cs.IR),925
+Cryptography and Security (cs.CR),858
+Human-Computer Interaction (cs.HC),747
+Computers and Society (cs.CY),670
+Neural and Evolutionary Computing (cs.NE),590
+Software Engineering (cs.SE),584
 Sound (cs.SD),558
-Image and Video Processing (eess.IV),409
+Image and Video Processing (eess.IV),410
 Signal Processing (eess.SP),379
 Machine Learning (stat.ML),347
 Audio and Speech Processing (eess.AS),311
 Social and Information Networks (cs.SI),283
 Systems and Control (eess.SY),274
 Multiagent Systems (cs.MA),260
-Networking and Internet Architecture (cs.NI),248
+Networking and Internet Architecture (cs.NI),249
 "Distributed, Parallel, and Cluster Computing (cs.DC)",242
 Computer Science and Game Theory (cs.GT),230
-Quantum Physics (quant-ph),200
+Quantum Physics (quant-ph),202
 Logic in Computer Science (cs.LO),181
 Neurons and Cognition (q-bio.NC),175
 Databases (cs.DB),174
@@ -31,9 +31,9 @@ Hardware Architecture (cs.AR),114
 Quantitative Methods (q-bio.QM),91
 Methodology (stat.ME),68
 Biomolecules (q-bio.BM),63
+Data Structures and Algorithms (cs.DS),62
 Graphics (cs.GR),61
-Data Structures and Algorithms (cs.DS),61
-Digital Libraries (cs.DL),60
+Digital Libraries (cs.DL),61
 Programming Languages (cs.PL),50
 Multimedia (cs.MM),49
 Genomics (q-bio.GN),44
@@ -57,7 +57,7 @@ Computational Finance (q-fin.CP),20
 Formal Languages and Automata Theory (cs.FL),19
 Geophysics (physics.geo-ph),16
 Theoretical Economics (econ.TH),16
-Portfolio Management (q-fin.PM),14
+Portfolio Management (q-fin.PM),15
 Earth and Planetary Astrophysics (astro-ph.EP),13
 Other Computer Science (cs.OH),12
 Statistics Theory (math.ST),11
