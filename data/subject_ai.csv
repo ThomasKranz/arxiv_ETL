@@ -1,32 +1,32 @@
 subject,frequency
-Machine Learning (cs.LG),12539
-Computer Vision and Pattern Recognition (cs.CV),7345
-Artificial Intelligence (cs.AI),7192
-Computation and Language (cs.CL),6857
-Robotics (cs.RO),2055
-Information Retrieval (cs.IR),925
+Machine Learning (cs.LG),12552
+Computer Vision and Pattern Recognition (cs.CV),7351
+Artificial Intelligence (cs.AI),7201
+Computation and Language (cs.CL),6870
+Robotics (cs.RO),2057
+Information Retrieval (cs.IR),928
 Cryptography and Security (cs.CR),858
 Human-Computer Interaction (cs.HC),747
-Computers and Society (cs.CY),670
-Neural and Evolutionary Computing (cs.NE),590
+Computers and Society (cs.CY),674
+Neural and Evolutionary Computing (cs.NE),591
 Software Engineering (cs.SE),584
 Sound (cs.SD),558
 Image and Video Processing (eess.IV),410
 Signal Processing (eess.SP),379
-Machine Learning (stat.ML),347
+Machine Learning (stat.ML),348
 Audio and Speech Processing (eess.AS),311
 Social and Information Networks (cs.SI),283
 Systems and Control (eess.SY),274
 Multiagent Systems (cs.MA),260
-Networking and Internet Architecture (cs.NI),249
+Networking and Internet Architecture (cs.NI),250
 "Distributed, Parallel, and Cluster Computing (cs.DC)",242
 Computer Science and Game Theory (cs.GT),230
 Quantum Physics (quant-ph),202
 Logic in Computer Science (cs.LO),181
 Neurons and Cognition (q-bio.NC),175
 Databases (cs.DB),174
-Optimization and Control (math.OC),155
-Information Theory (cs.IT),146
+Optimization and Control (math.OC),156
+Information Theory (cs.IT),147
 Hardware Architecture (cs.AR),114
 Quantitative Methods (q-bio.QM),91
 Methodology (stat.ME),68
@@ -37,9 +37,9 @@ Digital Libraries (cs.DL),61
 Programming Languages (cs.PL),50
 Multimedia (cs.MM),49
 Genomics (q-bio.GN),44
+"Computational Engineering, Finance, and Science (cs.CE)",42
+Statistical Finance (q-fin.ST),42
 Numerical Analysis (math.NA),41
-"Computational Engineering, Finance, and Science (cs.CE)",41
-Statistical Finance (q-fin.ST),41
 Computational Complexity (cs.CC),38
 Atmospheric and Oceanic Physics (physics.ao-ph),34
 Instrumentation and Methods for Astrophysics (astro-ph.IM),33
