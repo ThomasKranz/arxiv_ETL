@@ -1,54 +1,54 @@
 subject,frequency
-Machine Learning (cs.LG),12710
-Computer Vision and Pattern Recognition (cs.CV),7502
-Artificial Intelligence (cs.AI),7357
-Computation and Language (cs.CL),7078
-Robotics (cs.RO),2084
+Machine Learning (cs.LG),12732
+Computer Vision and Pattern Recognition (cs.CV),7536
+Artificial Intelligence (cs.AI),7383
+Computation and Language (cs.CL),7086
+Robotics (cs.RO),2088
 Information Retrieval (cs.IR),950
-Cryptography and Security (cs.CR),875
+Cryptography and Security (cs.CR),878
 Human-Computer Interaction (cs.HC),767
-Computers and Society (cs.CY),695
-Neural and Evolutionary Computing (cs.NE),598
+Computers and Society (cs.CY),696
+Neural and Evolutionary Computing (cs.NE),602
 Software Engineering (cs.SE),595
 Sound (cs.SD),565
-Image and Video Processing (eess.IV),417
+Image and Video Processing (eess.IV),418
 Signal Processing (eess.SP),381
-Machine Learning (stat.ML),351
+Machine Learning (stat.ML),352
 Audio and Speech Processing (eess.AS),313
 Social and Information Networks (cs.SI),290
 Systems and Control (eess.SY),282
 Multiagent Systems (cs.MA),261
-Networking and Internet Architecture (cs.NI),253
-"Distributed, Parallel, and Cluster Computing (cs.DC)",246
+Networking and Internet Architecture (cs.NI),254
+"Distributed, Parallel, and Cluster Computing (cs.DC)",249
 Computer Science and Game Theory (cs.GT),232
-Quantum Physics (quant-ph),209
+Quantum Physics (quant-ph),211
 Logic in Computer Science (cs.LO),184
+Databases (cs.DB),177
 Neurons and Cognition (q-bio.NC),176
-Databases (cs.DB),176
-Optimization and Control (math.OC),157
+Optimization and Control (math.OC),158
 Information Theory (cs.IT),150
 Hardware Architecture (cs.AR),115
 Quantitative Methods (q-bio.QM),94
 Methodology (stat.ME),69
-Biomolecules (q-bio.BM),65
+Biomolecules (q-bio.BM),66
 Graphics (cs.GR),63
 Digital Libraries (cs.DL),62
 Data Structures and Algorithms (cs.DS),62
 Programming Languages (cs.PL),51
-Multimedia (cs.MM),50
+Multimedia (cs.MM),51
 Statistical Finance (q-fin.ST),45
 Genomics (q-bio.GN),45
 "Computational Engineering, Finance, and Science (cs.CE)",42
 Numerical Analysis (math.NA),41
 Computational Complexity (cs.CC),38
 Atmospheric and Oceanic Physics (physics.ao-ph),34
+Materials Science (cond-mat.mtrl-sci),33
 Instrumentation and Methods for Astrophysics (astro-ph.IM),33
 Emerging Technologies (cs.ET),33
-Materials Science (cond-mat.mtrl-sci),32
 Computational Physics (physics.comp-ph),29
+General Economics (econ.GN),27
 Medical Physics (physics.med-ph),26
 Fluid Dynamics (physics.flu-dyn),26
-General Economics (econ.GN),26
 Chemical Physics (physics.chem-ph),24
 Applications (stat.AP),24
 Physics and Society (physics.soc-ph),22
@@ -61,7 +61,7 @@ Portfolio Management (q-fin.PM),16
 Earth and Planetary Astrophysics (astro-ph.EP),13
 Other Computer Science (cs.OH),12
 Statistics Theory (math.ST),11
-Populations and Evolution (q-bio.PE),10
+Populations and Evolution (q-bio.PE),11
 Cosmology and Nongalactic Astrophysics (astro-ph.CO),10
 Disordered Systems and Neural Networks (cond-mat.dis-nn),10
 Optics (physics.optics),10
