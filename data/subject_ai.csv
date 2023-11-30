@@ -1,19 +1,19 @@
 subject,frequency
-Machine Learning (cs.LG),12811
-Computer Vision and Pattern Recognition (cs.CV),7623
-Artificial Intelligence (cs.AI),7423
-Computation and Language (cs.CL),7127
-Robotics (cs.RO),2100
+Machine Learning (cs.LG),12829
+Computer Vision and Pattern Recognition (cs.CV),7651
+Artificial Intelligence (cs.AI),7433
+Computation and Language (cs.CL),7144
+Robotics (cs.RO),2102
 Information Retrieval (cs.IR),953
-Cryptography and Security (cs.CR),892
+Cryptography and Security (cs.CR),893
 Human-Computer Interaction (cs.HC),773
-Computers and Society (cs.CY),716
+Computers and Society (cs.CY),717
 Neural and Evolutionary Computing (cs.NE),607
 Software Engineering (cs.SE),601
 Sound (cs.SD),567
 Image and Video Processing (eess.IV),427
-Signal Processing (eess.SP),383
-Machine Learning (stat.ML),352
+Signal Processing (eess.SP),384
+Machine Learning (stat.ML),353
 Audio and Speech Processing (eess.AS),313
 Social and Information Networks (cs.SI),290
 Systems and Control (eess.SY),287
@@ -21,14 +21,14 @@ Multiagent Systems (cs.MA),263
 Networking and Internet Architecture (cs.NI),258
 "Distributed, Parallel, and Cluster Computing (cs.DC)",251
 Computer Science and Game Theory (cs.GT),234
-Quantum Physics (quant-ph),215
+Quantum Physics (quant-ph),216
 Logic in Computer Science (cs.LO),184
 Databases (cs.DB),179
 Neurons and Cognition (q-bio.NC),177
 Optimization and Control (math.OC),158
 Information Theory (cs.IT),151
-Hardware Architecture (cs.AR),116
-Quantitative Methods (q-bio.QM),94
+Hardware Architecture (cs.AR),118
+Quantitative Methods (q-bio.QM),95
 Methodology (stat.ME),69
 Biomolecules (q-bio.BM),68
 Digital Libraries (cs.DL),64
@@ -36,8 +36,8 @@ Graphics (cs.GR),63
 Data Structures and Algorithms (cs.DS),62
 Multimedia (cs.MM),52
 Programming Languages (cs.PL),51
+Genomics (q-bio.GN),46
 Statistical Finance (q-fin.ST),45
-Genomics (q-bio.GN),45
 Numerical Analysis (math.NA),42
 "Computational Engineering, Finance, and Science (cs.CE)",42
 Computational Complexity (cs.CC),38
@@ -50,7 +50,7 @@ General Economics (econ.GN),27
 Medical Physics (physics.med-ph),26
 Fluid Dynamics (physics.flu-dyn),26
 Chemical Physics (physics.chem-ph),25
-Applications (stat.AP),24
+Applications (stat.AP),25
 Physics and Society (physics.soc-ph),23
 Trading and Market Microstructure (q-fin.TR),21
 Computational Finance (q-fin.CP),21
@@ -106,9 +106,10 @@ Popular Physics (physics.pop-ph),2
 Geometric Topology (math.GT),2
 General Literature (cs.GL),2
 Nuclear Experiment (nucl-ex),2
+Operating Systems (cs.OS),2
 Accelerator Physics (physics.acc-ph),2
+"Computational Engineering, Finance, and Science (cs.CE) ",1
 Other Statistics (stat.OT) ,1
-Mathematical Finance (q-fin.MF),1
 Tissues and Organs (q-bio.TO),1
 General Topology (math.GN),1
 Cellular Automata and Lattice Gases (nlin.CG),1
@@ -116,13 +117,12 @@ General Physics (physics.gen-ph),1
 Subcellular Processes (q-bio.SC),1
 Strongly Correlated Electrons (cond-mat.str-el),1
 Materials Science (cond-mat.mtrl-sci) ,1
+Mathematical Finance (q-fin.MF),1
 Analysis of PDEs (math.AP),1
-"Computational Engineering, Finance, and Science (cs.CE) ",1
 Space Physics (physics.space-ph),1
 Classical Analysis and ODEs (math.CA),1
 Differential Geometry (math.DG),1
 Representation Theory (math.RT),1
 Soft Condensed Matter (cond-mat.soft),1
-Operating Systems (cs.OS),1
 Rings and Algebras (math.RA),1
 Mathematical Physics (math-ph),1
