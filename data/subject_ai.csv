@@ -1,22 +1,22 @@
 subject,frequency
-Machine Learning (cs.LG),12937
-Computer Vision and Pattern Recognition (cs.CV),7760
-Artificial Intelligence (cs.AI),7467
-Computation and Language (cs.CL),7192
-Robotics (cs.RO),2117
+Machine Learning (cs.LG),12959
+Computer Vision and Pattern Recognition (cs.CV),7777
+Artificial Intelligence (cs.AI),7480
+Computation and Language (cs.CL),7196
+Robotics (cs.RO),2122
 Information Retrieval (cs.IR),959
-Cryptography and Security (cs.CR),906
-Human-Computer Interaction (cs.HC),782
-Computers and Society (cs.CY),729
+Cryptography and Security (cs.CR),907
+Human-Computer Interaction (cs.HC),785
+Computers and Society (cs.CY),730
 Neural and Evolutionary Computing (cs.NE),608
 Software Engineering (cs.SE),604
-Sound (cs.SD),570
-Image and Video Processing (eess.IV),428
+Sound (cs.SD),572
+Image and Video Processing (eess.IV),430
 Signal Processing (eess.SP),387
-Machine Learning (stat.ML),358
-Audio and Speech Processing (eess.AS),314
+Machine Learning (stat.ML),359
+Audio and Speech Processing (eess.AS),315
 Social and Information Networks (cs.SI),292
-Systems and Control (eess.SY),289
+Systems and Control (eess.SY),290
 Multiagent Systems (cs.MA),263
 Networking and Internet Architecture (cs.NI),258
 "Distributed, Parallel, and Cluster Computing (cs.DC)",252
@@ -37,12 +37,12 @@ Data Structures and Algorithms (cs.DS),62
 Multimedia (cs.MM),52
 Programming Languages (cs.PL),51
 Genomics (q-bio.GN),46
+"Computational Engineering, Finance, and Science (cs.CE)",45
 Statistical Finance (q-fin.ST),45
-"Computational Engineering, Finance, and Science (cs.CE)",44
 Numerical Analysis (math.NA),42
 Computational Complexity (cs.CC),38
 Atmospheric and Oceanic Physics (physics.ao-ph),37
-Materials Science (cond-mat.mtrl-sci),35
+Materials Science (cond-mat.mtrl-sci),36
 Instrumentation and Methods for Astrophysics (astro-ph.IM),35
 Emerging Technologies (cs.ET),33
 Computational Physics (physics.comp-ph),29
@@ -51,7 +51,7 @@ General Economics (econ.GN),27
 Fluid Dynamics (physics.flu-dyn),26
 Applications (stat.AP),26
 Chemical Physics (physics.chem-ph),25
-Physics and Society (physics.soc-ph),23
+Physics and Society (physics.soc-ph),24
 Trading and Market Microstructure (q-fin.TR),21
 Computational Finance (q-fin.CP),21
 Formal Languages and Automata Theory (cs.FL),20
