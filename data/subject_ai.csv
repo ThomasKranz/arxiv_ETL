@@ -1,48 +1,48 @@
 subject,frequency
-Machine Learning (cs.LG),13129
-Computer Vision and Pattern Recognition (cs.CV),7908
-Artificial Intelligence (cs.AI),7661
-Computation and Language (cs.CL),7313
-Robotics (cs.RO),2155
-Information Retrieval (cs.IR),969
-Cryptography and Security (cs.CR),932
-Human-Computer Interaction (cs.HC),794
-Computers and Society (cs.CY),736
-Software Engineering (cs.SE),612
+Machine Learning (cs.LG),13176
+Computer Vision and Pattern Recognition (cs.CV),7939
+Artificial Intelligence (cs.AI),7690
+Computation and Language (cs.CL),7339
+Robotics (cs.RO),2162
+Information Retrieval (cs.IR),978
+Cryptography and Security (cs.CR),936
+Human-Computer Interaction (cs.HC),798
+Computers and Society (cs.CY),741
+Software Engineering (cs.SE),616
 Neural and Evolutionary Computing (cs.NE),612
-Sound (cs.SD),579
-Image and Video Processing (eess.IV),435
-Signal Processing (eess.SP),399
+Sound (cs.SD),588
+Image and Video Processing (eess.IV),436
+Signal Processing (eess.SP),400
 Machine Learning (stat.ML),362
 Audio and Speech Processing (eess.AS),317
-Social and Information Networks (cs.SI),297
-Systems and Control (eess.SY),293
-Multiagent Systems (cs.MA),266
-Networking and Internet Architecture (cs.NI),262
-"Distributed, Parallel, and Cluster Computing (cs.DC)",256
-Computer Science and Game Theory (cs.GT),237
+Social and Information Networks (cs.SI),300
+Systems and Control (eess.SY),295
+Multiagent Systems (cs.MA),268
+Networking and Internet Architecture (cs.NI),263
+"Distributed, Parallel, and Cluster Computing (cs.DC)",260
+Computer Science and Game Theory (cs.GT),240
 Quantum Physics (quant-ph),220
 Logic in Computer Science (cs.LO),187
-Databases (cs.DB),183
+Databases (cs.DB),184
 Neurons and Cognition (q-bio.NC),179
 Optimization and Control (math.OC),163
 Information Theory (cs.IT),159
-Hardware Architecture (cs.AR),121
+Hardware Architecture (cs.AR),122
 Quantitative Methods (q-bio.QM),97
-Biomolecules (q-bio.BM),70
-Methodology (stat.ME),70
+Methodology (stat.ME),73
+Biomolecules (q-bio.BM),71
 Data Structures and Algorithms (cs.DS),66
 Digital Libraries (cs.DL),65
 Graphics (cs.GR),64
-Multimedia (cs.MM),53
+Multimedia (cs.MM),55
 Programming Languages (cs.PL),52
 "Computational Engineering, Finance, and Science (cs.CE)",46
 Genomics (q-bio.GN),46
 Statistical Finance (q-fin.ST),45
-Numerical Analysis (math.NA),42
+Numerical Analysis (math.NA),43
 Computational Complexity (cs.CC),40
 Atmospheric and Oceanic Physics (physics.ao-ph),39
-Materials Science (cond-mat.mtrl-sci),37
+Materials Science (cond-mat.mtrl-sci),38
 Instrumentation and Methods for Astrophysics (astro-ph.IM),35
 Emerging Technologies (cs.ET),34
 Medical Physics (physics.med-ph),29
@@ -55,9 +55,9 @@ Physics and Society (physics.soc-ph),24
 Trading and Market Microstructure (q-fin.TR),21
 Computational Finance (q-fin.CP),21
 Formal Languages and Automata Theory (cs.FL),20
+Geophysics (physics.geo-ph),17
 Theoretical Economics (econ.TH),17
 Portfolio Management (q-fin.PM),17
-Geophysics (physics.geo-ph),16
 Earth and Planetary Astrophysics (astro-ph.EP),13
 Populations and Evolution (q-bio.PE),12
 Other Computer Science (cs.OH),12
