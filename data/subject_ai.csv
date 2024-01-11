@@ -1,23 +1,23 @@
 subject,frequency
-Machine Learning (cs.LG),13496
-Computer Vision and Pattern Recognition (cs.CV),8164
-Artificial Intelligence (cs.AI),7886
-Computation and Language (cs.CL),7566
-Robotics (cs.RO),2197
-Information Retrieval (cs.IR),1013
-Cryptography and Security (cs.CR),973
-Human-Computer Interaction (cs.HC),819
+Machine Learning (cs.LG),13506
+Computer Vision and Pattern Recognition (cs.CV),8171
+Artificial Intelligence (cs.AI),7889
+Computation and Language (cs.CL),7580
+Robotics (cs.RO),2200
+Information Retrieval (cs.IR),1015
+Cryptography and Security (cs.CR),975
+Human-Computer Interaction (cs.HC),821
 Computers and Society (cs.CY),749
 Software Engineering (cs.SE),656
 Neural and Evolutionary Computing (cs.NE),630
-Sound (cs.SD),608
+Sound (cs.SD),610
 Image and Video Processing (eess.IV),449
 Signal Processing (eess.SP),401
 Machine Learning (stat.ML),369
 Audio and Speech Processing (eess.AS),328
 Social and Information Networks (cs.SI),313
-Systems and Control (eess.SY),305
-Multiagent Systems (cs.MA),277
+Systems and Control (eess.SY),306
+Multiagent Systems (cs.MA),279
 Networking and Internet Architecture (cs.NI),276
 "Distributed, Parallel, and Cluster Computing (cs.DC)",275
 Computer Science and Game Theory (cs.GT),245
@@ -37,7 +37,7 @@ Data Structures and Algorithms (cs.DS),66
 Multimedia (cs.MM),60
 Programming Languages (cs.PL),53
 Genomics (q-bio.GN),50
-"Computational Engineering, Finance, and Science (cs.CE)",48
+"Computational Engineering, Finance, and Science (cs.CE)",49
 Numerical Analysis (math.NA),47
 Statistical Finance (q-fin.ST),46
 Atmospheric and Oceanic Physics (physics.ao-ph),43
@@ -57,7 +57,7 @@ Trading and Market Microstructure (q-fin.TR),21
 Formal Languages and Automata Theory (cs.FL),20
 Geophysics (physics.geo-ph),19
 Portfolio Management (q-fin.PM),18
-Theoretical Economics (econ.TH),17
+Theoretical Economics (econ.TH),18
 Populations and Evolution (q-bio.PE),13
 Earth and Planetary Astrophysics (astro-ph.EP),13
 Other Computer Science (cs.OH),12
@@ -66,42 +66,42 @@ Optics (physics.optics),11
 Cosmology and Nongalactic Astrophysics (astro-ph.CO),10
 Disordered Systems and Neural Networks (cond-mat.dis-nn),10
 Astrophysics of Galaxies (astro-ph.GA),8
+Econometrics (econ.EM),8
 Combinatorics (math.CO),8
-Plasma Physics (physics.plasm-ph),7
-Category Theory (math.CT),7
-Econometrics (econ.EM),7
 Logic (math.LO),7
+Category Theory (math.CT),7
+Plasma Physics (physics.plasm-ph),7
 Solar and Stellar Astrophysics (astro-ph.SR),7
-History and Overview (math.HO),6
+"Data Analysis, Statistics and Probability (physics.data-an)",7
 Dynamical Systems (math.DS),6
-Computational Geometry (cs.CG),6
-"Data Analysis, Statistics and Probability (physics.data-an)",6
-Discrete Mathematics (cs.DM),6
-Performance (cs.PF),6
-Molecular Networks (q-bio.MN),6
 High Energy Physics - Experiment (hep-ex),6
-Statistical Mechanics (cond-mat.stat-mech),6
-Algebraic Topology (math.AT),6
+Performance (cs.PF),6
+Computational Geometry (cs.CG),6
+Discrete Mathematics (cs.DM),6
+Molecular Networks (q-bio.MN),6
+History and Overview (math.HO),6
 General Finance (q-fin.GN),6
 Instrumentation and Detectors (physics.ins-det),6
+Algebraic Topology (math.AT),6
+Statistical Mechanics (cond-mat.stat-mech),6
 Risk Management (q-fin.RM),5
-General Relativity and Quantum Cosmology (gr-qc),5
 Adaptation and Self-Organizing Systems (nlin.AO),5
-History and Philosophy of Physics (physics.hist-ph),5
 High Energy Astrophysical Phenomena (astro-ph.HE),5
-High Energy Physics - Theory (hep-th),5
 Computation (stat.CO),5
-High Energy Physics - Phenomenology (hep-ph),5
 Other Quantitative Biology (q-bio.OT),5
+High Energy Physics - Phenomenology (hep-ph),5
+High Energy Physics - Theory (hep-th),5
+History and Philosophy of Physics (physics.hist-ph),5
+General Relativity and Quantum Cosmology (gr-qc),5
+Applied Physics (physics.app-ph),4
 Symbolic Computation (cs.SC),4
 Mathematical Software (cs.MS),4
-Applied Physics (physics.app-ph),4
 Mesoscale and Nanoscale Physics (cond-mat.mes-hall),4
-Physics Education (physics.ed-ph),3
 Operating Systems (cs.OS),3
+Physics Education (physics.ed-ph),3
 Probability (math.PR),3
-Biological Physics (physics.bio-ph),2
 Audio and Speech Processing (eess.AS) ,2
+Biological Physics (physics.bio-ph),2
 Soft Condensed Matter (cond-mat.soft),2
 Accelerator Physics (physics.acc-ph),2
 Popular Physics (physics.pop-ph),2
