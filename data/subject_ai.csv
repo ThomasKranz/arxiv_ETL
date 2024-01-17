@@ -1,34 +1,34 @@
 subject,frequency
-Machine Learning (cs.LG),13552
-Computer Vision and Pattern Recognition (cs.CV),8209
-Artificial Intelligence (cs.AI),7907
-Computation and Language (cs.CL),7631
-Robotics (cs.RO),2202
-Information Retrieval (cs.IR),1023
-Cryptography and Security (cs.CR),978
-Human-Computer Interaction (cs.HC),832
-Computers and Society (cs.CY),763
-Software Engineering (cs.SE),666
-Neural and Evolutionary Computing (cs.NE),638
-Sound (cs.SD),610
-Image and Video Processing (eess.IV),453
+Machine Learning (cs.LG),13590
+Computer Vision and Pattern Recognition (cs.CV),8241
+Artificial Intelligence (cs.AI),7935
+Computation and Language (cs.CL),7686
+Robotics (cs.RO),2206
+Information Retrieval (cs.IR),1028
+Cryptography and Security (cs.CR),983
+Human-Computer Interaction (cs.HC),835
+Computers and Society (cs.CY),766
+Software Engineering (cs.SE),674
+Neural and Evolutionary Computing (cs.NE),639
+Sound (cs.SD),612
+Image and Video Processing (eess.IV),455
 Signal Processing (eess.SP),411
 Machine Learning (stat.ML),370
-Audio and Speech Processing (eess.AS),332
+Audio and Speech Processing (eess.AS),335
 Social and Information Networks (cs.SI),316
-Systems and Control (eess.SY),306
+Systems and Control (eess.SY),308
 Networking and Internet Architecture (cs.NI),280
 Multiagent Systems (cs.MA),279
-"Distributed, Parallel, and Cluster Computing (cs.DC)",275
+"Distributed, Parallel, and Cluster Computing (cs.DC)",276
 Computer Science and Game Theory (cs.GT),248
-Quantum Physics (quant-ph),222
+Quantum Physics (quant-ph),224
 Databases (cs.DB),191
 Logic in Computer Science (cs.LO),189
 Neurons and Cognition (q-bio.NC),188
 Optimization and Control (math.OC),168
 Information Theory (cs.IT),163
-Hardware Architecture (cs.AR),128
-Quantitative Methods (q-bio.QM),102
+Hardware Architecture (cs.AR),129
+Quantitative Methods (q-bio.QM),103
 Biomolecules (q-bio.BM),80
 Methodology (stat.ME),73
 Graphics (cs.GR),69
@@ -36,8 +36,8 @@ Data Structures and Algorithms (cs.DS),67
 Digital Libraries (cs.DL),67
 Multimedia (cs.MM),60
 Programming Languages (cs.PL),53
+"Computational Engineering, Finance, and Science (cs.CE)",52
 Genomics (q-bio.GN),50
-"Computational Engineering, Finance, and Science (cs.CE)",50
 Statistical Finance (q-fin.ST),47
 Numerical Analysis (math.NA),47
 Materials Science (cond-mat.mtrl-sci),43
@@ -48,9 +48,9 @@ Instrumentation and Methods for Astrophysics (astro-ph.IM),35
 General Economics (econ.GN),31
 Computational Physics (physics.comp-ph),31
 Medical Physics (physics.med-ph),30
+Fluid Dynamics (physics.flu-dyn),27
 Physics and Society (physics.soc-ph),27
 Applications (stat.AP),27
-Fluid Dynamics (physics.flu-dyn),26
 Chemical Physics (physics.chem-ph),26
 Computational Finance (q-fin.CP),22
 Trading and Market Microstructure (q-fin.TR),21
@@ -101,28 +101,28 @@ Probability (math.PR),3
 Accelerator Physics (physics.acc-ph),3
 Operating Systems (cs.OS),3
 Physics Education (physics.ed-ph),3
-Nuclear Experiment (nucl-ex),2
-General Literature (cs.GL),2
+General Mathematics (math.GM),2
 Soft Condensed Matter (cond-mat.soft),2
 Audio and Speech Processing (eess.AS) ,2
 Biological Physics (physics.bio-ph),2
+Nuclear Experiment (nucl-ex),2
 Popular Physics (physics.pop-ph),2
-General Mathematics (math.GM),2
+Cellular Automata and Lattice Gases (nlin.CG),2
 Geometric Topology (math.GT),2
-Analysis of PDEs (math.AP),1
-Subcellular Processes (q-bio.SC),1
+General Literature (cs.GL),2
+Materials Science (cond-mat.mtrl-sci) ,1
 General Physics (physics.gen-ph),1
 General Topology (math.GN),1
-Strongly Correlated Electrons (cond-mat.str-el),1
 Tissues and Organs (q-bio.TO),1
-Materials Science (cond-mat.mtrl-sci) ,1
+Subcellular Processes (q-bio.SC),1
+Strongly Correlated Electrons (cond-mat.str-el),1
 Differential Geometry (math.DG),1
+Analysis of PDEs (math.AP),1
 Space Physics (physics.space-ph),1
 Mathematical Finance (q-fin.MF),1
 Mathematical Physics (math-ph),1
 Rings and Algebras (math.RA),1
 Representation Theory (math.RT),1
-Cellular Automata and Lattice Gases (nlin.CG),1
 Classical Analysis and ODEs (math.CA),1
 Other Statistics (stat.OT) ,1
 "Computational Engineering, Finance, and Science (cs.CE) ",1
