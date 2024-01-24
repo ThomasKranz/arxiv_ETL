@@ -1,33 +1,33 @@
 subject,frequency
-Machine Learning (cs.LG),13686
-Computer Vision and Pattern Recognition (cs.CV),8313
-Artificial Intelligence (cs.AI),7977
-Computation and Language (cs.CL),7735
-Robotics (cs.RO),2220
-Information Retrieval (cs.IR),1039
-Cryptography and Security (cs.CR),994
+Machine Learning (cs.LG),13699
+Computer Vision and Pattern Recognition (cs.CV),8326
+Artificial Intelligence (cs.AI),8000
+Computation and Language (cs.CL),7749
+Robotics (cs.RO),2224
+Information Retrieval (cs.IR),1040
+Cryptography and Security (cs.CR),998
 Human-Computer Interaction (cs.HC),848
 Computers and Society (cs.CY),779
-Software Engineering (cs.SE),681
+Software Engineering (cs.SE),683
 Neural and Evolutionary Computing (cs.NE),648
 Sound (cs.SD),618
-Image and Video Processing (eess.IV),459
+Image and Video Processing (eess.IV),460
 Signal Processing (eess.SP),416
 Machine Learning (stat.ML),371
-Audio and Speech Processing (eess.AS),338
+Audio and Speech Processing (eess.AS),340
 Social and Information Networks (cs.SI),319
-Systems and Control (eess.SY),310
-Multiagent Systems (cs.MA),283
+Systems and Control (eess.SY),311
+Multiagent Systems (cs.MA),288
 Networking and Internet Architecture (cs.NI),283
-"Distributed, Parallel, and Cluster Computing (cs.DC)",281
+"Distributed, Parallel, and Cluster Computing (cs.DC)",282
 Computer Science and Game Theory (cs.GT),249
 Quantum Physics (quant-ph),225
-Databases (cs.DB),192
+Databases (cs.DB),193
 Logic in Computer Science (cs.LO),191
 Neurons and Cognition (q-bio.NC),191
 Optimization and Control (math.OC),169
-Information Theory (cs.IT),164
-Hardware Architecture (cs.AR),135
+Information Theory (cs.IT),166
+Hardware Architecture (cs.AR),136
 Quantitative Methods (q-bio.QM),105
 Biomolecules (q-bio.BM),81
 Methodology (stat.ME),73
@@ -48,8 +48,8 @@ Instrumentation and Methods for Astrophysics (astro-ph.IM),36
 General Economics (econ.GN),31
 Computational Physics (physics.comp-ph),31
 Medical Physics (physics.med-ph),30
+Physics and Society (physics.soc-ph),28
 Fluid Dynamics (physics.flu-dyn),27
-Physics and Society (physics.soc-ph),27
 Applications (stat.AP),27
 Chemical Physics (physics.chem-ph),26
 Computational Finance (q-fin.CP),22
