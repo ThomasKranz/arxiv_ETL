@@ -1,23 +1,23 @@
 subject,frequency
-Machine Learning (cs.LG),13780
-Computer Vision and Pattern Recognition (cs.CV),8381
-Artificial Intelligence (cs.AI),8034
-Computation and Language (cs.CL),7824
-Robotics (cs.RO),2233
-Information Retrieval (cs.IR),1040
-Cryptography and Security (cs.CR),1004
-Human-Computer Interaction (cs.HC),864
+Machine Learning (cs.LG),13809
+Computer Vision and Pattern Recognition (cs.CV),8387
+Artificial Intelligence (cs.AI),8040
+Computation and Language (cs.CL),7838
+Robotics (cs.RO),2235
+Information Retrieval (cs.IR),1042
+Cryptography and Security (cs.CR),1007
+Human-Computer Interaction (cs.HC),869
 Computers and Society (cs.CY),787
-Software Engineering (cs.SE),694
+Software Engineering (cs.SE),696
 Neural and Evolutionary Computing (cs.NE),649
-Sound (cs.SD),624
+Sound (cs.SD),628
 Image and Video Processing (eess.IV),465
 Signal Processing (eess.SP),416
 Machine Learning (stat.ML),374
 Audio and Speech Processing (eess.AS),340
 Social and Information Networks (cs.SI),319
 Systems and Control (eess.SY),313
-Multiagent Systems (cs.MA),289
+Multiagent Systems (cs.MA),290
 "Distributed, Parallel, and Cluster Computing (cs.DC)",284
 Networking and Internet Architecture (cs.NI),284
 Computer Science and Game Theory (cs.GT),251
@@ -26,8 +26,8 @@ Databases (cs.DB),196
 Logic in Computer Science (cs.LO),192
 Neurons and Cognition (q-bio.NC),191
 Optimization and Control (math.OC),170
-Information Theory (cs.IT),167
-Hardware Architecture (cs.AR),136
+Information Theory (cs.IT),168
+Hardware Architecture (cs.AR),137
 Quantitative Methods (q-bio.QM),106
 Biomolecules (q-bio.BM),82
 Methodology (stat.ME),73
@@ -85,11 +85,11 @@ Instrumentation and Detectors (physics.ins-det),6
 Performance (cs.PF),6
 High Energy Physics - Experiment (hep-ex),6
 Statistical Mechanics (cond-mat.stat-mech),6
+Risk Management (q-fin.RM),6
 High Energy Physics - Theory (hep-th),5
 Other Quantitative Biology (q-bio.OT),5
 High Energy Physics - Phenomenology (hep-ph),5
 Adaptation and Self-Organizing Systems (nlin.AO),5
-Risk Management (q-fin.RM),5
 History and Philosophy of Physics (physics.hist-ph),5
 General Relativity and Quantum Cosmology (gr-qc),5
 Computation (stat.CO),5
