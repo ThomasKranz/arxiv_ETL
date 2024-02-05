@@ -1,29 +1,29 @@
 subject,frequency
-Machine Learning (cs.LG),13857
-Computer Vision and Pattern Recognition (cs.CV),8403
-Artificial Intelligence (cs.AI),8067
-Computation and Language (cs.CL),7865
+Machine Learning (cs.LG),13898
+Computer Vision and Pattern Recognition (cs.CV),8417
+Artificial Intelligence (cs.AI),8074
+Computation and Language (cs.CL),7881
 Robotics (cs.RO),2249
 Information Retrieval (cs.IR),1045
-Cryptography and Security (cs.CR),1011
-Human-Computer Interaction (cs.HC),874
-Computers and Society (cs.CY),792
+Cryptography and Security (cs.CR),1016
+Human-Computer Interaction (cs.HC),875
+Computers and Society (cs.CY),793
 Software Engineering (cs.SE),700
-Neural and Evolutionary Computing (cs.NE),657
-Sound (cs.SD),628
+Neural and Evolutionary Computing (cs.NE),658
+Sound (cs.SD),630
 Image and Video Processing (eess.IV),465
 Signal Processing (eess.SP),416
 Machine Learning (stat.ML),374
-Audio and Speech Processing (eess.AS),342
+Audio and Speech Processing (eess.AS),344
 Social and Information Networks (cs.SI),319
-Systems and Control (eess.SY),313
-Multiagent Systems (cs.MA),291
+Systems and Control (eess.SY),314
+Multiagent Systems (cs.MA),292
+Networking and Internet Architecture (cs.NI),290
 "Distributed, Parallel, and Cluster Computing (cs.DC)",287
-Networking and Internet Architecture (cs.NI),286
 Computer Science and Game Theory (cs.GT),251
 Quantum Physics (quant-ph),227
 Databases (cs.DB),196
-Logic in Computer Science (cs.LO),192
+Logic in Computer Science (cs.LO),194
 Neurons and Cognition (q-bio.NC),191
 Optimization and Control (math.OC),171
 Information Theory (cs.IT),168
@@ -78,21 +78,21 @@ Category Theory (math.CT),7
 Plasma Physics (physics.plasm-ph),7
 Performance (cs.PF),6
 Algebraic Topology (math.AT),6
+Risk Management (q-fin.RM),6
 Dynamical Systems (math.DS),6
 Molecular Networks (q-bio.MN),6
 Statistical Mechanics (cond-mat.stat-mech),6
 Discrete Mathematics (cs.DM),6
 High Energy Physics - Experiment (hep-ex),6
 Instrumentation and Detectors (physics.ins-det),6
-High Energy Astrophysical Phenomena (astro-ph.HE),6
-Risk Management (q-fin.RM),6
-General Finance (q-fin.GN),6
 Other Quantitative Biology (q-bio.OT),6
-History and Philosophy of Physics (physics.hist-ph),5
+High Energy Astrophysical Phenomena (astro-ph.HE),6
+General Finance (q-fin.GN),6
+High Energy Physics - Theory (hep-th),6
 General Relativity and Quantum Cosmology (gr-qc),5
+History and Philosophy of Physics (physics.hist-ph),5
 Computation (stat.CO),5
 Adaptation and Self-Organizing Systems (nlin.AO),5
-High Energy Physics - Theory (hep-th),5
 High Energy Physics - Phenomenology (hep-ph),5
 Mesoscale and Nanoscale Physics (cond-mat.mes-hall),4
 Applied Physics (physics.app-ph),4
