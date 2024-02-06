@@ -1,33 +1,33 @@
 subject,frequency
-Machine Learning (cs.LG),13898
-Computer Vision and Pattern Recognition (cs.CV),8417
-Artificial Intelligence (cs.AI),8074
-Computation and Language (cs.CL),7881
-Robotics (cs.RO),2249
-Information Retrieval (cs.IR),1045
-Cryptography and Security (cs.CR),1016
-Human-Computer Interaction (cs.HC),875
-Computers and Society (cs.CY),793
-Software Engineering (cs.SE),700
+Machine Learning (cs.LG),13974
+Computer Vision and Pattern Recognition (cs.CV),8441
+Artificial Intelligence (cs.AI),8096
+Computation and Language (cs.CL),7925
+Robotics (cs.RO),2254
+Information Retrieval (cs.IR),1050
+Cryptography and Security (cs.CR),1017
+Human-Computer Interaction (cs.HC),878
+Computers and Society (cs.CY),796
+Software Engineering (cs.SE),703
 Neural and Evolutionary Computing (cs.NE),658
-Sound (cs.SD),630
-Image and Video Processing (eess.IV),465
+Sound (cs.SD),632
+Image and Video Processing (eess.IV),466
 Signal Processing (eess.SP),416
 Machine Learning (stat.ML),374
 Audio and Speech Processing (eess.AS),344
-Social and Information Networks (cs.SI),319
+Social and Information Networks (cs.SI),321
 Systems and Control (eess.SY),314
-Multiagent Systems (cs.MA),292
-Networking and Internet Architecture (cs.NI),290
+Multiagent Systems (cs.MA),294
+Networking and Internet Architecture (cs.NI),291
 "Distributed, Parallel, and Cluster Computing (cs.DC)",287
 Computer Science and Game Theory (cs.GT),251
-Quantum Physics (quant-ph),227
-Databases (cs.DB),196
+Quantum Physics (quant-ph),228
+Databases (cs.DB),198
 Logic in Computer Science (cs.LO),194
-Neurons and Cognition (q-bio.NC),191
-Optimization and Control (math.OC),171
-Information Theory (cs.IT),168
-Hardware Architecture (cs.AR),138
+Neurons and Cognition (q-bio.NC),192
+Optimization and Control (math.OC),172
+Information Theory (cs.IT),170
+Hardware Architecture (cs.AR),139
 Quantitative Methods (q-bio.QM),106
 Biomolecules (q-bio.BM),83
 Methodology (stat.ME),73
@@ -35,8 +35,8 @@ Graphics (cs.GR),72
 Data Structures and Algorithms (cs.DS),68
 Digital Libraries (cs.DL),68
 Multimedia (cs.MM),61
+"Computational Engineering, Finance, and Science (cs.CE)",53
 Programming Languages (cs.PL),53
-"Computational Engineering, Finance, and Science (cs.CE)",52
 Genomics (q-bio.GN),51
 Numerical Analysis (math.NA),50
 Statistical Finance (q-fin.ST),47
