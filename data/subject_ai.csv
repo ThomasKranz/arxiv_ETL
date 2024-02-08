@@ -1,34 +1,34 @@
 subject,frequency
-Machine Learning (cs.LG),14016
-Computer Vision and Pattern Recognition (cs.CV),8456
-Artificial Intelligence (cs.AI),8118
-Computation and Language (cs.CL),7944
-Robotics (cs.RO),2258
-Information Retrieval (cs.IR),1055
-Cryptography and Security (cs.CR),1020
-Human-Computer Interaction (cs.HC),880
-Computers and Society (cs.CY),798
-Software Engineering (cs.SE),706
-Neural and Evolutionary Computing (cs.NE),659
+Machine Learning (cs.LG),14039
+Computer Vision and Pattern Recognition (cs.CV),8465
+Artificial Intelligence (cs.AI),8138
+Computation and Language (cs.CL),7959
+Robotics (cs.RO),2261
+Information Retrieval (cs.IR),1056
+Cryptography and Security (cs.CR),1022
+Human-Computer Interaction (cs.HC),882
+Computers and Society (cs.CY),799
+Software Engineering (cs.SE),708
+Neural and Evolutionary Computing (cs.NE),660
 Sound (cs.SD),632
 Image and Video Processing (eess.IV),467
 Signal Processing (eess.SP),416
-Machine Learning (stat.ML),374
+Machine Learning (stat.ML),376
 Audio and Speech Processing (eess.AS),344
 Social and Information Networks (cs.SI),326
 Systems and Control (eess.SY),314
-Multiagent Systems (cs.MA),296
-Networking and Internet Architecture (cs.NI),292
-"Distributed, Parallel, and Cluster Computing (cs.DC)",287
+Multiagent Systems (cs.MA),297
+Networking and Internet Architecture (cs.NI),293
+"Distributed, Parallel, and Cluster Computing (cs.DC)",288
 Computer Science and Game Theory (cs.GT),251
 Quantum Physics (quant-ph),229
 Databases (cs.DB),198
+Neurons and Cognition (q-bio.NC),194
 Logic in Computer Science (cs.LO),194
-Neurons and Cognition (q-bio.NC),193
 Optimization and Control (math.OC),172
-Information Theory (cs.IT),170
+Information Theory (cs.IT),171
 Hardware Architecture (cs.AR),140
-Quantitative Methods (q-bio.QM),107
+Quantitative Methods (q-bio.QM),108
 Biomolecules (q-bio.BM),84
 Methodology (stat.ME),73
 Graphics (cs.GR),72
@@ -46,8 +46,8 @@ Computational Complexity (cs.CC),41
 Emerging Technologies (cs.ET),40
 Instrumentation and Methods for Astrophysics (astro-ph.IM),37
 General Economics (econ.GN),31
+Medical Physics (physics.med-ph),31
 Computational Physics (physics.comp-ph),31
-Medical Physics (physics.med-ph),30
 Physics and Society (physics.soc-ph),29
 Fluid Dynamics (physics.flu-dyn),27
 Applications (stat.AP),27
@@ -99,11 +99,11 @@ Mathematical Software (cs.MS),4
 Mesoscale and Nanoscale Physics (cond-mat.mes-hall),4
 Physics Education (physics.ed-ph),3
 Operating Systems (cs.OS),3
+Soft Condensed Matter (cond-mat.soft),3
 Biological Physics (physics.bio-ph),3
 Probability (math.PR),3
 Accelerator Physics (physics.acc-ph),3
 Audio and Speech Processing (eess.AS) ,2
-Soft Condensed Matter (cond-mat.soft),2
 Geometric Topology (math.GT),2
 Cellular Automata and Lattice Gases (nlin.CG),2
 Popular Physics (physics.pop-ph),2
