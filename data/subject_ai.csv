@@ -1,23 +1,23 @@
 subject,frequency
-Machine Learning (cs.LG),14039
-Computer Vision and Pattern Recognition (cs.CV),8465
-Artificial Intelligence (cs.AI),8138
-Computation and Language (cs.CL),7959
-Robotics (cs.RO),2261
+Machine Learning (cs.LG),14082
+Computer Vision and Pattern Recognition (cs.CV),8478
+Artificial Intelligence (cs.AI),8153
+Computation and Language (cs.CL),7984
+Robotics (cs.RO),2266
 Information Retrieval (cs.IR),1056
-Cryptography and Security (cs.CR),1022
+Cryptography and Security (cs.CR),1024
 Human-Computer Interaction (cs.HC),882
-Computers and Society (cs.CY),799
-Software Engineering (cs.SE),708
-Neural and Evolutionary Computing (cs.NE),660
+Computers and Society (cs.CY),800
+Software Engineering (cs.SE),714
+Neural and Evolutionary Computing (cs.NE),661
 Sound (cs.SD),632
 Image and Video Processing (eess.IV),467
-Signal Processing (eess.SP),416
-Machine Learning (stat.ML),376
+Signal Processing (eess.SP),417
+Machine Learning (stat.ML),377
 Audio and Speech Processing (eess.AS),344
-Social and Information Networks (cs.SI),326
-Systems and Control (eess.SY),314
-Multiagent Systems (cs.MA),297
+Social and Information Networks (cs.SI),327
+Systems and Control (eess.SY),315
+Multiagent Systems (cs.MA),298
 Networking and Internet Architecture (cs.NI),293
 "Distributed, Parallel, and Cluster Computing (cs.DC)",288
 Computer Science and Game Theory (cs.GT),251
@@ -32,16 +32,16 @@ Quantitative Methods (q-bio.QM),108
 Biomolecules (q-bio.BM),84
 Methodology (stat.ME),73
 Graphics (cs.GR),72
+Digital Libraries (cs.DL),70
 Data Structures and Algorithms (cs.DS),68
-Digital Libraries (cs.DL),68
 Multimedia (cs.MM),61
-Programming Languages (cs.PL),53
 "Computational Engineering, Finance, and Science (cs.CE)",53
+Programming Languages (cs.PL),53
+Numerical Analysis (math.NA),51
 Genomics (q-bio.GN),51
-Numerical Analysis (math.NA),50
 Statistical Finance (q-fin.ST),47
 Atmospheric and Oceanic Physics (physics.ao-ph),46
-Materials Science (cond-mat.mtrl-sci),43
+Materials Science (cond-mat.mtrl-sci),44
 Computational Complexity (cs.CC),41
 Emerging Technologies (cs.ET),40
 Instrumentation and Methods for Astrophysics (astro-ph.IM),37
