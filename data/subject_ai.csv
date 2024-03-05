@@ -1,34 +1,34 @@
 subject,frequency
-Machine Learning (cs.LG),14583
-Computer Vision and Pattern Recognition (cs.CV),8665
-Artificial Intelligence (cs.AI),8457
-Computation and Language (cs.CL),8447
-Robotics (cs.RO),2331
-Information Retrieval (cs.IR),1093
-Cryptography and Security (cs.CR),1083
-Human-Computer Interaction (cs.HC),941
-Computers and Society (cs.CY),817
-Software Engineering (cs.SE),751
-Neural and Evolutionary Computing (cs.NE),676
-Sound (cs.SD),651
-Image and Video Processing (eess.IV),477
+Machine Learning (cs.LG),14626
+Computer Vision and Pattern Recognition (cs.CV),8692
+Computation and Language (cs.CL),8493
+Artificial Intelligence (cs.AI),8481
+Robotics (cs.RO),2341
+Information Retrieval (cs.IR),1100
+Cryptography and Security (cs.CR),1091
+Human-Computer Interaction (cs.HC),947
+Computers and Society (cs.CY),819
+Software Engineering (cs.SE),754
+Neural and Evolutionary Computing (cs.NE),680
+Sound (cs.SD),652
+Image and Video Processing (eess.IV),479
 Signal Processing (eess.SP),438
-Machine Learning (stat.ML),386
-Audio and Speech Processing (eess.AS),348
+Machine Learning (stat.ML),387
+Audio and Speech Processing (eess.AS),351
 Social and Information Networks (cs.SI),341
-Systems and Control (eess.SY),321
-Multiagent Systems (cs.MA),308
-Networking and Internet Architecture (cs.NI),301
+Systems and Control (eess.SY),323
+Multiagent Systems (cs.MA),310
+Networking and Internet Architecture (cs.NI),302
 "Distributed, Parallel, and Cluster Computing (cs.DC)",294
-Computer Science and Game Theory (cs.GT),264
+Computer Science and Game Theory (cs.GT),265
 Quantum Physics (quant-ph),238
-Databases (cs.DB),206
-Neurons and Cognition (q-bio.NC),199
+Databases (cs.DB),210
+Neurons and Cognition (q-bio.NC),200
 Logic in Computer Science (cs.LO),195
 Information Theory (cs.IT),176
-Optimization and Control (math.OC),174
+Optimization and Control (math.OC),175
 Hardware Architecture (cs.AR),144
-Quantitative Methods (q-bio.QM),116
+Quantitative Methods (q-bio.QM),118
 Biomolecules (q-bio.BM),89
 Methodology (stat.ME),75
 Digital Libraries (cs.DL),73
@@ -45,12 +45,12 @@ Materials Science (cond-mat.mtrl-sci),44
 Computational Complexity (cs.CC),42
 Emerging Technologies (cs.ET),42
 Instrumentation and Methods for Astrophysics (astro-ph.IM),38
+General Economics (econ.GN),33
 Computational Physics (physics.comp-ph),33
-General Economics (econ.GN),32
 Medical Physics (physics.med-ph),32
 Physics and Society (physics.soc-ph),31
+Applications (stat.AP),29
 Chemical Physics (physics.chem-ph),29
-Applications (stat.AP),28
 Fluid Dynamics (physics.flu-dyn),28
 Computational Finance (q-fin.CP),25
 Theoretical Economics (econ.TH),22
