@@ -1,23 +1,23 @@
 subject,frequency
-Machine Learning (cs.LG),14674
-Computer Vision and Pattern Recognition (cs.CV),8711
-Artificial Intelligence (cs.AI),8535
-Computation and Language (cs.CL),8531
-Robotics (cs.RO),2347
-Information Retrieval (cs.IR),1104
+Machine Learning (cs.LG),14691
+Computer Vision and Pattern Recognition (cs.CV),8721
+Artificial Intelligence (cs.AI),8569
+Computation and Language (cs.CL),8549
+Robotics (cs.RO),2354
+Information Retrieval (cs.IR),1107
 Cryptography and Security (cs.CR),1095
-Human-Computer Interaction (cs.HC),950
+Human-Computer Interaction (cs.HC),953
 Computers and Society (cs.CY),820
 Software Engineering (cs.SE),756
 Neural and Evolutionary Computing (cs.NE),683
 Sound (cs.SD),655
-Image and Video Processing (eess.IV),481
+Image and Video Processing (eess.IV),482
 Signal Processing (eess.SP),441
-Machine Learning (stat.ML),387
+Machine Learning (stat.ML),388
 Audio and Speech Processing (eess.AS),353
-Social and Information Networks (cs.SI),342
-Systems and Control (eess.SY),324
-Multiagent Systems (cs.MA),310
+Social and Information Networks (cs.SI),343
+Systems and Control (eess.SY),326
+Multiagent Systems (cs.MA),311
 Networking and Internet Architecture (cs.NI),302
 "Distributed, Parallel, and Cluster Computing (cs.DC)",294
 Computer Science and Game Theory (cs.GT),267
@@ -36,7 +36,7 @@ Graphics (cs.GR),72
 Data Structures and Algorithms (cs.DS),71
 Multimedia (cs.MM),68
 Genomics (q-bio.GN),58
-"Computational Engineering, Finance, and Science (cs.CE)",55
+"Computational Engineering, Finance, and Science (cs.CE)",56
 Programming Languages (cs.PL),55
 Numerical Analysis (math.NA),54
 Statistical Finance (q-fin.ST),50
@@ -46,9 +46,9 @@ Emerging Technologies (cs.ET),43
 Computational Complexity (cs.CC),42
 Instrumentation and Methods for Astrophysics (astro-ph.IM),38
 General Economics (econ.GN),34
+Medical Physics (physics.med-ph),34
 Physics and Society (physics.soc-ph),34
 Computational Physics (physics.comp-ph),34
-Medical Physics (physics.med-ph),32
 Applications (stat.AP),29
 Chemical Physics (physics.chem-ph),29
 Fluid Dynamics (physics.flu-dyn),28
@@ -98,9 +98,9 @@ Physics Education (physics.ed-ph),4
 Soft Condensed Matter (cond-mat.soft),4
 Applied Physics (physics.app-ph),4
 Mesoscale and Nanoscale Physics (cond-mat.mes-hall),4
+Biological Physics (physics.bio-ph),4
 Mathematical Software (cs.MS),4
 Probability (math.PR),3
-Biological Physics (physics.bio-ph),3
 Accelerator Physics (physics.acc-ph),3
 General Literature (cs.GL),3
 Operating Systems (cs.OS),3
