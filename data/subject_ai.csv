@@ -1,33 +1,33 @@
 subject,frequency
-Machine Learning (cs.LG),14745
-Computer Vision and Pattern Recognition (cs.CV),8774
-Computation and Language (cs.CL),8607
-Artificial Intelligence (cs.AI),8606
-Robotics (cs.RO),2362
-Information Retrieval (cs.IR),1111
-Cryptography and Security (cs.CR),1106
+Machine Learning (cs.LG),14773
+Computer Vision and Pattern Recognition (cs.CV),8794
+Computation and Language (cs.CL),8624
+Artificial Intelligence (cs.AI),8619
+Robotics (cs.RO),2365
+Information Retrieval (cs.IR),1113
+Cryptography and Security (cs.CR),1107
 Human-Computer Interaction (cs.HC),968
-Computers and Society (cs.CY),828
+Computers and Society (cs.CY),830
 Software Engineering (cs.SE),757
 Neural and Evolutionary Computing (cs.NE),683
 Sound (cs.SD),656
-Image and Video Processing (eess.IV),486
-Signal Processing (eess.SP),443
-Machine Learning (stat.ML),388
+Image and Video Processing (eess.IV),487
+Signal Processing (eess.SP),446
+Machine Learning (stat.ML),389
 Audio and Speech Processing (eess.AS),353
 Social and Information Networks (cs.SI),344
 Systems and Control (eess.SY),327
-Multiagent Systems (cs.MA),311
-Networking and Internet Architecture (cs.NI),302
+Multiagent Systems (cs.MA),313
+Networking and Internet Architecture (cs.NI),303
 "Distributed, Parallel, and Cluster Computing (cs.DC)",294
 Computer Science and Game Theory (cs.GT),268
 Quantum Physics (quant-ph),240
-Databases (cs.DB),210
+Databases (cs.DB),211
 Neurons and Cognition (q-bio.NC),202
 Logic in Computer Science (cs.LO),197
 Information Theory (cs.IT),177
-Optimization and Control (math.OC),176
-Hardware Architecture (cs.AR),146
+Optimization and Control (math.OC),177
+Hardware Architecture (cs.AR),147
 Quantitative Methods (q-bio.QM),120
 Biomolecules (q-bio.BM),89
 Methodology (stat.ME),76
@@ -45,7 +45,7 @@ Materials Science (cond-mat.mtrl-sci),44
 Emerging Technologies (cs.ET),43
 Computational Complexity (cs.CC),42
 Instrumentation and Methods for Astrophysics (astro-ph.IM),38
-Physics and Society (physics.soc-ph),36
+Physics and Society (physics.soc-ph),37
 General Economics (econ.GN),34
 Medical Physics (physics.med-ph),34
 Computational Physics (physics.comp-ph),34
