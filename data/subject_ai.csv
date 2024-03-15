@@ -1,26 +1,26 @@
 subject,frequency
-Machine Learning (cs.LG),14808
-Computer Vision and Pattern Recognition (cs.CV),8819
-Computation and Language (cs.CL),8644
-Artificial Intelligence (cs.AI),8623
-Robotics (cs.RO),2366
-Information Retrieval (cs.IR),1113
-Cryptography and Security (cs.CR),1110
-Human-Computer Interaction (cs.HC),972
+Machine Learning (cs.LG),14827
+Computer Vision and Pattern Recognition (cs.CV),8857
+Computation and Language (cs.CL),8655
+Artificial Intelligence (cs.AI),8634
+Robotics (cs.RO),2370
+Information Retrieval (cs.IR),1114
+Cryptography and Security (cs.CR),1113
+Human-Computer Interaction (cs.HC),979
 Computers and Society (cs.CY),837
-Software Engineering (cs.SE),760
-Neural and Evolutionary Computing (cs.NE),685
-Sound (cs.SD),657
+Software Engineering (cs.SE),763
+Neural and Evolutionary Computing (cs.NE),688
+Sound (cs.SD),658
 Image and Video Processing (eess.IV),489
 Signal Processing (eess.SP),447
-Machine Learning (stat.ML),389
+Machine Learning (stat.ML),390
 Audio and Speech Processing (eess.AS),353
-Social and Information Networks (cs.SI),345
-Systems and Control (eess.SY),328
-Multiagent Systems (cs.MA),314
-Networking and Internet Architecture (cs.NI),304
-"Distributed, Parallel, and Cluster Computing (cs.DC)",295
-Computer Science and Game Theory (cs.GT),271
+Social and Information Networks (cs.SI),346
+Systems and Control (eess.SY),329
+Multiagent Systems (cs.MA),316
+Networking and Internet Architecture (cs.NI),307
+"Distributed, Parallel, and Cluster Computing (cs.DC)",297
+Computer Science and Game Theory (cs.GT),273
 Quantum Physics (quant-ph),240
 Databases (cs.DB),212
 Neurons and Cognition (q-bio.NC),202
@@ -32,7 +32,7 @@ Quantitative Methods (q-bio.QM),120
 Biomolecules (q-bio.BM),90
 Methodology (stat.ME),77
 Digital Libraries (cs.DL),74
-Graphics (cs.GR),72
+Graphics (cs.GR),73
 Data Structures and Algorithms (cs.DS),71
 Multimedia (cs.MM),69
 Genomics (q-bio.GN),58
@@ -44,8 +44,8 @@ Atmospheric and Oceanic Physics (physics.ao-ph),48
 Materials Science (cond-mat.mtrl-sci),44
 Emerging Technologies (cs.ET),43
 Computational Complexity (cs.CC),42
+Physics and Society (physics.soc-ph),38
 Instrumentation and Methods for Astrophysics (astro-ph.IM),38
-Physics and Society (physics.soc-ph),37
 General Economics (econ.GN),34
 Medical Physics (physics.med-ph),34
 Computational Physics (physics.comp-ph),34
