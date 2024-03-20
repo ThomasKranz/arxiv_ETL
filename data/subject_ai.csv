@@ -1,15 +1,15 @@
 subject,frequency
-Machine Learning (cs.LG),14896
-Computer Vision and Pattern Recognition (cs.CV),8924
-Computation and Language (cs.CL),8723
-Artificial Intelligence (cs.AI),8658
-Robotics (cs.RO),2388
-Cryptography and Security (cs.CR),1122
-Information Retrieval (cs.IR),1117
-Human-Computer Interaction (cs.HC),985
-Computers and Society (cs.CY),841
-Software Engineering (cs.SE),767
-Neural and Evolutionary Computing (cs.NE),690
+Machine Learning (cs.LG),14912
+Computer Vision and Pattern Recognition (cs.CV),8942
+Computation and Language (cs.CL),8741
+Artificial Intelligence (cs.AI),8673
+Robotics (cs.RO),2397
+Cryptography and Security (cs.CR),1127
+Information Retrieval (cs.IR),1124
+Human-Computer Interaction (cs.HC),986
+Computers and Society (cs.CY),846
+Software Engineering (cs.SE),768
+Neural and Evolutionary Computing (cs.NE),694
 Sound (cs.SD),665
 Image and Video Processing (eess.IV),492
 Signal Processing (eess.SP),447
@@ -19,13 +19,13 @@ Social and Information Networks (cs.SI),346
 Systems and Control (eess.SY),329
 Multiagent Systems (cs.MA),316
 Networking and Internet Architecture (cs.NI),308
-"Distributed, Parallel, and Cluster Computing (cs.DC)",299
-Computer Science and Game Theory (cs.GT),273
+"Distributed, Parallel, and Cluster Computing (cs.DC)",300
+Computer Science and Game Theory (cs.GT),274
 Quantum Physics (quant-ph),241
 Databases (cs.DB),213
 Neurons and Cognition (q-bio.NC),202
-Logic in Computer Science (cs.LO),198
-Information Theory (cs.IT),178
+Logic in Computer Science (cs.LO),199
+Information Theory (cs.IT),179
 Optimization and Control (math.OC),178
 Hardware Architecture (cs.AR),151
 Quantitative Methods (q-bio.QM),121
@@ -46,14 +46,14 @@ Emerging Technologies (cs.ET),44
 Computational Complexity (cs.CC),42
 Physics and Society (physics.soc-ph),38
 Instrumentation and Methods for Astrophysics (astro-ph.IM),38
-General Economics (econ.GN),34
+General Economics (econ.GN),35
 Medical Physics (physics.med-ph),34
 Computational Physics (physics.comp-ph),34
 Applications (stat.AP),30
 Chemical Physics (physics.chem-ph),29
 Fluid Dynamics (physics.flu-dyn),28
 Computational Finance (q-fin.CP),27
-Theoretical Economics (econ.TH),22
+Theoretical Economics (econ.TH),23
 Trading and Market Microstructure (q-fin.TR),22
 Geophysics (physics.geo-ph),22
 Formal Languages and Automata Theory (cs.FL),20
