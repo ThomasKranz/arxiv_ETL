@@ -1,22 +1,22 @@
 subject,frequency
-Machine Learning (cs.LG),14930
-Computer Vision and Pattern Recognition (cs.CV),8966
-Computation and Language (cs.CL),8753
-Artificial Intelligence (cs.AI),8680
-Robotics (cs.RO),2400
+Machine Learning (cs.LG),14962
+Computer Vision and Pattern Recognition (cs.CV),8984
+Computation and Language (cs.CL),8770
+Artificial Intelligence (cs.AI),8686
+Robotics (cs.RO),2407
 Cryptography and Security (cs.CR),1135
 Information Retrieval (cs.IR),1125
-Human-Computer Interaction (cs.HC),988
+Human-Computer Interaction (cs.HC),993
 Computers and Society (cs.CY),847
-Software Engineering (cs.SE),769
-Neural and Evolutionary Computing (cs.NE),694
+Software Engineering (cs.SE),772
+Neural and Evolutionary Computing (cs.NE),699
 Sound (cs.SD),665
-Image and Video Processing (eess.IV),493
+Image and Video Processing (eess.IV),495
 Signal Processing (eess.SP),447
 Machine Learning (stat.ML),395
-Audio and Speech Processing (eess.AS),354
-Social and Information Networks (cs.SI),348
-Systems and Control (eess.SY),331
+Audio and Speech Processing (eess.AS),355
+Social and Information Networks (cs.SI),349
+Systems and Control (eess.SY),332
 Multiagent Systems (cs.MA),317
 Networking and Internet Architecture (cs.NI),310
 "Distributed, Parallel, and Cluster Computing (cs.DC)",302
@@ -31,8 +31,8 @@ Hardware Architecture (cs.AR),151
 Quantitative Methods (q-bio.QM),121
 Biomolecules (q-bio.BM),91
 Methodology (stat.ME),78
+Digital Libraries (cs.DL),75
 Graphics (cs.GR),74
-Digital Libraries (cs.DL),74
 Data Structures and Algorithms (cs.DS),72
 Multimedia (cs.MM),69
 Genomics (q-bio.GN),59
@@ -63,25 +63,25 @@ Other Computer Science (cs.OH),14
 Populations and Evolution (q-bio.PE),13
 Earth and Planetary Astrophysics (astro-ph.EP),13
 Optics (physics.optics),11
+Disordered Systems and Neural Networks (cond-mat.dis-nn),11
 Cosmology and Nongalactic Astrophysics (astro-ph.CO),10
-Disordered Systems and Neural Networks (cond-mat.dis-nn),10
 Computational Geometry (cs.CG),9
-Combinatorics (math.CO),8
-Econometrics (econ.EM),8
 Astrophysics of Galaxies (astro-ph.GA),8
+Combinatorics (math.CO),8
 History and Overview (math.HO),8
-"Data Analysis, Statistics and Probability (physics.data-an)",7
-High Energy Astrophysical Phenomena (astro-ph.HE),7
-Logic (math.LO),7
-High Energy Physics - Theory (hep-th),7
-Plasma Physics (physics.plasm-ph),7
-Risk Management (q-fin.RM),7
-Symbolic Computation (cs.SC),7
-High Energy Physics - Experiment (hep-ex),7
+Econometrics (econ.EM),8
+Instrumentation and Detectors (physics.ins-det),7
 Solar and Stellar Astrophysics (astro-ph.SR),7
-Category Theory (math.CT),7
+High Energy Astrophysical Phenomena (astro-ph.HE),7
 Molecular Networks (q-bio.MN),7
-Instrumentation and Detectors (physics.ins-det),6
+Category Theory (math.CT),7
+"Data Analysis, Statistics and Probability (physics.data-an)",7
+High Energy Physics - Experiment (hep-ex),7
+Symbolic Computation (cs.SC),7
+Risk Management (q-fin.RM),7
+Plasma Physics (physics.plasm-ph),7
+High Energy Physics - Theory (hep-th),7
+Logic (math.LO),7
 Other Quantitative Biology (q-bio.OT),6
 Performance (cs.PF),6
 Discrete Mathematics (cs.DM),6
