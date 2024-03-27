@@ -1,24 +1,24 @@
 subject,frequency
-Machine Learning (cs.LG),15007
-Computer Vision and Pattern Recognition (cs.CV),9037
-Computation and Language (cs.CL),8813
-Artificial Intelligence (cs.AI),8745
-Robotics (cs.RO),2418
-Cryptography and Security (cs.CR),1139
-Information Retrieval (cs.IR),1129
-Human-Computer Interaction (cs.HC),998
+Machine Learning (cs.LG),15027
+Computer Vision and Pattern Recognition (cs.CV),9052
+Computation and Language (cs.CL),8832
+Artificial Intelligence (cs.AI),8782
+Robotics (cs.RO),2424
+Cryptography and Security (cs.CR),1141
+Information Retrieval (cs.IR),1131
+Human-Computer Interaction (cs.HC),1002
 Computers and Society (cs.CY),886
-Software Engineering (cs.SE),782
-Neural and Evolutionary Computing (cs.NE),703
-Sound (cs.SD),666
-Image and Video Processing (eess.IV),498
+Software Engineering (cs.SE),787
+Neural and Evolutionary Computing (cs.NE),706
+Sound (cs.SD),667
+Image and Video Processing (eess.IV),500
 Signal Processing (eess.SP),449
 Machine Learning (stat.ML),396
 Audio and Speech Processing (eess.AS),357
 Social and Information Networks (cs.SI),351
-Systems and Control (eess.SY),335
+Systems and Control (eess.SY),336
 Multiagent Systems (cs.MA),318
-Networking and Internet Architecture (cs.NI),310
+Networking and Internet Architecture (cs.NI),311
 "Distributed, Parallel, and Cluster Computing (cs.DC)",303
 Computer Science and Game Theory (cs.GT),274
 Quantum Physics (quant-ph),241
@@ -33,7 +33,7 @@ Biomolecules (q-bio.BM),91
 Methodology (stat.ME),78
 Digital Libraries (cs.DL),77
 Graphics (cs.GR),74
-Data Structures and Algorithms (cs.DS),72
+Data Structures and Algorithms (cs.DS),73
 Multimedia (cs.MM),69
 Genomics (q-bio.GN),59
 "Computational Engineering, Finance, and Science (cs.CE)",56
@@ -53,7 +53,7 @@ Applications (stat.AP),30
 Chemical Physics (physics.chem-ph),29
 Fluid Dynamics (physics.flu-dyn),28
 Computational Finance (q-fin.CP),27
-Theoretical Economics (econ.TH),23
+Theoretical Economics (econ.TH),24
 Trading and Market Microstructure (q-fin.TR),22
 Geophysics (physics.geo-ph),22
 Formal Languages and Automata Theory (cs.FL),20
