@@ -1,15 +1,15 @@
 subject,frequency
-Machine Learning (cs.LG),15054
-Computer Vision and Pattern Recognition (cs.CV),9079
-Computation and Language (cs.CL),8847
-Artificial Intelligence (cs.AI),8805
-Robotics (cs.RO),2430
-Cryptography and Security (cs.CR),1144
-Information Retrieval (cs.IR),1133
+Machine Learning (cs.LG),15074
+Computer Vision and Pattern Recognition (cs.CV),9100
+Computation and Language (cs.CL),8869
+Artificial Intelligence (cs.AI),8806
+Robotics (cs.RO),2436
+Cryptography and Security (cs.CR),1147
+Information Retrieval (cs.IR),1136
 Human-Computer Interaction (cs.HC),1002
-Computers and Society (cs.CY),886
-Software Engineering (cs.SE),787
-Neural and Evolutionary Computing (cs.NE),707
+Computers and Society (cs.CY),887
+Software Engineering (cs.SE),790
+Neural and Evolutionary Computing (cs.NE),710
 Sound (cs.SD),667
 Image and Video Processing (eess.IV),500
 Signal Processing (eess.SP),449
@@ -21,17 +21,17 @@ Multiagent Systems (cs.MA),318
 Networking and Internet Architecture (cs.NI),311
 "Distributed, Parallel, and Cluster Computing (cs.DC)",303
 Computer Science and Game Theory (cs.GT),275
-Quantum Physics (quant-ph),241
+Quantum Physics (quant-ph),242
 Databases (cs.DB),215
-Neurons and Cognition (q-bio.NC),205
+Neurons and Cognition (q-bio.NC),206
 Logic in Computer Science (cs.LO),200
-Information Theory (cs.IT),180
+Information Theory (cs.IT),182
 Optimization and Control (math.OC),178
-Hardware Architecture (cs.AR),152
+Hardware Architecture (cs.AR),153
 Quantitative Methods (q-bio.QM),124
 Biomolecules (q-bio.BM),91
+Digital Libraries (cs.DL),78
 Methodology (stat.ME),78
-Digital Libraries (cs.DL),77
 Graphics (cs.GR),74
 Data Structures and Algorithms (cs.DS),74
 Multimedia (cs.MM),69
@@ -40,7 +40,7 @@ Genomics (q-bio.GN),59
 Programming Languages (cs.PL),56
 Numerical Analysis (math.NA),55
 Statistical Finance (q-fin.ST),50
-Atmospheric and Oceanic Physics (physics.ao-ph),48
+Atmospheric and Oceanic Physics (physics.ao-ph),49
 Emerging Technologies (cs.ET),45
 Materials Science (cond-mat.mtrl-sci),44
 Computational Complexity (cs.CC),42
@@ -54,7 +54,7 @@ Chemical Physics (physics.chem-ph),29
 Fluid Dynamics (physics.flu-dyn),28
 Computational Finance (q-fin.CP),27
 Theoretical Economics (econ.TH),24
-Trading and Market Microstructure (q-fin.TR),22
+Trading and Market Microstructure (q-fin.TR),23
 Geophysics (physics.geo-ph),22
 Formal Languages and Automata Theory (cs.FL),20
 Portfolio Management (q-fin.PM),18
