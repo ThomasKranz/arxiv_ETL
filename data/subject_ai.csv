@@ -1,39 +1,39 @@
 subject,frequency
-Machine Learning (cs.LG),15074
-Computer Vision and Pattern Recognition (cs.CV),9100
-Computation and Language (cs.CL),8869
-Artificial Intelligence (cs.AI),8806
-Robotics (cs.RO),2436
+Machine Learning (cs.LG),15092
+Computer Vision and Pattern Recognition (cs.CV),9109
+Computation and Language (cs.CL),8889
+Artificial Intelligence (cs.AI),8826
+Robotics (cs.RO),2439
 Cryptography and Security (cs.CR),1147
 Information Retrieval (cs.IR),1136
 Human-Computer Interaction (cs.HC),1002
-Computers and Society (cs.CY),887
+Computers and Society (cs.CY),888
 Software Engineering (cs.SE),790
 Neural and Evolutionary Computing (cs.NE),710
 Sound (cs.SD),667
-Image and Video Processing (eess.IV),500
+Image and Video Processing (eess.IV),501
 Signal Processing (eess.SP),449
-Machine Learning (stat.ML),396
-Audio and Speech Processing (eess.AS),357
+Machine Learning (stat.ML),397
+Audio and Speech Processing (eess.AS),358
 Social and Information Networks (cs.SI),351
 Systems and Control (eess.SY),336
-Multiagent Systems (cs.MA),318
-Networking and Internet Architecture (cs.NI),311
+Multiagent Systems (cs.MA),319
+Networking and Internet Architecture (cs.NI),314
 "Distributed, Parallel, and Cluster Computing (cs.DC)",303
 Computer Science and Game Theory (cs.GT),275
-Quantum Physics (quant-ph),242
-Databases (cs.DB),215
+Quantum Physics (quant-ph),243
+Databases (cs.DB),216
 Neurons and Cognition (q-bio.NC),206
 Logic in Computer Science (cs.LO),200
 Information Theory (cs.IT),182
 Optimization and Control (math.OC),178
 Hardware Architecture (cs.AR),153
 Quantitative Methods (q-bio.QM),124
-Biomolecules (q-bio.BM),91
+Biomolecules (q-bio.BM),92
 Digital Libraries (cs.DL),78
 Methodology (stat.ME),78
+Data Structures and Algorithms (cs.DS),75
 Graphics (cs.GR),74
-Data Structures and Algorithms (cs.DS),74
 Multimedia (cs.MM),69
 Genomics (q-bio.GN),59
 "Computational Engineering, Finance, and Science (cs.CE)",56
@@ -44,8 +44,8 @@ Atmospheric and Oceanic Physics (physics.ao-ph),49
 Emerging Technologies (cs.ET),45
 Materials Science (cond-mat.mtrl-sci),44
 Computational Complexity (cs.CC),42
+Instrumentation and Methods for Astrophysics (astro-ph.IM),39
 Physics and Society (physics.soc-ph),38
-Instrumentation and Methods for Astrophysics (astro-ph.IM),38
 General Economics (econ.GN),35
 Medical Physics (physics.med-ph),34
 Computational Physics (physics.comp-ph),34
