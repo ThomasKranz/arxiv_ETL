@@ -1,34 +1,34 @@
 subject,frequency
-Machine Learning (cs.LG),15113
-Computer Vision and Pattern Recognition (cs.CV),9145
-Computation and Language (cs.CL),8925
-Artificial Intelligence (cs.AI),8838
-Robotics (cs.RO),2444
-Cryptography and Security (cs.CR),1152
-Information Retrieval (cs.IR),1142
-Human-Computer Interaction (cs.HC),1011
+Machine Learning (cs.LG),15130
+Computer Vision and Pattern Recognition (cs.CV),9168
+Computation and Language (cs.CL),8959
+Artificial Intelligence (cs.AI),8845
+Robotics (cs.RO),2452
+Cryptography and Security (cs.CR),1155
+Information Retrieval (cs.IR),1143
+Human-Computer Interaction (cs.HC),1012
 Computers and Society (cs.CY),889
-Software Engineering (cs.SE),792
-Neural and Evolutionary Computing (cs.NE),711
-Sound (cs.SD),668
-Image and Video Processing (eess.IV),501
+Software Engineering (cs.SE),795
+Neural and Evolutionary Computing (cs.NE),714
+Sound (cs.SD),671
+Image and Video Processing (eess.IV),502
 Signal Processing (eess.SP),449
 Machine Learning (stat.ML),397
-Audio and Speech Processing (eess.AS),359
-Social and Information Networks (cs.SI),351
+Audio and Speech Processing (eess.AS),360
+Social and Information Networks (cs.SI),353
 Systems and Control (eess.SY),337
-Multiagent Systems (cs.MA),320
+Multiagent Systems (cs.MA),322
 Networking and Internet Architecture (cs.NI),314
-"Distributed, Parallel, and Cluster Computing (cs.DC)",304
+"Distributed, Parallel, and Cluster Computing (cs.DC)",306
 Computer Science and Game Theory (cs.GT),276
-Quantum Physics (quant-ph),243
+Quantum Physics (quant-ph),244
 Databases (cs.DB),218
 Neurons and Cognition (q-bio.NC),206
 Logic in Computer Science (cs.LO),200
 Information Theory (cs.IT),182
 Optimization and Control (math.OC),180
 Hardware Architecture (cs.AR),153
-Quantitative Methods (q-bio.QM),124
+Quantitative Methods (q-bio.QM),125
 Biomolecules (q-bio.BM),93
 Digital Libraries (cs.DL),78
 Methodology (stat.ME),78
@@ -51,7 +51,7 @@ Medical Physics (physics.med-ph),34
 Computational Physics (physics.comp-ph),34
 Chemical Physics (physics.chem-ph),31
 Applications (stat.AP),30
-Fluid Dynamics (physics.flu-dyn),28
+Fluid Dynamics (physics.flu-dyn),29
 Computational Finance (q-fin.CP),27
 Theoretical Economics (econ.TH),24
 Trading and Market Microstructure (q-fin.TR),23
@@ -92,12 +92,12 @@ Dynamical Systems (math.DS),6
 Adaptation and Self-Organizing Systems (nlin.AO),6
 Discrete Mathematics (cs.DM),6
 History and Philosophy of Physics (physics.hist-ph),5
+Operating Systems (cs.OS),5
 Soft Condensed Matter (cond-mat.soft),5
 General Relativity and Quantum Cosmology (gr-qc),5
 Biological Physics (physics.bio-ph),5
 Applied Physics (physics.app-ph),5
 Computation (stat.CO),5
-Operating Systems (cs.OS),4
 Physics Education (physics.ed-ph),4
 Mathematical Software (cs.MS),4
 General Literature (cs.GL),4
