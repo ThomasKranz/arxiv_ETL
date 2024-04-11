@@ -1,38 +1,38 @@
 subject,frequency
-Machine Learning (cs.LG),15258
-Computer Vision and Pattern Recognition (cs.CV),9263
-Computation and Language (cs.CL),9066
-Artificial Intelligence (cs.AI),8896
-Robotics (cs.RO),2471
+Machine Learning (cs.LG),15273
+Computer Vision and Pattern Recognition (cs.CV),9277
+Computation and Language (cs.CL),9081
+Artificial Intelligence (cs.AI),8902
+Robotics (cs.RO),2477
 Cryptography and Security (cs.CR),1172
-Information Retrieval (cs.IR),1155
-Human-Computer Interaction (cs.HC),1021
-Computers and Society (cs.CY),894
-Software Engineering (cs.SE),811
-Neural and Evolutionary Computing (cs.NE),723
-Sound (cs.SD),678
+Information Retrieval (cs.IR),1156
+Human-Computer Interaction (cs.HC),1024
+Computers and Society (cs.CY),898
+Software Engineering (cs.SE),812
+Neural and Evolutionary Computing (cs.NE),729
+Sound (cs.SD),679
 Image and Video Processing (eess.IV),507
 Signal Processing (eess.SP),452
 Machine Learning (stat.ML),400
-Audio and Speech Processing (eess.AS),363
+Audio and Speech Processing (eess.AS),364
 Social and Information Networks (cs.SI),354
 Systems and Control (eess.SY),339
 Multiagent Systems (cs.MA),323
 Networking and Internet Architecture (cs.NI),317
 "Distributed, Parallel, and Cluster Computing (cs.DC)",308
-Computer Science and Game Theory (cs.GT),277
+Computer Science and Game Theory (cs.GT),278
 Quantum Physics (quant-ph),245
 Databases (cs.DB),221
 Neurons and Cognition (q-bio.NC),208
 Logic in Computer Science (cs.LO),204
 Information Theory (cs.IT),184
 Optimization and Control (math.OC),183
-Hardware Architecture (cs.AR),154
+Hardware Architecture (cs.AR),155
 Quantitative Methods (q-bio.QM),127
 Biomolecules (q-bio.BM),93
 Methodology (stat.ME),81
 Digital Libraries (cs.DL),78
-Data Structures and Algorithms (cs.DS),75
+Data Structures and Algorithms (cs.DS),76
 Graphics (cs.GR),74
 Multimedia (cs.MM),69
 Genomics (q-bio.GN),59
@@ -41,7 +41,7 @@ Numerical Analysis (math.NA),56
 Programming Languages (cs.PL),56
 Statistical Finance (q-fin.ST),52
 Atmospheric and Oceanic Physics (physics.ao-ph),49
-Emerging Technologies (cs.ET),45
+Emerging Technologies (cs.ET),46
 Materials Science (cond-mat.mtrl-sci),44
 Computational Complexity (cs.CC),43
 Physics and Society (physics.soc-ph),39
