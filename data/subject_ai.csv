@@ -1,26 +1,26 @@
 subject,frequency
-Machine Learning (cs.LG),15293
-Computer Vision and Pattern Recognition (cs.CV),9298
-Computation and Language (cs.CL),9097
-Artificial Intelligence (cs.AI),8914
-Robotics (cs.RO),2483
-Cryptography and Security (cs.CR),1176
-Information Retrieval (cs.IR),1158
+Machine Learning (cs.LG),15311
+Computer Vision and Pattern Recognition (cs.CV),9315
+Computation and Language (cs.CL),9110
+Artificial Intelligence (cs.AI),8919
+Robotics (cs.RO),2487
+Cryptography and Security (cs.CR),1179
+Information Retrieval (cs.IR),1160
 Human-Computer Interaction (cs.HC),1028
 Computers and Society (cs.CY),899
-Software Engineering (cs.SE),815
-Neural and Evolutionary Computing (cs.NE),732
+Software Engineering (cs.SE),817
+Neural and Evolutionary Computing (cs.NE),737
 Sound (cs.SD),680
 Image and Video Processing (eess.IV),510
 Signal Processing (eess.SP),453
-Machine Learning (stat.ML),400
-Audio and Speech Processing (eess.AS),364
-Social and Information Networks (cs.SI),354
+Machine Learning (stat.ML),403
+Audio and Speech Processing (eess.AS),365
+Social and Information Networks (cs.SI),355
 Systems and Control (eess.SY),340
-Multiagent Systems (cs.MA),323
-Networking and Internet Architecture (cs.NI),318
+Multiagent Systems (cs.MA),324
+Networking and Internet Architecture (cs.NI),319
 "Distributed, Parallel, and Cluster Computing (cs.DC)",308
-Computer Science and Game Theory (cs.GT),278
+Computer Science and Game Theory (cs.GT),279
 Quantum Physics (quant-ph),245
 Databases (cs.DB),222
 Neurons and Cognition (q-bio.NC),208
@@ -49,8 +49,8 @@ Instrumentation and Methods for Astrophysics (astro-ph.IM),39
 General Economics (econ.GN),37
 Medical Physics (physics.med-ph),35
 Computational Physics (physics.comp-ph),34
+Fluid Dynamics (physics.flu-dyn),31
 Chemical Physics (physics.chem-ph),31
-Fluid Dynamics (physics.flu-dyn),30
 Applications (stat.AP),30
 Computational Finance (q-fin.CP),28
 Theoretical Economics (econ.TH),24
@@ -74,22 +74,22 @@ Astrophysics of Galaxies (astro-ph.GA),8
 Risk Management (q-fin.RM),8
 Combinatorics (math.CO),8
 Other Quantitative Biology (q-bio.OT),7
-Logic (math.LO),7
+High Energy Physics - Experiment (hep-ex),7
 High Energy Physics - Theory (hep-th),7
+High Energy Physics - Phenomenology (hep-ph),7
 High Energy Astrophysical Phenomena (astro-ph.HE),7
 Symbolic Computation (cs.SC),7
 Performance (cs.PF),7
-Instrumentation and Detectors (physics.ins-det),7
 Molecular Networks (q-bio.MN),7
 Plasma Physics (physics.plasm-ph),7
+Instrumentation and Detectors (physics.ins-det),7
 Category Theory (math.CT),7
-High Energy Physics - Experiment (hep-ex),7
+Logic (math.LO),7
 Dynamical Systems (math.DS),6
 Statistical Mechanics (cond-mat.stat-mech),6
 Adaptation and Self-Organizing Systems (nlin.AO),6
 Algebraic Topology (math.AT),6
 General Finance (q-fin.GN),6
-High Energy Physics - Phenomenology (hep-ph),6
 Discrete Mathematics (cs.DM),6
 History and Philosophy of Physics (physics.hist-ph),5
 Biological Physics (physics.bio-ph),5
