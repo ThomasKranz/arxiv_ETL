@@ -1,24 +1,24 @@
 subject,frequency
-Machine Learning (cs.LG),15392
-Computer Vision and Pattern Recognition (cs.CV),9400
-Computation and Language (cs.CL),9178
-Artificial Intelligence (cs.AI),8993
-Robotics (cs.RO),2504
+Machine Learning (cs.LG),15401
+Computer Vision and Pattern Recognition (cs.CV),9415
+Computation and Language (cs.CL),9192
+Artificial Intelligence (cs.AI),9030
+Robotics (cs.RO),2505
 Cryptography and Security (cs.CR),1190
-Information Retrieval (cs.IR),1172
-Human-Computer Interaction (cs.HC),1035
-Computers and Society (cs.CY),902
+Information Retrieval (cs.IR),1176
+Human-Computer Interaction (cs.HC),1039
+Computers and Society (cs.CY),903
 Software Engineering (cs.SE),820
 Neural and Evolutionary Computing (cs.NE),743
-Sound (cs.SD),684
-Image and Video Processing (eess.IV),511
+Sound (cs.SD),685
+Image and Video Processing (eess.IV),513
 Signal Processing (eess.SP),455
 Machine Learning (stat.ML),404
 Audio and Speech Processing (eess.AS),366
 Social and Information Networks (cs.SI),357
-Systems and Control (eess.SY),341
+Systems and Control (eess.SY),342
 Multiagent Systems (cs.MA),326
-Networking and Internet Architecture (cs.NI),322
+Networking and Internet Architecture (cs.NI),323
 "Distributed, Parallel, and Cluster Computing (cs.DC)",312
 Computer Science and Game Theory (cs.GT),281
 Quantum Physics (quant-ph),246
@@ -36,7 +36,7 @@ Data Structures and Algorithms (cs.DS),76
 Graphics (cs.GR),74
 Multimedia (cs.MM),70
 Genomics (q-bio.GN),59
-"Computational Engineering, Finance, and Science (cs.CE)",57
+"Computational Engineering, Finance, and Science (cs.CE)",58
 Numerical Analysis (math.NA),56
 Programming Languages (cs.PL),56
 Statistical Finance (q-fin.ST),55
@@ -49,8 +49,8 @@ Physics and Society (physics.soc-ph),39
 General Economics (econ.GN),37
 Medical Physics (physics.med-ph),35
 Computational Physics (physics.comp-ph),34
+Chemical Physics (physics.chem-ph),32
 Fluid Dynamics (physics.flu-dyn),31
-Chemical Physics (physics.chem-ph),31
 Applications (stat.AP),30
 Computational Finance (q-fin.CP),29
 Theoretical Economics (econ.TH),24
