@@ -1,26 +1,26 @@
 subject,frequency
-Machine Learning (cs.LG),15575
-Computer Vision and Pattern Recognition (cs.CV),9557
-Computation and Language (cs.CL),9333
-Artificial Intelligence (cs.AI),9110
-Robotics (cs.RO),2528
-Cryptography and Security (cs.CR),1211
-Information Retrieval (cs.IR),1193
-Human-Computer Interaction (cs.HC),1069
-Computers and Society (cs.CY),910
-Software Engineering (cs.SE),842
-Neural and Evolutionary Computing (cs.NE),754
+Machine Learning (cs.LG),15590
+Computer Vision and Pattern Recognition (cs.CV),9572
+Computation and Language (cs.CL),9344
+Artificial Intelligence (cs.AI),9121
+Robotics (cs.RO),2532
+Cryptography and Security (cs.CR),1212
+Information Retrieval (cs.IR),1195
+Human-Computer Interaction (cs.HC),1071
+Computers and Society (cs.CY),914
+Software Engineering (cs.SE),843
+Neural and Evolutionary Computing (cs.NE),755
 Sound (cs.SD),696
-Image and Video Processing (eess.IV),521
+Image and Video Processing (eess.IV),523
 Signal Processing (eess.SP),470
 Machine Learning (stat.ML),405
 Audio and Speech Processing (eess.AS),368
-Social and Information Networks (cs.SI),363
+Social and Information Networks (cs.SI),364
 Systems and Control (eess.SY),347
+Multiagent Systems (cs.MA),330
 Networking and Internet Architecture (cs.NI),330
-Multiagent Systems (cs.MA),329
 "Distributed, Parallel, and Cluster Computing (cs.DC)",316
-Computer Science and Game Theory (cs.GT),283
+Computer Science and Game Theory (cs.GT),284
 Quantum Physics (quant-ph),255
 Databases (cs.DB),224
 Neurons and Cognition (q-bio.NC),212
@@ -29,7 +29,7 @@ Information Theory (cs.IT),184
 Optimization and Control (math.OC),183
 Hardware Architecture (cs.AR),159
 Quantitative Methods (q-bio.QM),131
-Biomolecules (q-bio.BM),95
+Biomolecules (q-bio.BM),96
 Digital Libraries (cs.DL),82
 Methodology (stat.ME),82
 Data Structures and Algorithms (cs.DS),78
@@ -47,7 +47,7 @@ Computational Complexity (cs.CC),43
 Instrumentation and Methods for Astrophysics (astro-ph.IM),40
 Physics and Society (physics.soc-ph),39
 General Economics (econ.GN),38
-Medical Physics (physics.med-ph),35
+Medical Physics (physics.med-ph),36
 Computational Physics (physics.comp-ph),35
 Chemical Physics (physics.chem-ph),32
 Fluid Dynamics (physics.flu-dyn),31
