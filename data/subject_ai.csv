@@ -1,41 +1,41 @@
 subject,frequency
-Machine Learning (cs.LG),15590
-Computer Vision and Pattern Recognition (cs.CV),9572
-Computation and Language (cs.CL),9344
-Artificial Intelligence (cs.AI),9121
-Robotics (cs.RO),2532
-Cryptography and Security (cs.CR),1212
-Information Retrieval (cs.IR),1195
-Human-Computer Interaction (cs.HC),1071
-Computers and Society (cs.CY),914
-Software Engineering (cs.SE),843
+Machine Learning (cs.LG),15603
+Computer Vision and Pattern Recognition (cs.CV),9581
+Computation and Language (cs.CL),9361
+Artificial Intelligence (cs.AI),9135
+Robotics (cs.RO),2534
+Cryptography and Security (cs.CR),1217
+Information Retrieval (cs.IR),1197
+Human-Computer Interaction (cs.HC),1074
+Computers and Society (cs.CY),915
+Software Engineering (cs.SE),844
 Neural and Evolutionary Computing (cs.NE),755
-Sound (cs.SD),696
+Sound (cs.SD),699
 Image and Video Processing (eess.IV),523
 Signal Processing (eess.SP),470
-Machine Learning (stat.ML),405
+Machine Learning (stat.ML),406
 Audio and Speech Processing (eess.AS),368
 Social and Information Networks (cs.SI),364
-Systems and Control (eess.SY),347
+Systems and Control (eess.SY),348
 Multiagent Systems (cs.MA),330
 Networking and Internet Architecture (cs.NI),330
 "Distributed, Parallel, and Cluster Computing (cs.DC)",316
 Computer Science and Game Theory (cs.GT),284
-Quantum Physics (quant-ph),255
-Databases (cs.DB),224
+Quantum Physics (quant-ph),256
+Databases (cs.DB),225
 Neurons and Cognition (q-bio.NC),212
 Logic in Computer Science (cs.LO),207
 Information Theory (cs.IT),184
-Optimization and Control (math.OC),183
+Optimization and Control (math.OC),184
 Hardware Architecture (cs.AR),159
-Quantitative Methods (q-bio.QM),131
+Quantitative Methods (q-bio.QM),132
 Biomolecules (q-bio.BM),96
 Digital Libraries (cs.DL),82
 Methodology (stat.ME),82
 Data Structures and Algorithms (cs.DS),78
 Graphics (cs.GR),78
 Multimedia (cs.MM),73
-"Computational Engineering, Finance, and Science (cs.CE)",61
+"Computational Engineering, Finance, and Science (cs.CE)",62
 Genomics (q-bio.GN),60
 Programming Languages (cs.PL),58
 Numerical Analysis (math.NA),57
