@@ -1,18 +1,18 @@
 subject,frequency
-Machine Learning (cs.LG),15603
-Computer Vision and Pattern Recognition (cs.CV),9581
-Computation and Language (cs.CL),9361
-Artificial Intelligence (cs.AI),9135
-Robotics (cs.RO),2534
-Cryptography and Security (cs.CR),1217
+Machine Learning (cs.LG),15628
+Computer Vision and Pattern Recognition (cs.CV),9602
+Computation and Language (cs.CL),9389
+Artificial Intelligence (cs.AI),9143
+Robotics (cs.RO),2544
+Cryptography and Security (cs.CR),1219
 Information Retrieval (cs.IR),1197
-Human-Computer Interaction (cs.HC),1074
-Computers and Society (cs.CY),915
-Software Engineering (cs.SE),844
-Neural and Evolutionary Computing (cs.NE),755
-Sound (cs.SD),699
+Human-Computer Interaction (cs.HC),1077
+Computers and Society (cs.CY),916
+Software Engineering (cs.SE),845
+Neural and Evolutionary Computing (cs.NE),759
+Sound (cs.SD),701
 Image and Video Processing (eess.IV),523
-Signal Processing (eess.SP),470
+Signal Processing (eess.SP),475
 Machine Learning (stat.ML),406
 Audio and Speech Processing (eess.AS),368
 Social and Information Networks (cs.SI),364
@@ -20,15 +20,15 @@ Systems and Control (eess.SY),348
 Multiagent Systems (cs.MA),330
 Networking and Internet Architecture (cs.NI),330
 "Distributed, Parallel, and Cluster Computing (cs.DC)",316
-Computer Science and Game Theory (cs.GT),284
+Computer Science and Game Theory (cs.GT),285
 Quantum Physics (quant-ph),256
 Databases (cs.DB),225
-Neurons and Cognition (q-bio.NC),212
+Neurons and Cognition (q-bio.NC),213
 Logic in Computer Science (cs.LO),207
 Information Theory (cs.IT),184
 Optimization and Control (math.OC),184
-Hardware Architecture (cs.AR),159
-Quantitative Methods (q-bio.QM),132
+Hardware Architecture (cs.AR),162
+Quantitative Methods (q-bio.QM),134
 Biomolecules (q-bio.BM),96
 Digital Libraries (cs.DL),82
 Methodology (stat.ME),82
