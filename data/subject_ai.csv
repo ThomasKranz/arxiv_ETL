@@ -1,36 +1,36 @@
 subject,frequency
-Machine Learning (cs.LG),15721
-Computer Vision and Pattern Recognition (cs.CV),9646
-Computation and Language (cs.CL),9447
-Artificial Intelligence (cs.AI),9206
-Robotics (cs.RO),2561
-Cryptography and Security (cs.CR),1234
-Information Retrieval (cs.IR),1202
-Human-Computer Interaction (cs.HC),1085
-Computers and Society (cs.CY),920
-Software Engineering (cs.SE),862
-Neural and Evolutionary Computing (cs.NE),766
-Sound (cs.SD),710
-Image and Video Processing (eess.IV),525
+Machine Learning (cs.LG),15749
+Computer Vision and Pattern Recognition (cs.CV),9658
+Computation and Language (cs.CL),9458
+Artificial Intelligence (cs.AI),9238
+Robotics (cs.RO),2565
+Cryptography and Security (cs.CR),1241
+Information Retrieval (cs.IR),1203
+Human-Computer Interaction (cs.HC),1090
+Computers and Society (cs.CY),921
+Software Engineering (cs.SE),865
+Neural and Evolutionary Computing (cs.NE),769
+Sound (cs.SD),711
+Image and Video Processing (eess.IV),526
 Signal Processing (eess.SP),476
 Machine Learning (stat.ML),412
 Audio and Speech Processing (eess.AS),369
-Social and Information Networks (cs.SI),366
+Social and Information Networks (cs.SI),367
 Systems and Control (eess.SY),349
-Networking and Internet Architecture (cs.NI),335
+Networking and Internet Architecture (cs.NI),337
 Multiagent Systems (cs.MA),331
 "Distributed, Parallel, and Cluster Computing (cs.DC)",316
 Computer Science and Game Theory (cs.GT),286
 Quantum Physics (quant-ph),256
-Databases (cs.DB),226
+Databases (cs.DB),227
 Neurons and Cognition (q-bio.NC),213
 Logic in Computer Science (cs.LO),207
-Information Theory (cs.IT),189
+Information Theory (cs.IT),191
 Optimization and Control (math.OC),185
-Hardware Architecture (cs.AR),165
+Hardware Architecture (cs.AR),166
 Quantitative Methods (q-bio.QM),135
 Biomolecules (q-bio.BM),97
-Digital Libraries (cs.DL),84
+Digital Libraries (cs.DL),85
 Methodology (stat.ME),82
 Data Structures and Algorithms (cs.DS),78
 Graphics (cs.GR),78
@@ -44,11 +44,11 @@ Atmospheric and Oceanic Physics (physics.ao-ph),51
 Emerging Technologies (cs.ET),50
 Materials Science (cond-mat.mtrl-sci),45
 Computational Complexity (cs.CC),43
+Physics and Society (physics.soc-ph),41
 Instrumentation and Methods for Astrophysics (astro-ph.IM),40
-Physics and Society (physics.soc-ph),40
 General Economics (econ.GN),38
 Medical Physics (physics.med-ph),37
-Computational Physics (physics.comp-ph),36
+Computational Physics (physics.comp-ph),37
 Chemical Physics (physics.chem-ph),32
 Fluid Dynamics (physics.flu-dyn),31
 Computational Finance (q-fin.CP),31
@@ -59,45 +59,45 @@ Geophysics (physics.geo-ph),23
 Formal Languages and Automata Theory (cs.FL),20
 Portfolio Management (q-fin.PM),18
 Statistics Theory (math.ST),14
+Disordered Systems and Neural Networks (cond-mat.dis-nn),14
 Other Computer Science (cs.OH),14
 Populations and Evolution (q-bio.PE),13
 Earth and Planetary Astrophysics (astro-ph.EP),13
-Disordered Systems and Neural Networks (cond-mat.dis-nn),13
 Optics (physics.optics),13
 Solar and Stellar Astrophysics (astro-ph.SR),10
 Econometrics (econ.EM),10
 Cosmology and Nongalactic Astrophysics (astro-ph.CO),10
-History and Overview (math.HO),9
-Computational Geometry (cs.CG),9
-Risk Management (q-fin.RM),9
 "Data Analysis, Statistics and Probability (physics.data-an)",9
-Astrophysics of Galaxies (astro-ph.GA),8
+Risk Management (q-fin.RM),9
+Computational Geometry (cs.CG),9
+History and Overview (math.HO),9
 Other Quantitative Biology (q-bio.OT),8
 High Energy Astrophysical Phenomena (astro-ph.HE),8
-Logic (math.LO),8
+Astrophysics of Galaxies (astro-ph.GA),8
 High Energy Physics - Experiment (hep-ex),8
+Logic (math.LO),8
 Combinatorics (math.CO),8
+Discrete Mathematics (cs.DM),7
 Category Theory (math.CT),7
 Performance (cs.PF),7
 Plasma Physics (physics.plasm-ph),7
-Discrete Mathematics (cs.DM),7
-High Energy Physics - Phenomenology (hep-ph),7
 High Energy Physics - Theory (hep-th),7
-Symbolic Computation (cs.SC),7
-Instrumentation and Detectors (physics.ins-det),7
-Statistical Mechanics (cond-mat.stat-mech),7
+High Energy Physics - Phenomenology (hep-ph),7
 Molecular Networks (q-bio.MN),7
+Instrumentation and Detectors (physics.ins-det),7
+Symbolic Computation (cs.SC),7
+Statistical Mechanics (cond-mat.stat-mech),7
 General Finance (q-fin.GN),6
 Algebraic Topology (math.AT),6
+Soft Condensed Matter (cond-mat.soft),6
 Adaptation and Self-Organizing Systems (nlin.AO),6
 Dynamical Systems (math.DS),6
-Soft Condensed Matter (cond-mat.soft),6
-Applied Physics (physics.app-ph),5
-Operating Systems (cs.OS),5
-History and Philosophy of Physics (physics.hist-ph),5
 Biological Physics (physics.bio-ph),5
 General Relativity and Quantum Cosmology (gr-qc),5
 Computation (stat.CO),5
+Applied Physics (physics.app-ph),5
+Operating Systems (cs.OS),5
+History and Philosophy of Physics (physics.hist-ph),5
 General Literature (cs.GL),4
 Physics Education (physics.ed-ph),4
 Mathematical Software (cs.MS),4
@@ -107,25 +107,25 @@ Accelerator Physics (physics.acc-ph),3
 Probability (math.PR),3
 General Mathematics (math.GM),3
 Tissues and Organs (q-bio.TO),2
-Geometric Topology (math.GT),2
 Cellular Automata and Lattice Gases (nlin.CG),2
+Geometric Topology (math.GT),2
 Superconductivity (cond-mat.supr-con),2
-Nuclear Experiment (nucl-ex),2
 Audio and Speech Processing (eess.AS) ,2
+Nuclear Experiment (nucl-ex),2
 Popular Physics (physics.pop-ph),2
 Mathematical Finance (q-fin.MF),2
-Analysis of PDEs (math.AP),1
 General Topology (math.GN),1
+Analysis of PDEs (math.AP),1
+General Physics (physics.gen-ph),1
 Subcellular Processes (q-bio.SC),1
 Strongly Correlated Electrons (cond-mat.str-el),1
-General Physics (physics.gen-ph),1
-Mathematical Physics (math-ph),1
-Materials Science (cond-mat.mtrl-sci) ,1
 Differential Geometry (math.DG),1
+Materials Science (cond-mat.mtrl-sci) ,1
+Mathematical Physics (math-ph),1
 Nuclear Theory (nucl-th),1
-Pattern Formation and Solitons (nlin.PS),1
+Other Statistics (stat.OT) ,1
 "Computational Engineering, Finance, and Science (cs.CE) ",1
 Rings and Algebras (math.RA),1
 Representation Theory (math.RT),1
 Classical Analysis and ODEs (math.CA),1
-Other Statistics (stat.OT) ,1
+Pattern Formation and Solitons (nlin.PS),1
