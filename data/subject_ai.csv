@@ -1,22 +1,22 @@
 subject,frequency
-Machine Learning (cs.LG),15761
-Computer Vision and Pattern Recognition (cs.CV),9670
-Computation and Language (cs.CL),9470
-Artificial Intelligence (cs.AI),9240
-Robotics (cs.RO),2569
-Cryptography and Security (cs.CR),1243
+Machine Learning (cs.LG),15783
+Computer Vision and Pattern Recognition (cs.CV),9677
+Computation and Language (cs.CL),9480
+Artificial Intelligence (cs.AI),9252
+Robotics (cs.RO),2570
+Cryptography and Security (cs.CR),1245
 Information Retrieval (cs.IR),1204
-Human-Computer Interaction (cs.HC),1094
-Computers and Society (cs.CY),921
-Software Engineering (cs.SE),866
+Human-Computer Interaction (cs.HC),1096
+Computers and Society (cs.CY),923
+Software Engineering (cs.SE),867
 Neural and Evolutionary Computing (cs.NE),769
-Sound (cs.SD),712
+Sound (cs.SD),714
 Image and Video Processing (eess.IV),527
-Signal Processing (eess.SP),476
+Signal Processing (eess.SP),477
 Machine Learning (stat.ML),412
 Audio and Speech Processing (eess.AS),369
 Social and Information Networks (cs.SI),368
-Systems and Control (eess.SY),349
+Systems and Control (eess.SY),350
 Networking and Internet Architecture (cs.NI),337
 Multiagent Systems (cs.MA),331
 "Distributed, Parallel, and Cluster Computing (cs.DC)",318
@@ -26,9 +26,9 @@ Databases (cs.DB),227
 Neurons and Cognition (q-bio.NC),213
 Logic in Computer Science (cs.LO),207
 Information Theory (cs.IT),191
-Optimization and Control (math.OC),185
+Optimization and Control (math.OC),186
 Hardware Architecture (cs.AR),167
-Quantitative Methods (q-bio.QM),135
+Quantitative Methods (q-bio.QM),136
 Biomolecules (q-bio.BM),97
 Digital Libraries (cs.DL),85
 Methodology (stat.ME),82
@@ -40,10 +40,10 @@ Genomics (q-bio.GN),60
 Programming Languages (cs.PL),59
 Numerical Analysis (math.NA),57
 Statistical Finance (q-fin.ST),55
-Atmospheric and Oceanic Physics (physics.ao-ph),51
+Atmospheric and Oceanic Physics (physics.ao-ph),52
 Emerging Technologies (cs.ET),50
 Materials Science (cond-mat.mtrl-sci),45
-Computational Complexity (cs.CC),43
+Computational Complexity (cs.CC),44
 Physics and Society (physics.soc-ph),41
 Instrumentation and Methods for Astrophysics (astro-ph.IM),40
 General Economics (econ.GN),38
