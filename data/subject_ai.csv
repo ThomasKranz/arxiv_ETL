@@ -1,18 +1,18 @@
 subject,frequency
-Machine Learning (cs.LG),15830
-Computer Vision and Pattern Recognition (cs.CV),9695
-Computation and Language (cs.CL),9531
-Artificial Intelligence (cs.AI),9263
-Robotics (cs.RO),2581
-Cryptography and Security (cs.CR),1248
-Information Retrieval (cs.IR),1208
-Human-Computer Interaction (cs.HC),1098
-Computers and Society (cs.CY),923
-Software Engineering (cs.SE),868
-Neural and Evolutionary Computing (cs.NE),770
-Sound (cs.SD),716
-Image and Video Processing (eess.IV),527
-Signal Processing (eess.SP),477
+Machine Learning (cs.LG),15854
+Computer Vision and Pattern Recognition (cs.CV),9706
+Computation and Language (cs.CL),9542
+Artificial Intelligence (cs.AI),9264
+Robotics (cs.RO),2584
+Cryptography and Security (cs.CR),1249
+Information Retrieval (cs.IR),1209
+Human-Computer Interaction (cs.HC),1106
+Computers and Society (cs.CY),924
+Software Engineering (cs.SE),869
+Neural and Evolutionary Computing (cs.NE),771
+Sound (cs.SD),717
+Image and Video Processing (eess.IV),530
+Signal Processing (eess.SP),478
 Machine Learning (stat.ML),413
 Audio and Speech Processing (eess.AS),369
 Social and Information Networks (cs.SI),368
@@ -21,12 +21,12 @@ Networking and Internet Architecture (cs.NI),338
 Multiagent Systems (cs.MA),332
 "Distributed, Parallel, and Cluster Computing (cs.DC)",318
 Computer Science and Game Theory (cs.GT),288
-Quantum Physics (quant-ph),258
+Quantum Physics (quant-ph),259
 Databases (cs.DB),227
 Neurons and Cognition (q-bio.NC),215
 Logic in Computer Science (cs.LO),207
 Information Theory (cs.IT),191
-Optimization and Control (math.OC),186
+Optimization and Control (math.OC),187
 Hardware Architecture (cs.AR),168
 Quantitative Methods (q-bio.QM),136
 Biomolecules (q-bio.BM),104
@@ -41,7 +41,7 @@ Programming Languages (cs.PL),60
 Numerical Analysis (math.NA),57
 Statistical Finance (q-fin.ST),55
 Atmospheric and Oceanic Physics (physics.ao-ph),52
-Emerging Technologies (cs.ET),50
+Emerging Technologies (cs.ET),51
 Materials Science (cond-mat.mtrl-sci),46
 Computational Complexity (cs.CC),44
 Physics and Society (physics.soc-ph),42
@@ -106,10 +106,10 @@ Space Physics (physics.space-ph),3
 Accelerator Physics (physics.acc-ph),3
 Probability (math.PR),3
 General Mathematics (math.GM),3
+Mathematical Finance (q-fin.MF),3
 Audio and Speech Processing (eess.AS) ,2
 Tissues and Organs (q-bio.TO),2
 Superconductivity (cond-mat.supr-con),2
-Mathematical Finance (q-fin.MF),2
 Popular Physics (physics.pop-ph),2
 Nuclear Experiment (nucl-ex),2
 Differential Geometry (math.DG),2
